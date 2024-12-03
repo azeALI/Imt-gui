@@ -3,11 +3,12 @@ import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
+import javax.swing.plaf.LayerUI;
 
-public class Imt extends JFrame {
+public class ModePanel extends JPanel {
 
-  JPanel ModePanel = new JPanel();
   JButton next = new JButton("NEXT");
+  JButton back = new JButton("BACK");
   JLabel chosen = new JLabel("Seçilən : ");
   JButton Mode1 = new JButton("30s");
   JButton Mode2 = new JButton("50s");
@@ -15,15 +16,13 @@ public class Imt extends JFrame {
   Character mode = '1';
 
   public Imt() {
-    this.setSize(1280, 720);
-    this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    this.setResizable(false);
     Color c = new Color(30, 200, 200);
     Font f = new Font("JetBrains Mono Bold", Font.PLAIN, 20);
 
-    ModePanel.setLayout(null);
-    ModePanel.setBackground(new Color(50, 50, 50));
-    next.setBounds(879, 530, 300, 100);
+    this.setLayout(null);
+    this.setBackground(new Color(50, 50, 50));
+
+    next.setBounds(935, 595, 200, 50);
     next.setBackground(new Color(30, 200, 100));
     next.setFont(f);
     next.setFocusable(false);
@@ -34,6 +33,20 @@ public class Imt extends JFrame {
       public void actionPerformed(ActionEvent e) {
       }
     });
+
+    back.setBounds(140, 75, 200, 50);
+
+    back.setBackground(Color.red);
+    back.setFont(f);
+    back.setFocusable(false);
+    back.addActionListener(new ActionListener() {
+
+      @Override
+      public void actionPerformed(ActionEvent e){
+        this.setVisible(false);
+      }
+});
+
     chosen.setBounds(486, 530, 300, 200);
     chosen.setFont(f);
     chosen.setFocusable(false);
@@ -47,7 +60,7 @@ public class Imt extends JFrame {
       @Override
       public void actionPerformed(ActionEvent e) {
         mode = '1';
-        chosen.setText("Seçilən : " + Character.toString(mode));
+        chosen.setText("Seçilən : " + "30 SUAL");
         next.setVisible(true);
       }
     });
@@ -58,7 +71,7 @@ public class Imt extends JFrame {
       @Override
       public void actionPerformed(ActionEvent e) {
         mode = '2';
-        chosen.setText("Seçilən : " + Character.toString(mode));
+        chosen.setText("Seçilən : " + "50 SUAL");
         next.setVisible(true);
       }
     });
@@ -69,7 +82,7 @@ public class Imt extends JFrame {
       @Override
       public void actionPerformed(ActionEvent e) {
         mode = '3';
-        chosen.setText("Seçilən : " + Character.toString(mode));
+        chosen.setText("Seçilən : " + "ARALIQ");
         next.setVisible(true);
       }
     });
@@ -77,14 +90,13 @@ public class Imt extends JFrame {
     Mode1.setBounds(93, 210, 300, 300);
     Mode2.setBounds(486, 210, 300, 300);
     Mode3.setBounds(879, 210, 300, 300);
-    ModePanel.add(chosen);
-    ModePanel.add(Mode1);
-    ModePanel.add(Mode2);
-    ModePanel.add(Mode3);
-    ModePanel.add(next);
-    this.add(ModePanel);
-    this.setVisible(true);
 
+
+    this.add(chosen);
+    this.add(Mode1);
+    this.add(Mode2);
+    this.add(Mode3);
+    this.add(next);
   }
 
 }
