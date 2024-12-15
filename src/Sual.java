@@ -1,8 +1,6 @@
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -21,7 +19,7 @@ public class Sual extends JPanel {
   JRadioButton[] ticks = new JRadioButton[5];
   ButtonGroup bg = new ButtonGroup();
   int correctAnswer;
-  int currentAnswer = 0;
+  int currentAnswer = -1;
   boolean isAnswered = false;
   Font f = new Font("Times New Roman", Font.PLAIN, 20);
   Color c = new Color(50, 50, 50);
@@ -67,31 +65,7 @@ public class Sual extends JPanel {
 
     mixAnswers();
 
-    for (int e = 0; e < 5; ++e) {
-      if (ans[e].contains("√")) {
-        this.correctAnswer = e + 1;
-        break;
-      }
-    }
 
-    for (int i = 0; i < 5; i++) {
-      JRadioButton jb = ticks[i];
-      int j = i;
-      answers[i].addActionListener(new ActionListener() {
-        @Override
-        public void actionPerformed(ActionEvent e) {
-          if (jb.isSelected()) {
-            bg.clearSelection();
-            isAnswered = false;
-            currentAnswer = 0;
-          } else {
-            jb.setSelected(true);
-            isAnswered = true;
-            currentAnswer = j;
-          }
-        }
-      });
-    }
   }
 
   public void mixAnswers() {

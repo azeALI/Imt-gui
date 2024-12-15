@@ -6,8 +6,7 @@ import javax.swing.*;
 
 public class ModePanel extends JPanel {
 
-  JButton next = new JButton("NEXT");
-  JLabel chosen = new JLabel("Seçilən : ");
+  JButton next = new JButton("SONRAKI");
   JLabel hyphen = new JLabel("-");
   JTextField s1 = new JTextField();
   JTextField s2 = new JTextField();
@@ -16,7 +15,8 @@ public class ModePanel extends JPanel {
   JButton Mode2 = new JButton("50s");
   JButton Mode3 = new JButton("Aralıq");
 
-      Sual[] ALL = Exam.prepareQuestionArray();
+  Sual[] ALL = Exam.prepareQuestionArray();
+  JLabel chosen = new JLabel(ALL.length + " sual, Seçilən : ");
 
   Character mode = '1';
   int start = 1;
@@ -25,7 +25,7 @@ public class ModePanel extends JPanel {
 
   public ModePanel() throws Exception {
     Color c = new Color(30, 200, 200);
-    Font f = new Font("Times New Roman", Font.PLAIN, 20);
+    Font f = new Font("Times New Roman", Font.PLAIN, 30);
     this.setLayout(null);
     this.setBackground(new Color(50, 50, 50));
 
@@ -60,7 +60,7 @@ public class ModePanel extends JPanel {
       @Override
       public void actionPerformed(ActionEvent e) {
         mode = '1';
-        chosen.setText("Seçilən : " + "30 SUAL");
+        chosen.setText(ALL.length + " sual, Seçilən : " + "30 SUAL");
         next.setVisible(true);
         s1.setVisible(false);
         s2.setVisible(false);
@@ -79,7 +79,7 @@ public class ModePanel extends JPanel {
       @Override
       public void actionPerformed(ActionEvent e) {
         mode = '2';
-        chosen.setText("Seçilən : " + "50 SUAL");
+        chosen.setText(ALL.length + " sual, Seçilən : " + "50 SUAL");
         next.setVisible(true);
         s1.setVisible(false);
         s2.setVisible(false);
@@ -98,7 +98,7 @@ public class ModePanel extends JPanel {
       @Override
       public void actionPerformed(ActionEvent e) {
         mode = '3';
-        chosen.setText("Seçilən : " + "ARALIQ");
+        chosen.setText(ALL.length + " sual, Seçilən : " + "ARALIQ");
         s1.setVisible(true);
         s2.setVisible(true);
         hyphen.setVisible(true);

@@ -3,6 +3,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
 public class Prog extends JFrame {
   ModePanel modePanel = new ModePanel();
@@ -18,14 +19,19 @@ public class Prog extends JFrame {
       @Override
       public void actionPerformed(ActionEvent e) {
         if (modePanel.mode == '3') {
-          for (Character c : modePanel.s1.getText().toCharArray()) {
+          if(modePanel.s1.getText().equals("") || modePanel.s2.getText().equals("")){
+            modePanel.hyphen.setText("!");
+            modePanel.hyphen.setForeground(Color.red);
+            return;
+          }
+          for (char c : modePanel.s1.getText().toCharArray()) {
             if (Character.isLetter(c)) {
               modePanel.hyphen.setText("!");
               modePanel.hyphen.setForeground(Color.red);
               return;
             }
           }
-          for (Character c : modePanel.s2.getText().toCharArray()) {
+          for (char c : modePanel.s2.getText().toCharArray()) {
             if (Character.isLetter(c)) {
               modePanel.hyphen.setText("!");
               modePanel.hyphen.setForeground(Color.red);
@@ -74,14 +80,18 @@ public class Prog extends JFrame {
     quizPanel.back.addActionListener(new ActionListener() {
       @Override
       public void actionPerformed(ActionEvent e) {
-        Prog.this.remove(quizPanel);
-        Prog.this.add(modePanel);
-        modePanel.start = 1;
-        modePanel.end = modePanel.ALL.length;
-        modePanel.chosen.setText("Seçilən : ");
-        modePanel.next.setVisible(false);
-        Prog.this.revalidate();
-        Prog.this.repaint();
+        if (JOptionPane.showOptionDialog(null, "Bağlamaq istədiyinə əminsən?", "Quit Quiz", JOptionPane.YES_NO_OPTION,
+            JOptionPane.INFORMATION_MESSAGE, null, null, 0) == 0) {
+
+          Prog.this.remove(quizPanel);
+          Prog.this.add(modePanel);
+          modePanel.start = 1;
+          modePanel.end = modePanel.ALL.length;
+          modePanel.chosen.setText(modePanel.ALL.length +" sual , Seçilən : ");
+          modePanel.next.setVisible(false);
+          Prog.this.revalidate();
+          Prog.this.repaint();
+        }
       }
     });
 
