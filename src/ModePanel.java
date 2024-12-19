@@ -23,9 +23,9 @@ public class ModePanel extends JPanel {
   int end = ALL.length;
   int count = 30;
 
-  public ModePanel() throws Exception {
     Color c = new Color(30, 200, 200);
-    Font f = new Font("Times New Roman", Font.PLAIN, 30);
+    Font f = new Font("Times New Roman", Font.PLAIN, 20);
+  public ModePanel() throws Exception {
     this.setLayout(null);
     this.setBackground(new Color(50, 50, 50));
 
