@@ -1,0 +1,3361 @@
+560
+1. Avtomatik İdarəetmə Sistemi (AİS) nə üçün yaradılır?
+• Avadanlıq və qurğuların kalibrasiyası üçün
+√ Texniki qurğuların vəziyyətini qeydə almaq və müşahidə etmək
+• Texniki qurğuların təmiri üçün
+• Qeyd edilənlərdən heç biri
+• Məlumatları göndərmək üçün
+2. Avtomatik İdarəetmə Sistemləri barədə verilənlərdən hansı doğrudur?
+• Avtomatik idarəetmə sistemlərində idarəolunan obyektin parametrləri kənardan verilir
+√ Avtomatik idarəetmə sistemlərində idarəolunan obyektin parametrləri sistemin daxilində formalaşır
+• Avtomatik idarəetmə sistemində obyektin parametrləri dəyişdirilə bilmir
+• Qeyd edilənlərdən heç biri
+• Avtomatik idarəetmə sistemləri və Avtomatik tənzimləmə sistemləri arasında heç bir fərq yoxdur
+3. Avtomatik tənzimləmə sistemləri barədə verilənlərdən hansı doğrudur?
+• Avtomatik tənzimləmə sistemlərində tənzimlənən obyektin parametrləri sistemin daxilində olur
+√ Avtomatik tənzimləmə sistemlərində tənzimlənən obyektin parametrləri kənardan verilir
+• Avtomatik tənzimləmə sistemində obyektin parametrləri dəyişdirilə bilmir
+• Qeyd edilənlərdən heç biri
+• Avtomatik tənzimləmə sistemləri ilə avtomatik idarəetmə sistemləri arasında heç bir fərq yoxdur
+4. İstehsalatda sabit temperaturu saxlamaq üçün hansı alqoritmdən istifadə olunur?
+• PD (Proportional, Derivative)
+√ PID (Proportional, Integral, Derivative)
+• PLC (Programable Logic Controller)
+• Qeyd edilənlərdən heç biri
+• PI (Proportional, Integral)
+5. İstehsalat proseslərinin monitorinqi və nəzarəti üçün sənayedə hansı texnologiyadan istifadə edilir?
+• PLC
+√ HMI və ya SCADA
+• Məhdudlaşdırıcı açarlar
+• Düymələr
+• Sensorlar
+6. "Özü təsir edən", "özü - özünə hərəkət edən sözləri" hansı elm sahəsi ilə əlaqəlidir?
+• Elektronika
+√ Avtomatika
+• Elektrotexnika
+• Hidravlika
+• Mexanika
+7. Qismən avtomatlaşdırma dedikdə nə nəzərdə tutulur?
+• İşçi əməyinin az, intensiv maşınların çox olduğu sistemlər
+√ İşçi əməyinin çox, intensiv maşınların az olduğu sistemlər
+• İşçilər və maşınların hər ikisinin çox olduğu sistemlər
+• Qeyd edilənlərdən heç biri
+• Əsas və köməkçi proseslərinin avtomatlaşdırııldığı sistemlər
+8. Aktuatorlar, müasir avtomatik proseslərin idarəolunmasında nə məqsədlə istifadə olunur?
+• Obyektləri təyin etmək üçün
+√ İdarəetmə əmrlərini icra etmək
+• Prosesləri proqramlaşdırmaq üçün
+• Məlumatları toplamaq üçün
+• Prosesləri izləmək və monitorinq etmək
+9. Avtomatik tənzimləmə sistemi ilə avtomatik idarəetmə sisteminin əsas fərqi nədir?
+• Eynidir, heç bir fərqi yoxdur
+√ Tənzimləmə sistemlərində tənzimləmə obyektinin parametrləri kənardan verilir, idarəetmə sistemində isə sistemin öz daxilində formalaşır
+• Tənzimləmə sistemidə obyektin parametrləri dəyişdirilə bilmir, idarəetmə sistemində isə dəyişdirilməsi mümkündür
+• Qeyd edilənlərdən heç biri
+• Tənzimləmə sistemlərində obyektin parametrləri öz daxilində formalaşır, idarəetmə sistemində isə parametrlər xaricdən verilir
+10. İstehsalat proseslərinin avtomatlaşdırılmasının üstün cəhətlərindən biri yalnış verilmişdir
+• Məhsuldarlığın artırılması
+√ İşçi sayının çoxalması
+• Keyfiyyətin artırılması
+• İstehsalat prosesinin izlənilməsi
+• Zay və itki miqdarının minimuma endirilməsi
+11. DCS nədir?
+• Proqramlaşdırılmış məntiqi kontrollerdir
+√ Paylanmış idarəetmə sistemidir
+• SCADA sistemidir
+• Sənaye kompüteridir
+• İnsan Maşın İnterfeysidir
+12. İdarəetmə (kontrol) sistemləri əsas hansı məqsədlə istifadə olunur?
+• Keyfiyyətin artırılması
+√ Proses parametrlərinin nəzarətdə saxlanılması
+• Sərf olunan enerjinin azaltılması
+• Qeyd edilənlərdən heç biri
+• İnsan resurslarının idarə olunması
+13. Modbus, Profibus kimi kommunikasiya protokolları hansı səviyyənin əsasını təşkil edir?
+• İdarəetmə səviyyəsi
+√ Fiziki Səviyyə
+• Planlama Səviyyəsi
+• Yüksək idarəetmə səviyyəsi (ERP)
+• Nəzarət Səviyyəsi
+14. Aşağıdakılardan hansı sənaye avtomatlaşdırılması piramidasının ən yuxarı səviyyəsində yerləşir?
+• SCADA
+√ ERP
+• Sensorlar
+• Sənaye kompüteri
+• PLC
+15. Nəzarət ölçü cihazları avtomatlaşdırılmış sistemin piramidasının hansı səviyyəsində yerləşir?
+• İkinci səviyyə
+√ Ən aşağı səviyyə
+• Ən yuxarı səviyyə
+• Orta Səviyyə
+• Üçüncü səviyyə
+16. Kontrollerlər, müasir avtomatik proseslərin idarəolunmasında nə məqsədlə istifadə olunur?
+• Məlumatları toplamaq üçün
+• Obyektləri təyin etmək üçün
+• İnsanla maşın arasında interfeys yaratmaq üçün
+√ Proqramlaşdırma və qərar qəbuletmə üçün
+• Qeyd edilənlərdən heç biri
+17. Aşağıdakılardan hansı avtomatlaşdırma sistemində piramidanın 3 cü səviyyəsində yerləşir?
+• Proqramlaşdırılmış məntiqi kontrollerlər
+√ SCADA nəzarət sistemləri
+• Nəzarət ölçü cihazları
+• Sensorlar, məhdudlaşdırıcı açarlar
+• Elektrik mühərrikləri
+18. İstehsal proseslərinin insan iştirakı olmadan idarə etmək üçün üsullar və texniki vasitələri araşdıran elm sahəsi necə adlanır?
+• İnformatika
+√ Avtomatika
+• Mexatronika
+• Elektronika
+• Mexanika
+19. Aşağıdakılardan hansı avtomatlaşdırma sistemində piramidanın ikinci səviyyəsində yerləşir?
+• Nəzarət ölçü cihazları
+√ Proqramlaşdırılmış məntiqi kontrollerlər
+• SCADA sistemləri
+• Sensorlar, məhdudlaşdırıcı açarlar
+• Elektrik motorları
+20. Aşağıdakılardan hansı avtomatlaşdırma sistemində piramidanın ən aşağı səviyyəsində yerləşir?
+• Proqramlaşdırılmış məntiqi kontrollerlər
+√ Nəzarət ölçü cihazları
+• Sənaye komputerləri
+• SCADA sistemləri
+• İnsan Maşın İnterfeysi
+21. Robotlar əsasən hansı sahələrdə tətbiq olunur?
+• Mədəniyyət, musiqi, ictimai sahələr
+√ Sənaye, tibb, kənd təsərrüfatı
+• Məişət, incəsənət, Elm
+• Meşə sənayesi, Kənd təsərrüfatı və Turizm
+• Turizm, restoranlar, idman
+22. Avtomatik sistemlərin əsas üstünlükləri hansılardır?
+• Rəqəmsal keyfiyyət, analiz apara bilmə qabiliyyəti
+√ Yüksək sürət, dəqiqlik, təhlükəsizlik
+• İnsan resurslarını idarə edə bilməsi
+• Qeyd edilənlərdən heç biri
+• ucuz başa gəlməsi
+23. Tam avtomatlaşdırma dedikdə nə nəzərdə tutulur?
+• İşi əməyinin çox, maşınların az olduğu sistemlər
+• Qeyd edilənlərdən heç biri
+• Əsas və köməkçi proseslərinin avtomatlaşdırıldığı, idarəetmə sisteminin özünün isə avtomatlaşdırılmadığı sistem
+√ İntensiv maşınların, robotların kütləvi iştirak etdiyi sistem
+• İnsan və maşının bərabər işlədiyi sistemlər
+24. Avtomatlaşdırma texnologiyası əsas hansı sahələrdə tətbiq olunur?
+• Təsərrüfat, məişət və ictimai sahələrdə
+• Elmi - texniki, ictimai, sosial sahələr
+• Məişət, turizm və Mədəniyyət sənayesində
+√ Sənaye, energetika, neft - kimya
+• Elm və mədəniyyət sahələri, meşə sənayesi
+25. Müasir avtomatik prosesləri həyata keçirmək və idarəetmək üçün hansı komponentlər lazımdır?
+• Qeyd edilənlərdən heç biri
+• Sürücülər, motorlar, texniki şaqullar
+• Mühərriklər, nəzarət panelləri, maşınlar
+• Kommutatorlar, relelər, transmissiya valları
+√ Sensorlar, aktuatorlar, kontrollerlər
+26. Avtomatik proseslərdə idarəetmə əmrləri aşağıdakılardan hansı ilə icra olunur?
+• Məhdudlaşdırıcı açarlar
+• Qeyd edilənlərdən heç biri
+√ Aktuatorlar
+• Düymələr
+• Sensorlar
+27. Sistemin vəziyyətini aşkar etmək və onu elektirk siqnalına çevirmək üçün hansı komponentlər istifadə olunur?
+• Düymələr
+• Kontrollerlər
+• Aktuatorlar
+• Selenoid valflar
+√ Sensorlar
+28. Hansı avtomatlaşdırma növündə əsas və köməkçi avadanlıqlarla yanaşı idarəetmə sisteminin özü də avtomatlaşdırılır?
+√ Tam avtomatlaşdırma
+• Qismən avtomatlaşdırma
+• Avtomatlaşdırılmamış
+• Yarı avtomatlaşdırma
+• Qismən və yarı avtomatlaşdırma
+29. Avtomatlaşdırmanın hansı növündə insan əməyinə az ehtiyac duyulur, intensiv maşınların istifadəsi çox olur?
+• Tam Avtomatlaşdırılmış sistem
+• Qeyd edilənlərdən heç biri
+• Qismən avtomatlaşdırılmış sistem
+• Avtomatlaşdırılmamış sistem
+√ Yarı avtomatlaşdırılmış sistem
+30. Sənayedə avtomatlaşdırma texnologiyası tarixini haradan götürür?
+• 1837-ci ildə Cozef Henrinin rele (relay) adlı elektromaqnit açarından
+• 1820-ci ildə Danimarkalı fizik Oersted elektromaqniti kəşf etməsindən
+• 1834-cü ildə Tomas Davenportun sabit cərəyan mühərrikindən
+√ 1769 - cu ildə Ceyms Vattın buxar mühərrikindən
+• 1913-cü ildə Henri Ford məşhur Model T üçün ilk montaj xəttindən
+31. Avtomatlaşdırmanın əsas məqsədi nədir?
+√ Əmək məsuldarlığını artırmaq
+• İstehsalat avadanlıqlarını sınaqdan keçirmək
+• Prosesdəki işçilərin sayını artırmaq
+• Maya dəyərinin artırılması
+• İstehsalatı yavaşlatmaq
+32. Aşağıdakılardan hansı kütləvi istehsalın əsasını qoydu?
+• Elektromaqnit açarı
+• Buxar turbini
+• Elektrik mühərriklərinin istifadəsi
+• Dinamonun kəşfi
+√ T Montaj xətti
+33. İlk buxar maşınları hansı məqsədlər üçün istifadə edilirdi?
+• Qeyd edilənlərdən heç biri
+• Təhlükəsizlik məqsədləri üçün
+• Hava təminatı üçün
+• Yük daşımaq üçün
+√ Suyu boşaltmaq üçün
+34. Bu növ avtomatlaşdırma sistemi texniki, iqtisadi cəhətdən az əlverişlidir və burada ayrı – ayrı aqreqatlar və sahələr arasında kifayət qədər qarşılıqlı əlaqə yoxdur
+• Tam Avtomatlaşdırılmış sistem
+• Qeyd edilənlərdən heç biri
+• Avtomatlaşdırılmamış sistem
+√ Qismən (az) Avtomatlaşdırılmış sistem
+• Yarı Avtomatlaşdırılmış sistem
+35. Avtomatika sözünün yunan dilindən mənasını hansı cavab daha yaxşı ifadə edir?
+• Öz - özünə hərəkət etməyən
+• İnsan iştirakı olmadan idarəolunan
+• Özü başa düşən
+• İnsan iştirakı ilə idarə olunan
+√ Özü təsir edən
+36. Ultrasəs sensorlarının üstün cəhətlərindən biri yalnış göstərilmişdir?
+• Əksolunmaya qarşı həssaslıq
+• Bir çox materialları toxunmadan təyin edə bilir
+• Sənaye mühitinə qarşı dayanıqlı
+√ İstilik, rütübət və hava axını kimi amillərə dayanıqlıdır
+• rəngə, şəffaflığa qarşı həssaslıq
+37. Aşağıdakı cihazlardan hansılar digital çıxış siqnalı verir?
+• Səviyyə ölçən cihaz
+• Sərf ölçən cihaz
+√ Məhdudlaşdırcı açarlar
+• Təzyiq transmitteri
+• Termocüt
+38. Termocütün temperaturu artdıqca çıxışdakı gərginlik necə dəyişir?
+√ Artır
+• Azalır
+• Əvvəlcə artır, sonra azalır
+• Əvvəlcə azalır, sonra artır
+• Sabit qalır
+39. Göstərilənlərdən biri işıq sensoru deyildir
+• Foto tranzistor
+• LED
+• LDR
+√ Termorezistor
+• Foto diod
+40. Çıxış siqnalına görə sensorların hansı növləri vardır?
+• Aktiv və Passiv
+• Qeyd edilənlərdən heç biri
+• Digital, Aktiv
+√ Analoq və rəqəmsal
+• İnduktiv və Kapasitiv
+41. Maqnetik sensorun növlərindən biri doğru göstərilməmişdir?
+• Kapasitiv sensor
+• Tutum sensor
+• İnduktiv sensor
+√ Cavabların hamısı doğrudur
+• Kontakt rele
+42. İnduktiv sensorların əsas tətbiq sahələrindən biri yalnış göstərilmişdir?
+• Konveyer xəttləri
+• Robot texnologiyaları
+√ Kənd təsərrüfatı
+• Qida və içki sənayesi
+• Montaj dəzgahları
+43. Fotoelektrik sensorların köməyi ilə aşağıdakılardan hansı aşkar edilə bilmir?
+• İşıq
+• Su
+• Şəffaf materiallar
+• Rəng
+√ Yüksək temperaturda işləyən hərəkətli cisim
+44. Fotoelektrik sensorların əsas tətbiq sahələrindən biri yalnış göstərilmişdir?
+• Giriş nəzarət sistemləri
+• Qablaşdırma
+√ Məişət avadanlıqları
+• Kiçik dəzgahlar
+• Konveyer xəttləri
+45. Kapasitiv sensorların üstünlüklərindən biri yalnış verilmişdir?
+• Yüksək sürət
+• Yüksək işləmə qabiliyyəti
+√ Yalnız metalları təyin edə bilir
+• Keçiriciliyi olmayan metalları da təyin edə bilir
+• Metal və metal olmayan bütün cisimləri təyin edə bilir
+46. Rəqəmsal sensorların əsasını hansı rəqəmlər təşkil edir?
+• 0 və 100
+• 0 və 5
+• 0 və 10
+• 4 və 20
+√ 1 və 0
+47. Analoq sensorlar hansı çıxış siqnalı verə bilir? (Hər ikisinin doğru olduğu cavabı seçin)
+• Işıq və təzyiq
+• Müqavimət və gərginlik
+• Temperatur və təzyiq
+• Müqavimət və cərəyan şiddəti
+√ Gərginlik və cərəyan
+48. Hansı ətraf mühit dəyişikliyini hiss edib istənilən çıxış siqnalına çevirmək üçün heç bir xarici qidalanma gərginliyi tələb etməyən sensordur?
+• Digital
+• Qeyd edilənlərdən heç biri
+• Aktiv sensor
+• Analoq
+√ Passiv sensor
+49. Aktiv sensorlar nə üçün xarici güc qaynağına ehtiyac duyur?
+• Qeyd edilənlərdən heç biri
+• Sensorun təyin edilməsi üçün
+• Sensorun çalışması üçün
+√ Çıxış siqnalını yarada bilmək üçün
+• Sensorun həssaslığını artırmaq üçün
+50. Analoq siqnalların mikrokontrollerdə emalı üçün qeyd edilənlərdən hansı istifadə olunur?
+• Gücləndirici
+• Digital Analoq Çevirici
+• Transmitter
+• Transduser
+√ Analoq rəqəmsal çevirici
+51. Aşağıdakı variantlardan hansında sensorların növləri düzgün göstərilmişdir?
+• Qeyd edilənlərdən heç biri
+• Optik, elektrik, cərəyan
+√ Temperatur, təzyiq, səs
+• Müqavimət, hündürlük, təzyiq
+• Gərginlik, cərəyan şiddəti, müqavimət
+52. Aşağıdakılardan hansı sensorların ümumi məqsədini ifadə edir?
+• Ətraf mühiti təşhis etmək və rəngi müəyyənləşdirmək
+• Kimyəvi maddələrin tərkibini öyrənmək
+√ Ətraf mühitin dəyişməsini ölçmək və elektrik siqnalına çevirmək
+• Elektrik dövrələri yaratmaq
+• Səsi təyin etmək
+53. Metal və ya metal olmayan cisimlərin heç bir fiziki təmas olmadan aşkarlanmasına imkan verən sensorlar hansıdır?
+√ Kapasitiv sensorlar
+• Məhdudlaşdırıcı açarlar
+• Termocütlər
+• İnduktiv sensorlar
+• Qeyd edilənlərdən heç biri
+54. Aşağıdakılardan hansıları passiv sensorlara nümunə göstərmək olar?
+• Termocütlər, səviyyə sensorları
+• Radar sensorlar, LED
+• Qeyd edilənlərdən heç biri
+√ Məhdudlaşdırcı açarlar, potansiometrlər
+• Fotodiod, optik sensorlar
+55. Aşağıdakı cihazlardan hansılar analoq çıxış siqnalı verir?
+• Yaxınlaşma sensoru
+• Ultrasəs Sensor
+• Məhdudlaşdırıcı açarlar
+√ Termocüt
+• Düymələr
+56. Səs siqnalını elektrik siqnalına çevirən cihaz hansı variantda doğru göstərilmişdir?
+• Potensiometr
+√ Mikrofon
+• Fotodiod
+• Səsucaldan
+• Diod
+57. Analoq sensorun çıxış siqnalı əsasən neçə Amper olur?
+• 5 - 20mA
+√ 4 - 20mA
+• 1- 10 mA
+• Qeyd edilənlərdən heç biri
+• 10 - 20mA
+58. Aşağıdakılardan biri LED lərin əsas tətbiq sahələrinə aid deyildir?
+• Siqnalizasiya sistemləri
+• İşıqlandırma sistemləri
+• Elektronika cihazları
+• Reklam lövhələri
+√ İstehsalat maşınları
+59. Analoq sensorların çıxış gərginliyi əsasən neçə Volt olur?
+√ 0 - 10V
+• 5 - 20V
+• 380V
+• 4 - 20V
+• 220V
+60. Mikrokontrollerlərdə emal olunan siqnalı son istifadəçinin başa düşdüyü siqnala çevirmək üçün hansı vasitələrdən istifadə olunur?
+• Analoq Rəqəmsal Çevirici
+• Düzləndirici
+• Gücləndirici
+√ Rəqəmsal Analoq Çevirici
+• Alçaldıcı
+61. Hər hansı bir fiziki təmas olmadan keçirici materialın aşkarlanmasına imkan verən sensorlar hansılardır?
+• Kapasitiv
+• Qeyd edilənlərdən heç biri
+• Səs sensorları
+√ İnduktiv
+• Məhdudlaşdırıcı açarlar
+62. Qidalandığı gərginliyə görə sensorların hansı növləri vardır?
+• Rəqəmsal, Analoq
+• Analoq, Passiv
+• Digital, Aktiv
+√ Aktiv, Passiv
+• PTC və NTC
+63. İnduktiv sensorların üstünlüklərindən biri yalnış verilmişdir?
+• Qeyd edilənlərdən heç biri
+• Yüksək iş qabiliyyətinin olması
+• Yüksək sürət
+√ Metallar daxil olmaqla, bütün cisimləri təyin etmə qabiliyyəti
+• Bütün metalları təyin etmə qabiliyyəti
+64. Aşağıdakılardan hansılar fotodiodların tətbiq sahələrinə aiddir?
+• istehsalat avadanlıqları
+• Generatorlar
+√ Televizorların qəbulediciləri
+• Mikrofonlar
+• Qeyd edilənlərdən heç biri
+65. Foto diodlar hansı məqsədlər üçün istifadə olunur?
+• Elektrik siqnalını səsə çevirmək üçün
+• Qeyd edilənlərdən heç biri
+• Elektrik siqnalını işıq yolu ilə girişdən çıxışa ötürmək üçün
+• Səs siqnalını elektrik siqnalına çevirmək üçün
+√ İşığı elektrik siqnalına çevirmək üçün
+66. LDR sensorların işıq miqdarına görə müqaviməti necə dəyişir?
+• işıq miqdarı sabit qaldıqca, müqaviməti azalır
+• İşıq miqdarı artdıqca, müqaviməti azalır
+• Sabit qalır
+√ İşıq miqdarı azaldıqca, müqaviməti artır
+• İşıq miqdarı artdıqca, müqaviməti də artır
+67. LED sensorlar haqqında qeyd edilənlərdən hansı doğrudur?
+• Təzyiqi ölçür
+• Səsi ölçür
+• Temperaturu ölçür
+√ İşıq saçır
+• rütubəti ölçür
+68. PTC və NTC termorezistorlar hansı məqsədlər üçün istifadə olunur?
+• Temperatur artıqca müqaviməti sabit saxlamaq üçün
+• Qeyd edilənlərdən heç biri
+• Temperatur və müqaviməti sabit saxlamaq üçün
+√ Temperatur artıqca müqaviməti artırıb, azaltmaq üçün
+• Temperatur azaldıqca, müqaviməti sabit saxlamaq üçün
+69. Termocütlər hansı prinsipi əsasında işləyirlər?
+• Kimyəvi reaksiya
+• İşığın ötürülməsi
+• Elektrik siqnalının gərginliyə çevrilməsi ilə
+√ İki metalın potensiallar fərqi
+• Qeyd edilənlərdən heç biri
+70. Elektrik enerjisinin işığa çevrildiyi yarımkeçiricilər hansıdır?
+• Fotodiod
+• Optokupl
+• Fototranzistor
+√ LED
+• Tranzistor
+71. PLC - lərdə T daxili releləri nəyi ifadə edir (Delta PLC ailəsində)
+• Qeyd edilənlərdən heç biri
+• Fiziki girişləri
+√ Zamanlayıcını
+• Sayıcını
+• Fiziki çıxışları
+72. PLC proqramlamaşdırılması üçün hansı texniki vasitələrə ehtiyac var? (Tam cavabı seçin)
+• PLC, PC və Proqram təminatı
+• Yalnız PLC və PC
+• PLC və Kabel
+• PC və Proqramlaşdırma qurğusu
+√ PLC, PC, Proqram təminatı və Proqramlaşdırma kabeli
+73. Aşağıdakılardan hansılar PLC -nin digital (rəqəmsal) girişi ola bilməz?
+• Qeyd edilənlərdən heç biri
+√ Temperatur və təzyiq sensorları
+• Qapı aç / bağla sensorları
+• Təcili dayanma düyməsi
+• Düymələr
+74. Bir PLC proqramında səhv tapmaq və düzəltmək üçün hansı alətlər və metodlar mövcuddur?
+• Qeyd edilənlərdən heç biri
+• Səhv tapmaq üçün yalnız proqram simulatorlarından istifadə olunur
+• PLC proqramında səhv tapmaq üçün heç bir əlavə alət və metod mövcud deyil
+√ Online monitorinq, proqram simulatorları, debug əmrləri kimi alətlər istifadə olunur
+• Səhv tapmaq üçün yalnız online monitorinq aləti istifadə olunur
+75. Aşağıdakılardan biri PLC proqramlaşdırmada giriş kontaktının vəziyyətini doğru göstərmir?
+• Normalda bağlı
+• Normalda açıq
+√ Qeyd edilənlərin hamısı doğrudur
+• Yüksələn kənar
+• Düşən kənar
+76. Aşağıdakılardan hansı PLC – nin çıxışına qoşulur?
+• Məhdudlaşdırıcı açarlar
+• Düymələr
+• Sensorlar
+√ Motorları işə salıcı kontaktorlar
+• Qeyd edilənlərdən heç biri
+77. Aşağıdakılardan hansılar PLC -nin digital (rəqəmsal) girişi ola bilər?
+• Maqnit işəburaxıcı, selenoid valf
+• Səviyyə və sərf ölçən cihaz
+• Termocüt, təzyiq transmitteri
+• Elektrik motoru, lampa
+√ Təcili dayanma düyməsi, məhdudlaşdırıcı açar
+78. PLC də Mərkəzi emal bloku (CPU) nədir və hansı əhəmiyyətli funksiyalara malikdir?
+• Sadəcə giriş və çıxışları yeniləyir
+• Yalnız xüsusi modulları idarə edir və məlumatları toplayır
+• Qeyd edilənlərdən heç biri
+√ PLC-nin əsas hissəsidir və bütün funksiyaları təmin edir
+• PLC - nin köməkçi moduludur, əlaqəli modulların işini idarə edir
+79. PLC - də qida mənbəyi (Power Supply) nə üçün lazımdır?
+• Analog giriş/çıxışları tənzimləyir
+• Diskret giriş/çıxışları idarə edir
+• Temperatur diapazonlarına nəzarət edir
+• Əlaqə modullarını idarə edir
+√ Elektrik enerji təchizatı ilə təmin edir
+80. PLC-nin əsas komponentlərini təsvir edin (Bütün cavabların doğru olduğu variantı seçin)
+• Mərkəzi prosessor bloku, düymələr, sensorlar
+• Şəbəkə kartı, İnsan Maşın interfeysi, diskret giriş çıxış, köməkçi modullar
+• Mərkəzi emal bloku, uzaqdan idarəetmə bloku, DCS.
+• Qida mənbəyi, CPU, Analoq kart, Açarlar
+√ Qida mənbəyi, diskret giriş/çıxış modulları, analog giriş/çıxış modulları, xüsusi modullar, əlaqə modulları, əlaqə prosessorları
+81. İlk PLC kompüter nə vaxt təqdim edilmişdir və tarixi nə vaxtdan başlayır?
+• 1950-ci illərdə yaranmışdır.
+• 1980-ci illər
+• 2000-ci illər
+√ 1960-cı illərdə təqdim edilmişdir
+• 1970-ci illər
+82. PLC dedikdə nə nəzərdə tutulur?
+• Problematik ləğv edilmiş çıxış cihazıdır.
+√ Proqramlanmış məntiqi kontroller
+• İnsan maşın interfeysi
+• Paylanmış idarəetmə sistemi
+• Proqramlı qanadları nəzarət cihazıdır.
+83. Aşağıdakılardan hansının vasitəsi ilə PLC-nin əlaqəli girişi '0' siqnal səviyyəsindən '1' siqnal səviyyəsinə və ya əksinə keçirilir?
+• Analoq çıxış
+• Analoq giriş və çıxış
+• Analoq giriş
+• Diskret çıxış
+√ Diskret giriş
+84. PLC - nin əsas komponentlərindən biri yalnış verilmişdir?
+• Qida bloku
+• Əlaqələndirmə modulları
+√ Maqnit işəburaxıcı
+• Gıriş / Çıxış modulları
+• Mərkəzi emal bloku
+85. PLC - nin diskret çıxışlarının neçə vəziyyəti ola bilər və bunlar hansılardır?
+• Sonsuz vəziyyət ola bilər
+• 0 - OFF
+√ 2 - ON/OFF
+• Qeyd edilənlərdən heç biri
+• 1 - ON
+86. Ladder (Nərdivan) diaqramı ilə bağlı aşağıdakılardan yalnız biri doğrudur?
+• Qeyd edilənlərdən heç biri
+√ Proqram icra olunduqda, əmrlər həm soldan sağa, həm də yuxarıdan aşağıya eyni zamanda oxunur
+• Proqram icra olunduqda, əmrlər yalnız soldan - sağa icra olunur
+• Proqram icra olunduqda əmrlər yalnız yuxarıdan aşağıya icra olunur
+• Proqram icra olunduqda eyni vaxtda bir neçə əmr icra oluna bilmir
+87. Ladder (Nərdivan) diaqramının digər PLC proqramlaşdırma vasitələrindən üstün cəhətlərindən biri yalnışdır?
+• Simulyasiya imkanlarının olması
+• Elektrik dövrələri ilə işləməyə daha uyğun
+• Monitorinq imkanı
+• Rahat proqramlaşdırma
+√ Proqram əmrlərinin sayının digər proqramlaşdırma üsullarındakından az olması
+88. Ladder (Nərdivan) diaqramındakı sətirlər necə adlanır?
+• Sütun
+• Qeyd edilənlərdən heç biri
+• Pilləkən
+• Sətir
+√ Network
+89. PLC ilə idarəolunan sistemin releli sistemdən üstün cəhətlərindən biri yalnış verilmişdir?
+• PLC li sistemlərin komputerlə simulyasiya imkanı
+• PLC - li sistemlərdə səhvlərin asan aradan qaldırılması
+• PLC - nin daha kompakt olması və az yer tutması
+√ Göstərilən cavablardan hamısı doğrudur
+• PLC - lərin pis ətraf mühitə, tozlu şəraitdə dözümlü olması imkanı
+90. Aşağıdakılardan hansılar PLC - nin girişinə qoşulur?
+• Lampa
+• Selenoid valflar
+√ Təcili dayanma düyməsi
+• Elektrik motoru
+• Qeyd edilənlərdən heç biri
+91. PLC - lər adətən hansı gərginliklə işləyir?
+• 220VAC
+• 110VAC
+√ 24VDC
+• 380VAC
+• Qeyd edilənlərdən heç biri
+92. Bir PLC-nin proqramlaşdırılmasında ən müasir və geniş yayılmış proqramlaşdırma üsulu hansıdır?
+• Qeyd edilənlərdən heç biri
+• Yalnız Sequential Function Chart (SFC) dilində proqramlaşdırmaq olur
+• Function Block Diagram (FBD)
+√ Ladder Diagram (LD)
+• Structured List (SL)
+93. Bir PLC-nin işləmə prinsipi nədir və necə çalışır?
+• Sadəcə giriş və çıxışları yeniləyir və qlobal parametrləri tənzimləyir
+• Proqramların quraşdırılmasını idarə edir və çıxışları əlavə modullara yönləndirir
+√ Girişlərdən məlumat alır, proqramda təyin olunan əmrləri icra edir və çıxışları yeniləyir.
+• Qlobal parametrləri tənzimləyir və məlumatları saxlayır
+• Əlavə modulların quruluşunu idarə edir və əlavə girişlərdən məlumat alır.
+94. PLC - lər avtomatlaşdırılmış proseslərdə əsasən hansı sahələri istifadə olunur?
+• Yalnız energetika və su təsərrüfatı sahəsində istifadə olunur
+• Yalnız Kompüter proqramlaşdırma sahələrində istifadə olunur
+√ İstehsal, energetika, neft kimya sənayesi
+• Yalnız istehsal sahələrində istifadə olunur
+• Yalnız energetika sahəsində istifadə olunur
+95. Çoxsaylı giriş və çıxışları olan, artırılmış temperatur diapazonları, elektrikə, səsə, vibrasiya və zərbəyə davamlı rəqəmsal kompüter dedikdə aşağıdakılardan hansı nəzərdə tutulur?
+• Elektromaqnit relelər
+• Maqnit işəburaxıcılar
+• Panel Ekranlar
+√ Proqramlaşdırılmış məntiqi kontroller
+• Sensorlar
+96. Bir PLC proqramında təkrarlanan (loop) strukturlar hansı məqsədlə istifadə etmək olar?
+√ Təkrarlanan strukturlar prosesi müstəqil hissələrə bölür və effektiv işləməsinə kömək edir.
+• Hər hansısa bir prosesi bir neçə dəfə icra etmək üçün istifadə olunur
+• Nərdivan diaqramının alternatividir və qrafik qurmağa kömək edir
+• Qısa vaxtda proqram yazmaq üçün istifadə olunur
+• Funksionla blok diaqramları üçün alternativ olaraq istifadə olunur
+97. İdarəetmə sistemində relenin əsas vəzifələrindən biri yalnış göstərilmişdir?
+• Bobin və kontakt ətrafındakı gərginliyin bir birindən təcrid imkanı
+• Kontaktların artırıla bilmə imkanı
+• Aşağı güc səviyyələrindən yüksək güc səviyyələrinə keçid imkanı
+√ Deyilənlərin hamısı doğrudur
+• Yaddaş elementi kimi fəaliyyət göstərməsi
+98. Bir PLC proqramın sazlama (debug) metodları hansılardır?
+• Proqramın debug etməsi üçün heç bir metod yoxdur
+• Proqramın əməliyyatı, təhlili və şifahi şəkildə təyin edilməsi
+√ Proqramın quraşdırılması, simulyasiyası, və səhvlərin aşkarlanması
+• Yalnız proqramın simulyasiyası
+• Yalnız kod üçün sazlanır
+99. PLC-lərdə istifadə olunan əlaqə modullarının funksiyası nədir?
+• Temperatur sensorlarından məlumat ala bilər
+• Diskret giriş/çıxışları idarə etmək üçün istifadə olunur
+• Analog giriş/çıxışları idarə etmək üçün istifadə olunur
+• Məlumatları saxlamaq üçün istifadə olunur
+√ Əlaqə modullar digər cihazlar və proseslərlə əlaqə yaratmağa xidmət edir və kommunikasiyalar üçün vacibdir
+100. Analoq girişlər nə üçün istifadə olunur?
+• Qeyd edilənlərdən heç biri
+• Məhdudlaşdırıcı açarlardan məlumat almaq
+• Düymələr və keçid açarlarından məlumat almaq
+√ Analoq məlumatı ölçmək
+• Analoq çıxışlardan məlumat almaq
+101. PLC skanı nədir və necə işləyir?
+• Tələb olunan rabitənin miqdarını təyin edir və ona görə proqramı tənzimləyir
+• CPU-nun fiziki hissəsidir və çıxışları idarəedir
+• PLC-nin qlobal parametrlərini tənzimləyir.
+• Qeyd edilənlərdən heç biri
+√ Təkrarlanan prosesin bir hissəsidir və CPU-nun girişlərinin statusunu oxuyur.
+102. Funksional Blok Diaqram (FBD) haqqında qeyd edilənlərdən biri yalnışdır?
+• Funksiyonal blok diaqramlar, nərdivan diaqramının alternatividir
+• Çıxışlar, düzbucaqlının sağ tərəfində yerləşir
+• FBD - də funksiyalar düzbucaqlı şəkilində göstərilir
+• Girişlər, düzbucaqlının sol tərəfində yerləşir
+√ Operator və operandı göstərir
+103. Təlimat siyahısı (STL) hansı təlimatları göstərir və nə üçün istifadə olunur?
+• Məntiqi əmrləri göstərir və prosedur təyin edir
+• Məsələnin nərdivan diaqramında həllini göstərir
+√ Operator və operandı göstərir
+• Funksiyal blok diaqramları üçün tətbiq olunur.
+• Qeyd edilənlərdən heç biri
+104. Nərdivan diaqramı (Ladder Diagram) nədir və üstünlükləri hansılardır?
+• PLC - proqramlaşdırmada çox istifadəli deyildir
+• C dili ilə proqramlaşdırmada istifadə olunan bir sintaksisdir
+• Funksional blok diaqramlardır (FBD)
+• Ladder diaqram STL-dən (Statement List) istifadə edilərək yaradılır
+√ PLC-lərdə istifadə olunan bir proqramlaşdırma dilidir
+105. Diskret girişlər və çıxışlar nə üçün istifadə olunur və hansı sensorlardan məlumat ala bilər?
+• Qeyd edilənlərdən heç biri
+• Diskret girişlər səviyyə, sərfölçən kimi nəzarət ölçü cihazlarından məlumat ala bilər.
+• Analog girişlər üçün sensorlardan məlumat ala bilər.
+√ Prosesdəki hadisələrdən xəbərdar olmaq üçün istifadə olunur.
+• Temperatur sensorlarından məlumat ala bilər.
+106. Birbaşa əlaqə kanalının işi nədən ibarətdir?
+• Obyekti yalnız başlanğıc vəziyyətində saxlamaq funkisyasını yerinə yetirir
+• Qeyd edilənlərdən heç biri
+• Obyektin çıxışı ilə girişi arasında əlaqəni təmin edir
+• Obyektin bir başlanğıc vəziyyətindən digər lazımı vəziyyətə gətirilməsi
+√ Obyektin girişi ilə çıxışı arasında düzünə əlaqəni təmin edir
+107. Avadanlıqların iş rejiminin insanın iştirakı olmadan texniki vasitələrin köməyi ilə sabit saxlanılması necə adlanır?
+• Robotlaşdırma
+• Qeyd edilənlərdən heç biri
+• Avtomatik idarətmə
+• Avtomatlaşdırma
+√ Avtomatik tənzimləmə
+108. Davamlı ölçülən və girişlə müqayisə edilən proses dəyişəni necə adlanır?
+• İnverter
+• Sensor
+√ Çıxış
+• Aktuator
+• Kontroller
+109. Avtomatik tənzimləmə haqqında qeyd edilənlərdən biri doğrudur.
+• Avtomatik tənzimləmə sistemləri ilə avtomatik idarəetmə sistemləri arasında heç bir fərq yoxdur
+√ Avtomatik tənzimləmə dedikdə, avadanlıqların iş rejiminin texniki vasitələrin köməyi ilə sabit saxlanılması nəzərdə tutulur
+• Avtomatik tənzimləmə dedikdə, avadanlıqların iş rejiminin insanın köməyi ilə sabit saxlanılması nəzərdə tutulur
+• Qeyd edilənlərin hamısı yalnışdır
+• Avtomatik tənzimləmə sistemlərində tənzimlənən obyektin parametrləri sistemin daxilində olur
+110. Sensorların avtomatik idarəetmədəki əsas funksiyası nədən ibarətdir?
+• Məlumatın emal olunub, işlənməsindən
+√ Məlumatların ölçülməsindən
+• Hesab məntiq əməliyyatlarını icra etməkdən
+• Qeyd edilənlərin hamısı yalnışdır
+• Çıxış dəyəri ilə giriş dəyərini müqayisə etməkdən
+111. Əks - əlaqə kanalının işi nədən ibarətdir?
+• Obyektin girişi ilə çıxışı arasında əlaqəni təmin edir
+√ Obyektin çıxışı ilə girişi arasında əlaqəni təmin edir
+• Obyektin bir başlanğıc vəziyyətindən digər lazımı vəziyyətə gətirilməsi
+• Qeyd edilənlərin hamısı yalnışdır
+• Obyekti yalnız başlanğıc vəziyyətində saxlamaq funkisyasını yerinə yetirir
+112. İdarəetmə prosesi haqqında fikirlərdən biri yalnışdır.
+• İdarəetmə prosesində obyektlə mühit, kanallarla bir biri ilə qarşılıqlı əlaqədədir
+√ İdarəetmə prosesində idarəedici funksiyalar yalnız operatorlar tərəfindən həyata keçirilə bilər
+• İdarəetmə prosesini həyata keçirmək üçün idarəedici element də olmalıdır
+• İdarəetmə prosesində idarəedici qurğu obyektə U kanalı ilə təsir göstərir
+• İdarəetmə prosesi idarəedici hissə ilə obyekt arasında aparılır
+113. Obyektin həyacanlandırıcı təsirləri haqqında doğru fikri seçin.
+• Həyəcanlandırıcı təsirlər yalnız ölçülə bilən olur
+√ Həyəcanlandırıcı təsirlər ölçülə bilən və ölçülməyən təsirlərə ayrılır
+• Həyəcanlaşdırıcı təsirlər tarazlaşdırıla bilmir
+• Həyəcanlaşdırıcı təsirlər obyektin normal iş rejiminə təsir etmir
+• Həyəcanlandırıcı təsirlər yalnız ölçülə bilməyən, nəzarət olunmayan olur
+114. PLC proqramında Abort funksiyonu nə üçün istifadə olunur?
+• Girişləri tənzimləmək üçün
+√ Bir əməliyyatı dayandırmaq üçün
+• HMI panelini dizayn etmək üçün
+• Proqramı yavaşlatmaq üçün
+• Timerları və Sayıcıları sıfırlamaq üçün
+115. PLC və HMI (İnsan Maşın İnterfeysi) arasında əlaqə qurmaq üçün hansı növ kabel istifadə olunur?
+√ RS232 və ya RS485
+• VGA
+• USB
+• HDMI
+• RS285
+116. PLC proqramlarında "Counter" nə məqsədlə istifadə olunur?
+• Timer (Zamanlayıcı) üçün istifadə olunur
+√ Müəyyən bir hadisənin sayını saxlamaq üçün
+• HMI panelini dizayn etmək üçün
+• Əlaqələri yoxlamaq üçün
+• Proqramı başlatmaq üçün
+117. PLC - də bir timer hansı halda sıfırlanır?
+• Yalnız müəyyən bir müddət bitəndə
+√ Müəyyən bir müddət bitəndə və ya stop düyməsi basılanda
+• Proqram başladıldığı zaman
+• Qeyd edilənlərdən heç biri
+• Giriş siqnalı verildikdə
+118. PLC proqramında "AND" məntiq əməli nəyi ifadə edir?
+• VƏ YA məntiq əməli
+√ VƏ məntiq əməli
+• VƏ DEYİL əməli
+• Qeyd edilənlərdən heç biri
+• DEYİL məntiq əməli
+119. PLC - də Düşən Kənar (Falling Edge) kontaktı nəyi ifadə edir?
+• Bir giriş siqnalının yalnız 0 olduğu vəziyyəti
+√ Bir giriş siqnalının 1 - dən 0 - a düşdüyü vəziyyəti
+• Bir giriş siqnalının dəyişdiyi anı
+• Bir giriş siqnalının açıq olduğu vəziyyəti
+• Bir giriş siqnalının yalnız 1 olduğu vəziyyəti
+120. PLC proqramlarında "Rising Edge" (Yüksələn Kənar) kontaktı necə yaradılır?
+• İki giriş siqnalının nəticəsi ilə
+√ Bir giriş siqnalının əvvəlki vəziyyətini saxlayaraq
+• Proqramı yenidən başladaraq
+• Qeyd edilənlərdən heç biri
+• Bir çıxışa nəzarət edilməsi ilə
+121. Hansı proqramlaşdırma dilində PLC proqramı yazmaq mümkündür?
+• Python
+√ Nərdivan Diaqramı
+• JavaScript
+• Qeyd edilənlərdən heç biri
+• Java
+122. PLC proqramlarında "Set" və "Reset" necə istifadə olunur?
+• Girişləra nəzarət etmək üçün
+√ Çıxışlara nəzarət etmək üçün
+• İç içə döngülər yaratmaq üçün
+• Yüksələn kənarı aktivləşdirmək üçün
+• Proqramın sürətini tənzimləmək üçün
+123. Birölçülü obyektlər haqqında doğru fikri göstərin.
+• Bu obyektlərdə giriş, çıxış sayı 1 dən çox olur
+√ Bu obyektlərdə 1 giriş və 1 çıxış olur
+• Bu obyektlərdə 2 giriş və 1 çıxış olur
+• Qeyd edilənlərin hamısı yalnışdır
+• Bu obyektlərdə 2 giriş və 1 çıxış olur
+124. Obyektlər giriş və çıxışlarının sayına görə neçə cür təsnif olunur?
+• 3 - Dayanıqlı, Dayanıqsız, Neytral
+√ 2 - Birölçülü və Çoxölçülü
+• 2 - Analoq və Rəqəmsal
+• Qeyd edilənlərin hamısı yalnışdır
+• 2 - Xətti və Qeyri Xətti
+125. Obyektin girişi ilə çıxışını əlaqələndirən rabitə kanalı necə adlanır?
+• Əks əlaqə kanalı
+• Qeyd edilənlərin hamısı yalnışdır
+• İnformasiya toplama kanalı
+√ Birbaşa əlaqə kanalı
+• İdarəedici təsir kanalı
+126. İdarəedici qurğunun obyektə göstərdiyi təsir necə adlanır?
+• Həyəcanlandırıcı təsir
+√ İdarəedici təsir
+• Birbaşa təsir
+• Qeyd edilənlərin hamısı yalnışdır
+• Əks təsir
+127. Avtomatik İdarəetmə Sistemləri haqqında doğru cavabı seçin.
+• Avtomatik idarəetmə sistemlərində idarəolunan obyektin parametrləri kənardan verilir
+√ Avtomatik idarəetmə sistemlərində idarəolunan obyektin parametrləri sistemin daxilində formalaşır
+• Avtomatik idarəetmə sistemində obyektin parametrləri dəyişdirilə bilmir
+• Qeyd edilənlərdən hamısı yalnışdır
+• Avtomatik idarəetmə sistemləri və Avtomatik tənzimləmə sistemləri arasında heç bir fərq yoxdur
+128. Avtomatik İdarəetmə Sistemləri (AİS) nə üçün yaradılır?
+• Avadanlıq və qurğuların kalibrasiyası üçün
+√ Texniki qurğuların vəziyyətini qeydə almaq və müşahidə etmək
+• Texniki qurğuların təmiri üçün
+• Qeyd edilənlərdən hamısı yalnışdır
+• Məlumatları göndərmək üçün
+129. Avtomatik tənzimləmə sistemləri haqqında doğru cavabı seçin.
+• Avtomatik tənzimləmə sistemlərində tənzimlənən obyektin parametrləri sistemin daxilində olur
+√ Avtomatik tənzimləmə sistemlərində tənzimlənən obyektin parametrləri kənardan verilir
+• Avtomatik tənzimləmə sistemində obyektin parametrləri dəyişdirilə bilmir
+• Qeyd edilənlərdən hamısı yalnışdır
+• Avtomatik tənzimləmə sistemləri ilə avtomatik idarəetmə sistemləri arasında heç bir fərq yoxdur
+130. Avtomatik tənzimləmə sistemi ilə avtomatik idarəetmə sistemi arasında əsas fərq nədən ibarətdir?
+• Eynidir, heç bir fərqi yoxdur
+√ Tənzimləmə sistemlərində tənzimləmə obyektinin parametrləri kənardan verilir, idarəetmə sistemində isə sistemin öz daxilində formalaşır
+• Tənzimləmə sistemidə obyektin parametrləri dəyişdirilə bilmir, idarəetmə sistemində isə dəyişdirilməsi mümkündür
+• Qeyd edilənlərdən hamısı yalnışdır
+• Tənzimləmə sistemlərində obyektin parametrləri öz daxilində formalaşır, idarəetmə sistemində isə parametrlər xaricdən verilir
+131. Obyektin çıxışı ilə girişini əlaqələndirən rabitə kanalı necə adlanır?
+• Birbaşa əlaqə kanalı
+√ Əks - əlaqə kanalı
+• İdarəedici təsir kanalı
+• Qeyd edilənlərin hamısı yalnışdır
+• İnformasiya toplama kanalı
+132. İdarəetmə obyekti və idarəedici hissə birlikdə necə adlanır?
+• İdarəetmə elementi
+√ İdarəetmə sistemi
+• İdarəetmə kəmiyyəti
+• Qeyd edilənlərdən hamısı yalnışdır
+• İdarəedici təsir
+133. Obyektə göstərilən məqsədyönlü təsir necə adlanır?
+• Əks təsir
+√ İdarəetmə
+• Sabit təsir
+• Həyəcanlandırıcı təsir
+• Davamedici təsir
+134. Mikroprosessorlar ixtira olunmadan əvvəl PID nəzarəti necə həyata keçirilirdi?
+• Mikrokontrollerlər ixtira edilmədən əvvəl PID nəzarəti mövcud deyildi
+√ Analoq elektronika komponentlərində
+• İnteqral sxemlər üzərində
+• Qeyd edilənlərin hamısı yalnışdır
+• Rəqəmsal elektronika dövrələrində
+135. PID kontroller haqqında qeyd edilənlərdən biri yalnışdır.
+• PID kontroller Prosesin faktiki dəyəri ilə hədəf dəyəri müqayisə edir
+√ PID kontrollerlər yalnız temperaturu tənzimləmək üçün istifadə edilir
+• Mikroprosessor ixtira olunmadan da, analoq elektronika komponentlərində PID tənzimləməsi mövcud idi
+• PID kontrollerlər daha çevik və etibarlıdır
+• PID dedikdə mütənasiblik, inteqral və törəmə nəzərdə tutulur
+136. Əks - əlaqə tənzimləmə sistemində istifadə olunan aktuatorların əsas məqsədi nədir?
+• Əks əlaqə tənzimləmə sistemlərində aktuatorlar istifadə olunmur
+√ Ölçülmüş çıxış dəyərini referans giriş dəyəri ilə müqayisə edib, fərqi azaltmaq
+• Yalnız giriş dəyişəninin dəyərini izləmək
+• Qeyd edilənlərin hamısı yalnışdır
+• Yalnız çıxış dəyişəninin dəyərini izləmək
+137. İdarəetmə sistemi dedikdə nə başa düşülür?
+• Yalnız idarəetmə obyekti
+√ İdarəetmə obyekti və idarəedici hissə
+• İdarəedici element
+• Qeyd edilənlərin hamısı yalnışdır
+• Yalnız idarəedici hissə
+138. Əks - əlaqə tənzimləmə sistemində istifadə olunan kontrollerin əsas məqsədi nədir?
+• Yalnız çıxış dəyişəninin dəyərini izləmək
+√ Ölçülmüş çıxış dəyərini referans giriş dəyəri ilə müqayisə edib, fərqi azaltmaq
+• Əks əlaqə tənzimləmə sistemlərində kontrollerlər istifadə olunmur
+• Qeyd edilənlərdən hamısı yalnışdır
+• Yalnız giriş dəyişəninin dəyərini izləmək
+139. Əks - əlaqə tənzimləmə sisteminin komponentləri ilə bağlı yalnış cavabı seçin.
+• Giriş
+√ Qeyd edilənlərin hamısı doğrudur, yalnış yoxdur
+• Sensorlar
+• Kontrollerlər
+• Çıxış
+140. İdarəetmənin yerinə yetirilməsi üçün idarəetmə sistemi hansı informasiya vasitələrinə malik olmalıdır?
+• Obyekt və mühit haqqında informasiya toplayan kanallara
+√ Qeyd edilənlərin hamısı doğrudur
+• İdarəeetmə məqsədinin idarəedici qurğuya verilməsi üçün kanala
+• İdarəetmə alqoritminin daxil edilməsi kanalına
+• Obyektə idarəedici təsir göstərən kanala
+141. Hər hansı bir obyektin idarəedilməsi dedikdə nə nəzərdə tutulur?
+• Obyektin insan iştirakı olmadan tənzimlənməsi
+√ Obyektin bir başlanğıc vəziyyətindən digər lazımı vəziyyətə gətirilməsi
+• Obyektin yalnız tapşırıq qiymətinə çatmasının tənzimlənməsi
+• Qeyd edilənlərdən hamısı yalnışdır
+• Obyektin yalnız başlanğıc vəziyyətində saxlanılması
+142. SET və RST əmrlərinin girişinə eyni anda siqnal gəldikdə öncəlik hansına verilir?
+• Qarışıq tətbiq edilir
+• SET əmri öncəliklidir
+• Növbəti proqram taramasında müəyyən olunur
+√ RST əmri öncəliklidir
+• Qeyd edilənlərdən heç biri
+143. Yüksələn Kənar (Rising Edge) kontaktı nəyi ifadə edir?
+• Bir giriş siqnalının yalnız 0 olduğu vəziyyəti
+√ Bir giriş siqnalının yalnız 1 olduğu vəziyyəti
+• Bir giriş siqnalının dəyişdiyi anı
+• Qeyd edilənlərdən heç biri
+• Bir giriş siqnalının açıq olduğu vəziyyəti
+144. PLC - ni komputerdən fərqləndirən əsas cəhət hansıdır?
+• Qeyd edilənlərdən heç biri
+• Mərkəzi emal blokunun olması
+√ PLC - lərin tozlu, yüksək səs - küylü sahələrdə komputerlərdən daha yaxşı işləməsi
+• PLC də proqram yazıla bilmə imkanının olması
+• Məlumatları yaddaşında saxlaya bilməsi
+145. SCADA sistemlərinə aid komponentlərdən biri yalnış göstərilmişdir.
+• Verilənlər bazası
+• Şəbəkə elementləri
+• Ölçmə və idarəetmə vahidləri
+• SCADA proqram təminatı
+√ Kontrollerlər
+146. SCADA sisteminin üstün cəhətlərindən biri yalnış göstərilmişdir.
+• Davamlı ölçmə sayəsində məhsulun keyfiyyətinin artırılması
+• İstehsal olunan məhsul və xidmətin xərclərinin azaldılması, mənfəət
+• Mərkəzi idarəetmə sistemi ilə bir mərkəzdən idarəetmə və izləmə imkanı
+√ SCADA sisteminin ucuz başa gəlməsi, onu sənayenin bütün sektorlarında istifadəsinə gətirir
+• Zamana qənaət, sistemdə çıxan nasazlıqların sürətli aradan qaldırılması
+147. SCADA və HMI sistemləri arasındakı əsas fərq nədir?
+• HMI və SCADA eyni funksiyalara malikdir və hər zaman bir-birinin əvəzinə istifadə oluna bilər
+• HMI, yalnız mütəxəssislər tərəfindən istifadə olunan bir texnologiyadır
+• SCADA, HMI-nın ümumi bir hissəsidir və nəzarət, monitorinq funksiyalarını icra edir.
+√ SCADA daha geniş imkanlara malikdir. HMI, SCADA-nın bir hissəsidir və təyin edilmiş bir məqsəd üçün istifadə olunur
+• HMI nin funksionallığı daha çoxdur. SCADA, yalnız məlumat toplamaq üçün istifadə olunan bir sistemdir
+148. HMI nə deməkdir və hansı məqsədlər üçün istifadə olunur?
+• Tədqiqat və laboratoriya tətbiqləri üçün hazırlanmışdır və müstəqil istifadə üçün imkanı vermir
+• Məsafədən idarəetmə sistemidir, uzaqdan prosesi idarəetmək üçün istifadə edilir
+• Paylanmış idarəetmə sistemidir, sadəcə məlumatların toplanması üçün istifadə edilir
+• Yalnız istehsal proseslərində tətbiq olunur və mütəxəssislər tərəfindən idarə olunur
+√ İnsan Maşın İnterfeysidir və istifadəçi ilə sistem arasında əlaqəni təmin edir
+149. SCADA nədir və hansı sahələrdə tətbiq olunur?
+• Yalnız mağaza və satış sistemlərində istifadə olunur. Tətbiq sahəsi pərakəndə sektorudur
+• Proqramlaşdırılmış məntiqi kontrollerdir və yalnız sənayedə istifadə edilir
+• Proqram yazmaq üçün xüsusi ladder diaqramdan istifadə edir. Tətbiq sahəsi energetika və nəqliyyatdır
+√ "Məlumatların toplanması və mərkəzi nəzarət" mənasına gəlir və Sənaye, energetika, su təchizatı və texnoloji sahələrdə tətbiq olunur.
+• Hərbi tətbiqlər üçün hazırlanmışdır və şəbəkələr üçün təhlükəsizliyi təmin edir. Tətbiq hərb sənayesidir
+150. Avtomatlaşdırma piramidasının ən aşağı əviyyəsində hansı elementlər yerləşir?
+• İnsan Maşın interfeysi
+• Qeyd edilənlərdən heç biri
+√ Sensorlar
+• SCADA
+• Proqramlaşdırılmış Məntiqi Kontroller
+151. Avtomatlaşdırma piramidasının hansı səviyyəsində SCADA sistemləri yerləşir?
+• 1 - ci, fiziki səviyyədə
+• 5 - ci, ERP səviyyəsi
+• 4 - cü, zavod səviyyəssi
+√ 3 - cü, Nəzarət səviyyəsində
+• 2 - ci, idarəetmə səviyyəsi
+152. Aşağıdakılardan hansı SCADA sisteminin təklif etdiyi üstünlüklərdən biri deyil?
+• Zamana qənaət
+• resursa qənaət
+• Enerjiyə qənaət
+√ Ucuz başa gəlməsi
+• İşçi sayının azaldılması
+153. Aşağıdakılardan hansı SCADA - nın xüsusiyyətlərindən biri deyildir
+• Məlumatların saxlanılması
+• Məlumatların monitorinqi
+• Hesabatların tərtibi imkanı
+√ Sifarişin planlanması
+• Qrafik interfeys
+154. Avtomatlaşdırma piramidasının nəzarət səviyyəsində hansı komponentlər yerləşir?
+• PLC
+• Düymələr
+• Elektrik motorları
+√ SCADA
+• Sensor, IOT cihazları
+155. Sənayedə PLC, SCADA və s kimi cihazların kommunikasiyasında əsas hansı interfeys istifadə edilir?
+• Yalnız RS232
+• Yalnız RS 485
+• Yalnız RS422 və USB
+√ RS232 və ya RS485
+• USB və RS232
+156. SCADA sisteminin müsbət cəhətlərindən biri yalnış göstərilmişdir.
+• SCADA nasazlıqları və xətaları xəbər verən xəbərdarlıq sisteminə malikdir
+• SCADA uzaqda yerləşən terminallardan da məlumat ala bilir
+√ SCADA sistemlərində kibertəhlükəsizlik problemi yoxdur
+• Qrafik interfeysə malikdir, istənilən formada hesabat hazırlama imkanları vardır
+• SCADA sistemləri real vaxt rejimində məlumatları toplayıb, emal edib hesabatlar verə bilir
+157. SCADA Avtomatlaşdırma piramidasının hansı səviyyəsindən məlumatlar toplayır, onların işinə nəzarət edir?
+• Nəzarət və Fiziki səviyyələrdən
+• Fiziki və ERP səviyyələrindən
+• Yalnız zavod səviyyəsindən
+√ Fiziki və idarəetmə səviyyələrindən
+• İdarəetmə və Planlama səviyyələrindən
+158. WinCC SCADA proqramında layihənin idarə olunması üçün hansı komponentdən istifadə olunur?
+• WinCC Tag Simulator
+• Qeyd edilənlərdən hamısı yalnışdır
+• Graphic Designer
+• WinCC help
+√ Windows Control Center
+159. Tag Simulator nədir? Nə məqsədlə istifadə olunur (WinCC SCADA)
+• Delta panel proqramında yazılmış proqramı test etmək imkanı verir
+• Qeyd edilənlərin hamısı yalnışdır
+• ISPSoftda yazılmış proqramın simulyasiya edilməsi üçün
+• Yazılmış PLC proqramının monitorinqi, səhflərinin düzəldilməsi üçün
+√ SCADA proqramında yazılmış tag - ların PLC bağlantısı olmadan test edilməsi üçün
+160. RS232 və ya RS485 dedikdə nə başa düşülür?
+• Yalnız PC ilə SCADA sistemləri arasında istifadə olunan kabeldir
+• Qeyd edilənlərin hamısı yalnışdır
+• Yalnız PLC ni PC - yə bağlamaq üçün istifadə olunan kabeldir
+• Yalnız PLC ilə HMI bir biri ilə bağlayan kabellərdir
+√ Xəbərləşmə üçün istifadə olunan interfeys, kommunikasiya kabeli
+161. SCADA sənaye proseslərinin təhlükəsizliyinə necə töhfə verir?
+• Təhlükəsizlik protokollarından yayınmaqla
+• Qeyd edilənlərin hamısı yalnışdır
+• Yalnız manual yoxlamalara əsaslanaraq
+√ Real vaxt rejimində monitorinq və siqnalizasiya sistemləri vasitəsilə
+• Yalnız insident baş verdikdən sonra təhlükəsizlik yoxlamaları aparmaqla
+162. Sənaye kommunikasiya protokollarından biri doğru göstərilməmişdir?
+√ Bus
+• Modbus
+• Profibus
+• Ethernet
+• Profinet
+163. Göstərilənlərdən hansı, "məlumat idarəetmə mərkəzindən kənarda yerləşən cihazlardan gələn məlumatların qəbul edilməsini icra edir?
+• HMI
+• Sensor
+√ Main Terminal Unit (MTU)
+• PLC
+• Remote Terminal Unit (RTU)
+164. SCADA sistemlərində Main Terminal Unit (MTU) haqqında doğru olmayanı seçin
+• Məlumat idarəetmə mərkəzindən kənarda yerləşən cihazlardan gələn məlumatların qəbul edilməsi
+• Toplanmış məlumatların proqramlaşdırma dillərində işlənərək ekrana göndərilməsi
+• Baş verən hadisə və nasazlıqları qeydə almaq
+• Digər komputer sistemləri ilə əlaqədə ola bilir
+√ Uzaqda yerləşən məlumatları toplayıb, lazım gəldikdə xüsusi rabitə vasitəsi ilə SCADA ya ötürmək
+165. SCADA sistemlərində Remote Terminal Unit (RTU) - in əsas vəzifəsi nədir?
+√ Uzaqda yerləşən məlumatları toplayıb, lazım gəldikdə xüsusi rabitə vasitəsi ilə SCADA ya ötürmək
+• RTU - lar yaxın məsafədəki məlumatları SCADA ya ötürür
+• Qeyd edilənlərin hamısı yalnışdır
+• RTU ilə MTU (Main Terminal Unit) arasında bir fərq yoxdur
+• RTU müstəqil məlumat toplama imkanlarına malik deyil
+166. Uzaqda yerləşən məlumatları toplayıb, lazım gəldikdə xüsusi rabitə vasitəsi ilə SCADA ya ötürən cihazlar necə adlanır?
+• Distributed Control System (DCS)
+• Main Terminal Unit (MTU)
+• Qeyd edilənlərdən heç biri
+• Master Terminal Unit
+√ Remote Terminal Unit (RTU)
+167. İxtiyari bir istehsalat prosesi üçün qurulmuş SCADA sistemindən gözləntilərdən doğru olmayanı seçin.
+• İstehsalat hesabatı verməsini
+• Sürətli məlumat toplama, izləmə və analiz imkanlarını
+• Alarm və xətaların bildirilməsini
+√ Stokda azalmış məhsulu, müəyyənləşdirib avtomatik sifariş verməsini
+• Dinamik qrafik interfeys təqdim etməsini
+168. "Tagname" nədir?
+• PLC dəki əmrlərdir
+• Məlumat toplama sistemidir
+√ SCADA da verilənlərin saxlanıldığı bir bazadır
+• Qeyd edilənlərin hamısı yalnışdır
+• İstinadlardır
+169. SCADA sisteminin əsas funksiyalarından biri doğru göstərilməmişdir.
+• Məlumatın saxlanılması
+• İzləmə, monitorinq
+• İdarətmə və nəzarət
+√ Sifarişin planlanması
+• Məlumatın toplanılması
+170. SCADA sistemlərinin əsas tətbiq sahələrindən hansı yalnış göstərilmişdir?
+• Sement istehsalı zavodları, yüngül və ağır sənayedə
+√ Hamısı doğrudur, yalnış yoxdur
+• Elektrik istehsalı və paylanılması, yüksək gərginlikli elektrik stansiyalarında
+• Kimya, Petrokimya, Neft - qaz sənayesi
+• Bina avtomatlaşdırılması, avtomobil sənayesində
+171. Qurğu və cihazlardan məlumatı toplamaq və saxlamaq aşağıdakılardan hansının vəzifəsidir?
+• Fərdi komputer
+• PLC
+• Sensor
+√ SCADA və ya HMI
+• Qeyd edilənlərin heç biri
+172. Aşağıdakıların içərisindən doğru olan fikri seçin
+• SCADA proqramları sadəcə sistem verilənlərini izləmək üçün istifadə edilir
+• SCADA və HMI biri birindən heç fərqlənmir
+√ PLC - dəki giriş və çıxışları WinCC SCADA - da istifadə etmək üçün istifadə edilən simvollara "tag" adı verilir
+• SCADA proqramlarının daxilində məlumat kitabxanası olmur
+• SCADA proqramları yalnız Energetika və su təsərrüfatında istifadə olunur
+173. "Graphic Designer" komponentinin əsas məqsədi nədir? (WinCC)
+• Qeyd edilənlərdən heç biri
+• Simulyasiya
+• Konfiqurasiya
+• İdarəetmə
+√ Dizayn
+174. SCADA proqramında yazılmış tag - lar PLC bağlantısı olmadan necə test edilə bilər? (WinCC)
+• Qeyd edilənlərdən heç biri
+• DopSoft
+√ Tag Simulator
+• ISPsoft
+• Commgr
+175. SCADA proqramında interfeysin hazırlanması aşağıdakılardan hansı proqram ilə həyata keçirilir? (WinCC)
+• WinCC Tag Simulator
+• Qeyd edilənlərin hamısı yalnışdır
+• Windows Control Center
+• Wincc help
+√ Graphic Designer
+176. WinCC proqramında “Windows Control Center” komponentinin əsas vəzifəsi nədir?
+• Ekranın qrafik dizaynı
+• Proqramın silinməsi
+√ Layihənin idarəolunması
+• Proqramın əlavə edilməsi
+• Wincc kömək
+177. WinCC SCADA proqramının əsas komponentlərindən biri yalnış göstərilmişdir.
+• Qeyd edilənlərin hamısı yalnışdır
+• Windows Control Center
+• Graphic Designer
+√ COMMGR
+• WinCC Tag Simulator
+178. Bir SCADA sisteminin qurulması üçün aşağıdakılardan hansılar mövcud olmalıdır?
+• Qeyd edilənlərin hamısı yalnışdır
+√ Dəzgah (idarəolunan), PLC və ya PC, SCADA proqramı və şəbəkə elementləri
+• Sadəcə SCADA proqramı və şəbəkə elementi
+• İdarəedən PLC və ya PC, SCADA proqram təminatı
+• İdarəolunan (Dəzgah), idarəedən (PLC) və SCADA proqramı
+179. SCADA proqramı kimi göstərilənlərdən biri yalnışdır.
+• InTouch
+• iFIX
+• WinCC
+• Vijeo Citect
+√ ISPSoft
+180. Səkkizlik say sisteminin yaranması zərurəti haqqında qeyd edilənlərdən biri yalnışdır.
+• Komputerdən ünvan məlumatlarının alınmasındakı çətinliklərdən
+• Qeydlərin vəziyyətini izləmək, lazımı düzəlişləri etməkdəki çətinliklərdən
+• Komputerlə istifadəçi arasındakı ünsiyyət çətinliyindən
+• Ünvan məlumatlarının komputerə ötürülməsi çətinliklərindən
+√ Cavabların hamısı doğrudur
+181. "100" kimi qeyd edilmiş təsviri gördükdə bunun hansı say sistemində yazıldığını anlaya bilərik? (Tam cavabı seçin)
+• İkilik və onluq say sistemində
+• Yalnız ikilik say sistemində
+• Yalnız onluq say sistemində
+√ Bütün say sistemlərində yazıla bilər
+• Səkkizlik və onaltılıq say sistemində
+182. "58" kimi qeyd edilmiş təsviri gördükdə bunun hansı say sistemində yazılmadığını anlaya bilərik? (Tam cavabı seçin)
+• Yalnız səkkizlik say sistemində
+• Səkkizlik və onaltılıq say sistemində
+• Yalnız ikilik say sistemində
+• Onluq və onaltılıq say sistemində
+√ İkilik və səkkizlik say sistemində
+183. Aşağıdakılardan hansının arxitekturası səkkizlik say sistemi üzərində qurulmuşdur?
+• Fərdi komputerlərin
+• Maqnit işəburaxıcının
+• İnvertorların
+• İnsan maşın interfeysinin
+√ Proqramlaşdırılmış məntiqi kontrollerlərin
+184. Məişətdə, insanlar arasında gündəlik istifadə olunan say sistemi hansıdır?
+• 2 - lik say sistemi
+• 8 - lik say sistemi
+• 5 - lik say sistemi
+√ 10 - luq say sistemi
+• 16 - lıq say sistemi
+185. İkilik say sistemi haqqında deyilənlərdən biri yalnışdır.
+• İkilik say sistemi hesab məntiq əməllərinin aparılmasında sürətlidir
+• İkilik say sistemindən yaddaşda ünvanları təyin etmək üçün də sitifadə edilir
+• Bul cəbrinə əsaslanan məntiq əməliyyatlarını işləmək üçün ən uyğundur
+√ İnsanlara ikilik say sistemindən istifadə etmək rahatdır
+• Əksər fiziki hadisələr ikilik sistem üçün uyğundur. Lampa yanır/sönür kimi
+186. Onaltılıq say sisteminin əsası hansı simvollardan təşkil olunur?
+• 1 -dən 16 -ya kimi olan rəqəmlərdən
+• Qeyd edilənlərdən heç biri
+• 0 -dan 10 -a kimi rəqəmlər və A -dan E -yə kimi hərflərdən
+√ 0 -dan 9 -a qədər rəqəmlər və A -dan F -ə qədər hərflərdən
+• 0 - dan 15 -ə qədər olan rəqəmlərdən
+187. Müasir komputerlərdə, digital sistemlərdə hansı say sistemi çox istifadəlidir?
+• Onluq say sistemi
+• Qeyd edilənlərdən heç biri
+• Beşlik say sistemi
+√ İkilik say sistemi
+• Onaltılıq say sistemi
+188. Aşağıdakı say sistemlərindən hansı rəqəmsal elektronikada istifadə olunmur?
+• Onaltılıq say sistemi
+√ Cavabların hamısı doğrudur
+• Onluq say sistemi
+• Səkkizlik say sistemi
+• İkilik say sistemi
+189. İkilik say sistemində verilmiş ədədləri çıxıb, ikilikdəki fərqini yazın: "10110" və "01010"
+• 1110
+• 100
+• 1101
+√ 1100
+• 1000
+190. İkilik say sistemində verilmiş ədədləri toplayıb, ikilikdəki cəmini yazın: "1011" və "1010"
+• 10111
+• 11101
+• 10011
+√ 10101
+• 10100
+191. Onaltılıq say sistemindəki "25" ədədinin onluq say sistemindəki qarşılığını tapın
+√ 37
+• 35
+• 36
+• 38
+• 39
+192. Onluq say sistemində verilmiş "955" ədədinin onaltılıq say sistemindəki qarşılığını tapın.
+• 3AB
+• 3BC
+• 3BD
+√ 3BB
+• 3BA
+193. Səkkizlik say sistemində verilmiş ədədi ikilik say sisteminə necə çevirmək olar?
+• Qeyd edilənlərdən heç biri
+• Ədədi sağdan-sola 4 -lü qruplara ayırıb, 8- lik qarşılığını yazmaq lazımdır
+• Ədədi 8 - ə bölüb 2 -yə vurmaqla
+√ Ədədi soldan -sağa 3 -lü qruplara ayırıb, hər qrupun 2 - likdəki qarşılığını yazmaqla
+• Ədədi 2 - yə bölüb qismətdəki qalıqları əvvəldən axıra düzməklə
+194. İkilik say sistemində verilmiş "101010" ədədinin səkkizlik say sistemindəki qarşılığını tapın.
+√ 52
+• 51
+• 53
+• 54
+• 55
+195. Səkkizlik say sistemində verilmiş "432" ədədinin 2 - lik say sistemindəki qarşılığını tapın.
+• 1100101101
+√ 100011010
+• 100111101
+• 110010110
+• 101110100
+196. İkilik say sistemindəki ədədi səkkizlik say sisteminə necə çevirmək olar?
+• Qeyd edilənlərdən heç biri
+√ Ədədi sağdan-sola 3 -lü qruplara ayırıb, həmin qrupların 8 -lik qarşılığını yazmaq lazımdır
+• Ədədi sağdan-sola 4 -lü qruplara ayırıb, 8- lik qarşılığını yazmaq lazımdır
+• Ədədin üzərinə mərtəbələrini yazıb, 2 - nin qüvvətləri şəkilində toplamaq
+• Ədədi 8-ə bölmək lazımdır
+197. Səkkizlik say sistemində verilmiş "25" ədədinin onluq say sistemindəki qarşılığını tapın.
+• 11
+• 20
+• 18
+• 19
+√ 21
+198. Onaltılıq say sistemindəki "1AC3" ədədinin ikilik say sistemindəki qarşılığını tapın.
+• 11001111101
+• 1100110001101
+• 110110010110
+√ 1101011000011
+• 11100101011
+199. Onaltılıq say sistemindəki ədədi ikilik say sisteminə necə çevirmək olar?
+• Qeyd edilənlərdən heç biri
+• Ədədi 2 - yə bölüb qismətdəki qalıqları əvvəldən axıra düzməklə
+• Ədədi 16 - ya bölüb 2 -yə vurmaqla
+√ Ədədi soldan-sağa 4 -lü qruplara ayırıb, hər qrupun 2 - likdəki qarşılığını yazmaqla
+• Ədədi qüvvətə yüksəltmək və toplamaq lazımdır
+200. İkilik say sistemindəki "101101" ədədinin onaltılıq say sistemindəki qarşılığını tapın.
+• 2B
+• 3B
+• 2C
+√ 2D
+• 2E
+201. İkilik say sistemində verilmiş ədədi onaltılıq say sisteminə necə çevirmək olar?
+• Qeyd edilənlərdən heç biri
+• Ədədi sağdan - sola 3 - lü qruplara ayırmaq və qarşılığını yazmaq lazımdır
+• Ədədin üzərinə mərtəbələrini yazıb, 2 - nin qüvvətləri şəkilində toplamaq
+√ Ədədi sağdan-sola 4 -lü qruplara ayırıb, həmin qrupların 16 -lıq qarşılığını yazmaq lazımdır
+• Ədədi 16 -ya bölmək lazımdır
+202. İkilik say sistemində verilmiş "01011101" ədədinin onaltılıq say sistemində qarşılığını tapın.
+• 5D1
+• 5E
+• 5B
+√ 5D
+• 5C
+203. Onluq say sistemindəki ədədi ikilik say sisteminə çevirmək üçün nə etmək lazımdır?
+• Qeyd edilənlərdən heç biri
+• Ədədi 10 a bölmək və alınmış qalıqları əvvəldən axıra düzmək
+• Ədədi 2 -yə bölüb, qismətdə alınmış qalıqları toplamaq lazımdır
+√ Ədədi 2 -yə bölüb, qismətdə alınmış qalıqları axırdan əvvələ kimi düzmək lazımdır
+• Ədədi qüvvətə yüksəltmək və toplamaq lazımdır
+204. Onluq say sistemində verilmiş "25" ədədinin ikilik say sistemindəki qarşılığını tapın.
+• 11000
+• 110001
+• 11101
+• 10111
+√ 11001
+205. İkilik say sistemindəki "1001100101" ədədinin onluq say sistemindəki qarşılığını tapın.
+• 710
+• 623
+• 603
+• 513
+√ 613
+206. İkilik say sistemindəki ədədi onluq say sisteminə çevirmək üçün nə etmək lazımdır?
+• Verilmiş 2 lik say sistemindəki ədədi qüvvətə yüksəltmək lazımdır
+• Ədədi 10 a bölmək və alınmış qalıqları əvvəldən axıra düzmək
+√ İkilik ədədin üzərinə mərtəbələri yazılır, sonra ikinin qüvvətləri şəkilində toplanır
+• Verilmiş ədədi 10 -a bölmək və alınan qisməti yazmaq lazımdır
+• Verilmiş ədədi 2 - yə bölmək və qalıqları aşağıdan yuxarı düzmək lazımdır
+207. Say sisteminin əsası dedikdə nə başa düşülür?
+• Say sistemində birinci və sonuncu rəqəm
+• Say sistemində sonuncu rəqəm
+• Say sistemində 1-ci rəqəm
+√ Say sistemindəki simvolların sayı
+• Say sistemindəki 0 və 1- lərin sayı
+208. Onluq say sistemindən hər hansı "x" say sisteminə keçmək üçün nə etmək lazımdır? (x=ikilik, səkkizlik, on altılıq və s.)
+• Verilmiş ədədi qüvvətə yüksəltmək lazımdır
+• Verilmiş ədədi x-ə vurmaq lazımdır
+√ Verilmiş ədədi x-ə bölmək və alınan qalıqları axırdan əvvələ ardıcıl düzmək lazımdır
+• Verilmiş ədədi x-ə bölmək və alınan qisməti yazmaq lazımdır
+• Verilmiş ədədi sağ tərəfdən sıfırdan başlayaraq nömrələmək sonra hər bir rəqəmi x-in uyğun qüvvətinə vurmaq lazımdır
+209. İkilik say sistemi haqqında qeyd edilənlərdən biri doğrudur.
+• Aralıq say sistemi sayılır
+• Komputerlər və rəqəmsal sistemlər üçün uyğun say sistemi deyil
+√ Binar say sistemi də adlanır
+• Bu say sistemi insanların çox rahat anladığı sistemdir
+• Əsası 1 və 2 rəqəmlərindən təşkil olunub
+210. Onaltılıq say sistemi haqqında qeyd edilənlərdən biri yalnışdır.
+• Aralıq say sistemi adlanır
+• Əsasını 0-dan 9 -a qədər rəqəmlər və A -dan F -ə qədər hərflər təşkil edir
+• Hexadecimal say sistemi adlanır
+√ Əsas say sistemi sayılır
+• Bu say sistemi komputerlərdə hesab məntiq əməlləri üçün ən uyğunudur
+211. Kompüterlərdə daxili və xarici dövrələrin vəziyyətini təyin etmək üçün hansı rəqəmlər qrupu istifadə olunur?
+• 0, 1, 2, 3, 4, 5, 6, 7
+• Qeyd edilənlərdən heç biri
+• 0 və 10
+√ 0 və 1
+• 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+212. Latın əlifbasının komputerlərin əlifbasına daxil edilməsi ilə hansı say sistemindən istifadə olunmağa başlanıldı?
+• Səkkizlik say sistemi
+• Onluq say sistemi
+• İkilik say sistemi
+√ Onaltılıq say sistemi
+• İkilik və onluq say sistemləri
+213. Binar və Oktal say sistemləri dedikdə uyğun olaraq hansı say sistemləri nəzərdə tutulur?
+• İkilik və onluq say sistemləri
+• Onluq və səkkizlik say sistemləri
+√ İkilik və səkkizlik say sistemi
+• Onluq və onaltılıq say sistemi
+• İkilik və onaltılıq say sistemləri
+214. Hansılar aralıq say sistemləri hesab olunur?
+• İkilik və onluq say sistemləri
+• Səkkizlik və onluq say sistemləri
+• İkilik və səkkizlik say sistemləri
+• Onluq və onaltılıq say sistemləri
+√ Səkkizlik və onaltılıq say sistemləri
+215. Məntiq qapıları haqqında aşağıda göstərilənlərdən hansı doğru deyil?
+• Bir məntiq qapısının bir neçə girişi ola bilər
+• Bir məntiq qapısının yalnız bir çıxışı ola bilər
+• Qeyd edilənlərin hamısı doğrudur
+√ Bir məntiq qapısının bir neçə çıxışı ola bilər
+• Bir məntiq qapısının çıxışı girişdən asılı olaraq 1 və ya 0 ola bilər
+216. NOR məntiq elementi haqqında aşağıda göstərilənlərdən hansı doğru deyil?
+√ Girişlərdən yalnız biri sıfır olduqda çıxış 1 olur
+• Qeyd edilənlərdən heç biri
+• Girişlərdən hər hansı biri 1 olduqda çıxışda sıfır alınır
+• OR elementinin əksi kimi işləyir
+• Girişlərin hər ikisi 1 olduqda çıxışda sıfır alınır
+217. NAND elementi haqqında doğru olanı göstərin
+• VƏ YA DEYİL məntiqi elementinin qarşılığıdır
+• Girişlərin hər ikisi sıfır olduqda çıxış da sıfır olur
+√ Hər iki giriş siqnalı 1 olduğu zaman çıxışı sıfır, qalan digər hallarda çıxışı 1 olur
+• Girişlərdən hər hansı biri 1 olduqda çıxış yalnız sıfır olur
+• BU element OR elementinin əksi kimi işləyir
+218. Məntiq qapılarının yaradılmasında ən çox hansı fiziki elementlər istifadə olunur?
+• Tranzistorlar
+• Maqnit işə buraxıcılar
+√ İnteqral sxemlər
+• Tristorlar
+• Relelər
+219. Dəyişənin tamamlayıcısı 0 olduqda dəyişənin özü neçə olacaq?
+• 1
+• 2
+• 10
+• (-)1
+√ 0
+220. OR elementi haqqında yalnış olanı göstərin.
+• VƏ YA elementi adlanır
+• Giriş siqnalları sıfır olduqda çıxış da sıfır olur
+• Giriş siqnallarından biri sıfır digəri 1 olduqda çıxışda 1 alınır
+• Bu elementin əksini verən məntiq elementi NOR - dur
+√ Yalnız giriş siqnallarının hər ikisi 1 olduqda çıxış siqnalı 1 olur
+221. AND məntiq elementi elementi haqqında doğru olanı göstərin.
+• Girişlərindən birinin 1 olması çıxışın 1 olması üçün yetərlidir
+• Qeyd edilənlərdən heç biri
+• Məntiqi VƏ YA elementi adlanır
+• Riyazi ifadəsi X = A + B şəkilində göstərilir
+√ Giriş siqnallarının hər ikisi 1 olmalıdır ki, çıxış 1 olsun
+222. NAND elementi haqqında doğru olan fikri seçin
+• Girişlərdən hər hansı biri 1 olduqda çıxış yalnız sıfır olur
+• BU element OR elementinin əksi kimi işləyir
+• Girişlərin hər ikisi sıfır olduqda çıxış da sıfır olur
+√ Hər iki giriş siqnalı 1 olduğu zaman çıxışı sıfır, qalan digər hallarda çıxışı 1 olur
+• VƏ YA DEYİL məntiqi elementinin qarşılığıdır
+223. Hər iki girişi sıfır olduğu zaman çıxışı 1, qalan digər hallarda çıxışı sıfır olan məntiq elementi hansıdır?
+• NOT
+• AND
+• NAND
+√ NOR
+• OR
+224. Hər iki giriş siqnalı 1 olduğu zaman çıxışı sıfır, qalan digər hallarda çıxışı 1 olan məntiq elementi hansıdır?
+• OR
+• AND
+• XOR
+• NOR
+√ NAND
+225. AND elementi haqqında doğru fikiri seçin.
+• Qeyd edilənlərdən heç biri
+√ Giriş siqnallarının hər ikisi 1 olmalıdır ki, çıxış 1 olsun
+• Məntiqi VƏ YA elementi adlanır
+• Riyazi ifadəsi X = A + B şəkilində göstərilir
+• Girişlərindən birinin 1 olması çıxışın 1 olması üçün yetərlidir
+226. AND elementi haqqında deyilənlərdən biri yalnışdır.
+• Məntiqi ifadəsi, X = A.B şəkilində göstərilir
+• BU element NAND elementinin əksi kimi işləyir
+• Hər iki girişi sıfır olduqda çıxış sıfır olur
+• Bu element məntiqi VƏ elementi də adlanır
+√ Giriş siqnallarından birinin 1 olması kifayət edir ki, çıxış 1 olsun
+227. Məntiqi ifadəsi X = A.B yə uyğun gələn məntiq elementi hansıdır?
+• NOR
+√ AND
+• NAND
+• OR
+• NOT
+228. OR məntiq elementi haqqında deyilənlərdən biri yalnışdır.
+• Giriş siqnalları sıfır olduqda çıxış da sıfır olur
+√ Yalnız giriş siqnallarının hər ikisi 1 olduqda çıxış siqnalı 1 olur
+• Bu elementin əksini verən məntiq elementi NOR - dur
+• Giriş siqnallarından biri sıfır digəri 1 olduqda çıxışda 1 alınır
+• VƏ YA elementi adlanır
+229. Giriş siqnallarından hər hansı biri 1 olduqda çıxışı 1, bütün girişlər 0 olduqda çıxışı 0 edən məntiq elementi hansıdır?
+• AND
+√ OR
+• XOR
+• NOR
+• NOT
+230. OR məntiq elementinin riyazi ifadəsi aşağıdakılardan hansıdır?
+• X = A.B
+√ X = A + B
+• X = A - B
+• Qeyd edilənlərdən heç biri
+• X = A
+231. NOT məntiq elementinin funksiyası nədən ibarətdir?
+• Girişdəki siqnalın eynisini çıxışa ötürür
+√ Girişdəki siqnalı çevirərək çıxışa ötürür
+• Girişi digər girişlərlə qarşılaşdırır
+• Qeyd edilənlərin hamısı yalnışdır
+• Giriş siqnallarını digər girişlərlə toplayır
+232. Giriş məntiq siqnalının əksini çıxışa ötürən məntiq elementi necə adlanır?
+• OR
+√ NOT
+• AND
+• XOR
+• NOR
+233. Məntiq qapılarında istifadə olunan məntiq elementlərindən biri yalnış göstərilmişdir.
+• AND
+√ ADD
+• NOT
+• NAND
+• OR
+234. Məntiq qapıları haqqında deyilənlərdən biri yalnışdır.
+• Bir məntiq qapısının bir neçə girişi ola bilər
+√ Bir məntiq qapısının bir neçə çıxışı ola bilər
+• Bir məntiq qapısının yalnız bir çıxışı ola bilər
+• Qeyd edilənlərin hamısı doğrudur
+• Bir məntiq qapısının çıxışı girişdən asılı olaraq 1 və ya 0 ola bilər
+235. Məntiq qapısı dövrələrində gərginliyin aşağı səviyyəsi neçə voltdur?
+• 24V
+√ 0V
+• 5V
+• 1V
+• 10V
+236. Məntiq qapısı dövrələrində gərginliyin yüksək səviyyəsi (məntiq 1) neçə voltdur?
+• 10V(+)
+√ 5V(+)
+• 1V(+)
+• 220V(+)
+• 24V(+)
+237. Məntiq qapısı dövrələrində neçə gərginlik səviyyəsi vardır?
+• 1
+√ 2
+• 4
+• 10
+• 0
+238. İnteqral sxem əsasında qurulmuş dövrələrin üstünlükləri hansılardır?
+• Yüksək işləmə sürətinin olması
+√ Qeyd edilənlərin hamısı doğrudur
+• Daha etibarlı olması
+• Qabarit ölçülərinin kiçik olması
+• Az enerji istifadə etməsi
+239. İnteqral sxem əsasında qurulmuş dövrələr haqqında qeyd edilənlərdən biri yalnış verilmişdir.
+• Enerji qənaətcil olması
+√ Qiymətinin ucuz başa gəlməsi
+• Qabarit ölçülərinin kiçik olması
+• Qeyd edilənlərin hamısı doğrudur
+• Yüksək işləmə sürətinin olması
+240. Məntiq qapıları yaratmaq üçün daha çox hansı fiziki elementlərdən istifadə edilir?
+• Relelər
+√ İnteqral sxemlərdən
+• Tristorlar
+• Tranzistorlar
+• Maqnit işə buraxıcılar
+241. Əgər, dəyişənin tamamlayıcısı 0 - dırsa, dəyişənin özü neçədir?
+• (-)1
+√ 0
+• 2
+• 1
+• 10
+242. "İnverse" əməliyyatı dedikdə nə nəzərdə tutulur?
+• Dəyişənin qiymətinin 1 ə bərabərləşdirilməsi
+• Dəyişənlərin müqayisəsi
+• Dəyişənlərin toplanması
+√ Məntiq 1 - in məntiq 0 a çevrilməsi
+• Qeyd edilənlərdən heç biri
+243. Aşağıdakılardan yalnız biri doğru göstərilmişdir.
+• Qeyd edilənlərdən heç biri
+• 0 . A = A
+• A + A = 2A
+• A . A = A2
+√ A + A.B = A
+244. Aşağıdakılardan biri yalnış göstərilmişdir.
+• A + A = A
+• 0 . A = 0
+• 1 . A = A
+√ A . A = A2
+• 0 + A = A
+245. Qeyri-səlis çoxluğun yaradılması ..... adlanır :
+• Siaqnostika
+• Qeyd edilənlərdən hamısı yalnışdır
+• Riyazi nəticə
+• Məntiqi nəticə
+√ Qeyri - səlis nəticə
+246. Qeyri-səlis məntiq hansı ildə yaradılmşdır?
+• 1968
+• 1977
+• 1973
+• 1980
+√ 1965
+247. Aşağıda göstərilənlərdən kim qeyri-səlis məntiqin yaradıcısı hesab olunur?
+• Ç. Bebic
+• Leybnis
+• R. Əliyev
+• C. Fon Neyman
+√ L. Zadə
+248. Aristotel məntiqi haqqında aşağıdakı fikirlərdən hansı doğru deyil?
+• (0, 1) kimi göstərilir
+• Qeyd edilənlərdən hamısı yalnışdır
+• Bu məntiq, bildiyimiz klassik riyazi məntiqdir
+• Qeyri səlis məntiqdən fərqli olaraq burada mənsubiyyət funksiyası anlayışı yoxdur
+√ Bu məntiqdə ifadənin qiyməti o və 1 arasında sonsuz qiymətlər alır
+249. Qeyri səlis məntiqin aşağıda göstərilən üstün cəhətlərindən hansı yalnışdır?
+• Dəqiq olmayan məlumatlar da istifadə edilə bilər
+• Bu məntiqdə mənsubiyyət funksiyası anlayışı vardır
+√ (0,1) şəklində göstərilir
+• Qeyri səlis məntiq anlayışını başa düşmək daha asandır
+• Proqram təminatı sadə olduğu üçün sistem daha qənaətlə quraşdırıla bilər
+250. Aristotelin məntiqi haqqında aşağıda göstərilənlərdən hansı fikir doğrudur?
+• Qeyd edilənlərdən hamısı yalnışdır
+• Aristotel məntiqi mənsubiyyət funksiyası ilə təyin olunur
+• Aristotel məntiqi verbal ifadələri əks etdirmək üçün daha uyğundur
+√ Burada ifadənin qiyməti ya 0 ya da 1 olur
+• Bu məntiqin klassik riyaziyyatla əlaqəsi yoxdur
+251. Qeyri səlis məntiqin üstün cəhətlərindən biri doğru göstərilmişdir
+• Qeyri səlis məntiqdə nəticə ya 0 ya da 1 alınır
+• Qeyri səlis məntiqin tətbiqində riyazi model tələb olunur
+• Qeyri xətti funksiyaların modelləşdirilməsinə imkan vermir
+√ Qeyri səlis məntiq mənsubiyyət funksiyasına malik olur
+• Qeyri səlis məntiq nəzəriyyəsi günümüzdə mürəkkəb problemlərin həllində yetərsiz qalır
+252. Qeyri- səlis məntiqdə doğruluq qiymətləri çoxluğu hansı intervalda qiymətlər alır?
+• (0; 1)
+• [0; 3]
+• [0; 2]
+√ Doğru cavab yoxdur
+• [1; 2]
+253. Aristotelin məntiqi haqqında doğru fikri seçin
+• Bu məntiqin klassik riyaziyyatla əlaqəsi yoxdur
+• Qeyd edilənlərdən hamısı yalnışdır
+• Aristotel məntiqi mənsubiyyət funksiyası ilə təyin olunur
+• Aristotel məntiqi verbal ifadələri əks etdirmək üçün daha uyğundur
+√ Burada ifadənin qiyməti ya 0 ya da 1 olur
+254. İki qeyri səlis çoxluğun mənsubiyyət funksiyaları arasında maksimal olanı
+• Onların məhdud kəsişməsidir
+• Onların kəsişməsidir
+• Onlardan 1nin inkarıdır
+√ Onların birləşməsidir
+• Qeyd edilənlərdən hamısı yalnışdır
+255. Qeyri səlis nəticənin alınması mərhələlərindən biri yalnış göstərilmişdir
+• Fazzifikasiya
+• Defazzifikasiya
+• Akkumulyasiya
+√ Yalnış yoxdur, qeyd edilənlərin hamısı doğrudur
+• Kompozisiya
+256. Qeyri səlis məntiqin üstün cəhətlərindən biri yalnış göstərilmişdir
+• Dəqiq olmayan məlumatlar da istifadə edilə bilər
+• Proqram təminatı sadə olduğu üçün sistem daha qənaətlə quraşdırıla bilər
+• Qeyri səlis məntiq anlayışını başa düşmək daha asandır
+√ (0,1) şəklində göstərilir
+• Bu məntiqdə mənsubiyyət funksiyası anlayışı vardır
+257. «Əgər...., Ondа» şəkilli qеyri-səlis məntiqi qаydаlаrın məcmusundаn ibаrətdir. Bu ifadələr qeyri-səlis modeldə nəyi bildirir?
+• Nəticələr generatoru
+• Fazzifikatoru
+• Defazzifikatoru
+√ Qayda bazasını
+• Qeyd edilənlərdən heç biri
+258. Qеyri-səlis nəticə аlmаq üçün qеyri-səlis mоdеlin sоn çıхışı оlаcаq səlis аnаlоqu hаsil еdir. Bu ifadə qeyri-səlis modeldə nəyi bildirir?
+• Nəticələr gеnеrаtоru
+• Fаzzifikаtоru
+• Qeyd edilənlərdən heç biri
+• Qаydа bazası
+√ dеfаzzifikаtоr
+259. Qeyri-səlis nəticə…
+• Neyron şəbəkələrdə və genetik alqoritmlərdə istifadə olur
+• İşçi axınları tərəfindən istifadə olunur
+• Bilikləri implikasiya kimi təqdim etməyə imkan verir
+• Düz və əks istiqamətlərdə olur
+√ 4 mərhələdən ibarətdir: fazzifikasiya, kompozisiya, akkumulyasiya, defazzifikasiya
+260. Qeyri-səlis məntiq....əsaslanır
+• Riyazi metodların kompleksinə
+• Qeyd edilənlərdən heç biri
+• Mürəkkəb situasiyalara
+√ Bütün linqvistik dəyişənlərin ədədi qiymətlərinə
+• Riyazi metodların kompleksinə
+261. Qeyri-səlis nəticənin çıxarılması hansı addımlardan ibarətdir
+• Metrizasiya, təsnifat, kompozisiya, defazzifikasiya
+• Məqsədin qurulması, ekspertiza
+• İnformasiyanın yığıması, təhlili, işlənilməsi
+√ Fazzifikasiya, qeyri-səlis nəticə, kompozisiya, defazzifikasiya
+• Məsələnin qoyuluşu, konsentrasiya, ifadə
+262. İki qeyri səlis çoxluğun mənsubiyyət funksiyaları arasında minimal olanı
+• Onların birləşməsidir
+• Qeyd edilənlərdən heç biri
+√ Onların kəsişməsidir
+• Onlardan 1nin inkarıdır
+• Onların məhdud birləşməsidir
+263. Qeyri-səlis məntiqin tətbiq sahələri
+• Ev elektronikası
+√ Qeyd edilənlərin hamısı doğrudur
+• Proseslərə nəzarət
+• Robototexnika
+• Pilotsuz aparatlar
+264. İki qeyri səlis çoxluğun kəsişməsi aşağıdakılardan hansı ilə təyin olunur?
+• mənsubiyyət funksiyalarının fərqi
+• mənsubiyyət funksiyalarının hasili
+• mənsubiyyət funksiyalarının cəmi
+√ Bu çoxluqların mənsubiyyət funksiyaları arasında minimal olanı
+• Bu çoxluqların mənsubiyyət funksiyaları arasında maksimal olanı
+265. İki qeyri səlis çoxluğun birləşməsi aşağıdakılardan hansı ilə təyin olunur?
+• mənsubiyyət funksiyalarının fərqi
+• mənsubiyyət funksiyalarının hasili
+• mənsubiyyət funksiyalarının cəmi
+√ Bu çoxluqların mənsubiyyət funksiyaları arasında maksimal olanı
+• Bu çoxluqların mənsubiyyət funksiyaları arasında minimal olanı
+266. Aristotel məntiqi haqqında fikirlərdən biri yalnışdır
+• Qeyd edilənlərdən hamısı yalnışdır
+• Bu məntiq, bildiyimiz klassik riyazi məntiqdir
+• Qeyri səlis məntiqdən fərqli olaraq burada mənsubiyyət funksiyası anlayışı yoxdur
+√ Bu məntiqdə ifadənin qiyməti o və 1 arasında sonsuz qiymətlər alır
+• (0, 1) kimi göstərilir
+267. Qeyri- səlis məntiqdə doğruluq qiymətləri çoxluğu hansı intervalda qiymətlər alır?
+• (0; 1)
+• [0; 3]
+• [0; 2]
+√ [0; 1]
+• [1; 2]
+268. ( ^ ) hansı məntiqi əməlin işarəsidir?
+√ Və
+• Və ya Deyil
+• Və ya
+• Deyil
+• Heç biri
+269. ( ˅ ) hansı məntiqi əməlin işarəsidir?
+• Və
+• Heç biri
+√ və ya
+• Və Deyil
+• Deyil
+270. Qeyri- səlis məntiq hansı məntiqi əməllərlə təyin edilir?
+• Və ya, deyil
+• Və, Və ya
+√ “və”, “və ya”, “deyil”
+• Heç biri
+• Və, Deyil
+271. Qeyri səlis çoxluqların tərifi hansı funksiyanın köməyi ilə verilir?
+√ Mənsubiyyət
+• Məqsəd
+• Asılılıq
+• Çıxış
+• Giriş
+272. Deyil əməliyyatı ......əməliyyatına müvafiqdir
+• Qeyd edilənlərin hamısı yalnışdır
+√ NOT
+• AND
+• OR
+• IF - THEN
+273. Qeyri səlis məntiqin üstün cəhətlərindən biri yalnış göstərilmişdir
+• İnsanın düşüncə sistemi və üslubuna yaxındır
+• Mənsubiyyət funksiyası anlayışı ilə digər üsullardan daha çevikdir
+• Qeyri - xətti funksiyaların modelləşdirilməsinə imkan verir
+√ Tətbiqində mütləq riyazi model tələb olunur
+• Qeyri səlis məntiq anlayışını başa düşmək daha asandır
+274. Qeyri-səlis məntiqin banisi kim hesab olunur
+• R. Əliyev
+• Leybnis
+• Ç. Bebic
+√ L. Zadə
+• C. Fon Neyman
+275. A Qeyri-səlis çoxluğu B qeyri-səlis çoxluğunun tərkibindədir, əgər
+• μ А- μ B=0
+√ μ А < μ
+• μ А + μ B=1
+• Qeyd edilənlərin hamısı yalnışdır
+• μ А > μ B
+276. A qeyri-səlis çoxluğu B qeyri-səlis çoxluğuna bərabərdir, əgər
+√ μ А = μ B
+• μ А < μ B
+• μ А + μ B=1
+• μ А > μ B
+• Qeyd edilənlərin hamısı yalnışdır
+277. Kəsişmə əməliyyatı ......əməliyyatına müvafiqdir
+√ OR
+• AND
+• NOT
+• IF THEN
+• IF
+278. Birləşmə əməliyyatı ......əməliyyatına müvafiqdir
+• IF THEN
+• NOT
+• OR
+√ AND
+• ONLY IF
+279. Qeyri-səlis nəticənin əsası ....
+• Strukturlaşdırılmış verilənlərdir
+• Optimal məsələlərdir
+• Qaydalar tamlığıdır
+√ ƏGƏR-ONDA qaydalar bazasıdır
+• Biliklər bazasıdır
+280. Oyunçuların digər oyunçuların faydaları və strategiyaları haqqında tam məlumata malik olduğu və hər kəsin eyni anda hərəkət etdiyi (qərar verdiyi) oyunlar necə adlanır?
+• Natamam məlumatlı dinamik oyunlar
+√ Tam məlumatlı statik oyunlar
+• Tam məlumatlı dinamik oyunlar
+• Qeyd edilənlərin hamısı yalnışdır
+• Natamam məlumatlı statik oyunlar
+281. Aşağıdakılardan hansı natamam məlumatlı statik oyunlara nümunədir?
+• Şahmat
+• Dama
+• Futbol
+• Qeyd edilənlərdən heç biri
+√ Tenderlər
+282. Bütün oyunçuların eyni vaxtda gediş etdiyi, ən azı bir oyunçunun öz faydası və strategiyası haqqında natamam məlumata malik olduğu oyunlar necə adlanır?
+• Qeyd edilənlərdən heç biri
+• Natamam məlumatlı dinamik oyunlar
+• Tam məlumatlı statik oyunlar
+√ Natamam məlumatlı statik oyunlar
+• Tam məlumatlı dinamik oyunlar
+283. Aşağıdakılardan hansı tam məlumatlı dinamik oyunlara nümunədir?
+√ Şahmat
+• Kart oyunları
+• Tenderlər
+• Siqnal oyunu
+• Futbol
+284. Oyunçuların əvvəlki oyunçunun strategiyasına uyğun gediş etdiyi, ən az bir oyunçunun fayda və strategiya haqqında natamam məlumata malik olduğu oyun necə adlanır?
+• Tam məlumatlı statik oyunlar
+• Natamam məlumatlı statik oyunlar
+• Tam məlumatlı dinamik oyunlar
+√ Natamam məlumatlı dinamik oyunlar
+• Qeyd edilənlərin hamısı yalnışdır
+285. Kooperativ olmayan oyunlar növləri haqqında doğru olmayan cavabı seçin
+• Tam məlumatlı statik oyunlar
+• Natamam məlumatlı dinamik oyunlar
+• Tam məlumatlı dinamik oyunlar
+√ Cavabların hamısı doğrudur
+• Natamam məlumatlı statik oyunlar
+286. Oyunların kooperativ və non-kooperativ formaları hansı variantda tam doğru göstərilib?
+• Kooperativ - dama, Non-kooperativ- şahmat
+• Kooperativ - poker, Non-kooperativ - futbol
+• Qeyd edilənlərin hamısı yalnışdır
+• Kooperativ - şahmat, Non-kooperativ - dama
+√ Kooperativ - futbol, non-kooperativ - poker
+287. Rasional oyunçu hansı oyunçu hesab olunur?
+• Öz gedişlərini etdikdə digər oyunçuların strategiyalarını nəzərə almayan oyunçu
+• Qeyd edilənlərin hamısı yalnışdır
+• Rasional oyunçu oyunda digər oyunçuların da fayda qazanmasını istəyir
+√ Faydalar arasında ən yaxşısını seçə bilən, digər oyunçunun da strategiyalarını nəzərə alan oyunçu
+• Rasional oyunçu ağıllı oyunçu hesab edilmir
+288. Von Neuman Morgenstren - ın fayda funksiyası hansı variantda doğru təsvir olunmuşdur
+• Si : F1 + F2 . . . + Fn → R
+• Qeyd edilənlərin hamısı yalnışdır
+• =(1,2,….)
+√ ui : S1 x . . . x Sn → R
+• N = {1,2,3……, n} i:1,2…
+289. Oyun aksiomlarından biri yalnış göstərilmişdir.
+• Oyunçuların oyundan alacaqları faydalar bilməlidir
+• Oyunçunun strategiyaları olmalıdır
+• Ən azı iki oyunçu olmalıdır
+√ Oyunçunun oyundan əldə etdiyi fayda yalnız öz strategiyasından asılıdır
+• Oyunda strategiyalardan ibarət strategiyalar dəsti olur
+290. Oyunlar nəzəriyyəsinin tətbiq sahələrindən doğru olmayanı seçin
+• Siyasət
+• Antropologiya
+√ Bütün cavablar doğrudur
+• İqtisadiyyat
+• Beynəlxalq münasibətlər
+291. Dominant strategiya nədir?
+• Bu strategiya həmişə ən yaxşı nəticə verir
+• Qeyd edilənlərdən hamısı yalnışdır
+• Dominant strategiya Nash tarazlığı ilə eynidir
+• Dominant strategiya digər oyunçunun da fayda əldə etməsini nəzərdə tutur
+√ Digər oyunçuların hansı strategiyanı seçməsindən asılı olmayaraq oyunçu üçün ən yaxşı olan strategiya
+292. Nash tarazlığı haqqında doğru fikri seçin
+• Nash tarazlığı ilə Dominant strategiya eynidir
+• Qeyd edilənlərdən hamısı yalnışdır
+• Nash tarazlığında oyunçunun digər oyunçunun gedişləri ilə bağlı məlumatı olur
+√ Oyunçunun digər oyunçuların strategiyalarını nəzərə alaraq ən yaxşı gedişi
+• Oyunçunun yalnız öz faydalarını nəzərə aldığı vəziyyət
+293. Aşağıdakılardan hansı oyunlar nəzəriyyəsinin əsas anlayışlarına aid deyil
+• Oyun
+• Gediş
+• Strategiya
+√ Taktika
+• Oyunçu
+294. Tutaq ki, iki şəxsin oyununda oyunçular oyunun qaydaları çərçivəsində gedişlərini özləri seçir və icra edirlər. Onda onlar:
+• Determinik gedişlər edirlər
+• Stoxastik gedişlər edirlər
+• Qeyd edilənlərdən heç biri
+√ Şəxsi gedişlər edirlər
+• Təsadüfi gedişlər edirlər
+295. Oyunlar nəzəriyyəsinin əsas anlayışları ilə bağlı aşağıdakı mülahizələrdən doğru olanı seçin. Şəxsi gediş dedikdə
+• Ehtimallı gediş başa düşülür
+• Qeyd edilənlərdən heç biri
+√ Oyunun qaydalarını gözləməklə oyunçu tərəfindən seçilən və icra edilən gediş başa düşülür
+• Təsadüfi seçmə mexanizmi tərəfindən seçilən gediş başa düşülür
+• Oyunun qaydalarında nəzərdə tutulmayan gediş başa düşülür
+296. Oyunçulara oyunda özlərinin maksimin və minimaks strategiyalarından istifadə etməyi tövsiyə edən prinsipə ………………deyilir
+• Optimallıq prinsipi
+• Kafilik prinsipi
+• Kriteriyalılıq prinsipi
+√ Minimaks prinsipi
+• Zərurilik prinsipi
+297. Oyunlar nəzəriyyəsinə aid olan fikirlərdən yalnış olanı seçin:
+• Bu nəzəriyyə insanın mümkün fəaliyyətlərini, davranışlarını öyrənmək məqsədilə modellərdən istifadə edən tətbiqi riyaziyyatın bir qoludur
+• Oyunlar nəzəriyyəsi rasional fəaliyyətin davranış modelidir
+√ Cücənin oyunu oyunlar nəzəriyyəsinə aid deyil
+• Oyunlar nəzəriyyəsi vasitəsilə insanların proqnozlaşdırılan və faktiki fəaliyyətləri, həmçinin onların optimal strategiyaları öyrənilir
+• Oyunlar nəzəriyyəsi çərçivəsində 3 növ oyun var
+298. Cəmi sıfıra bərabər olmayan oyunlar hansılardır?
+• Poker oyunu
+• Məcburi müqavilə oyunları
+• Əməkdaşlıq oyunları
+• Şahmat oyunu
+√ Siyasət və biznes oyunları
+299. Məhbus dilemması və cücənin oyununa aid verilən fikirlərdən biri yalnışdır
+√ Cücənin oyununda tərəflararası əməkdaşlıq üçün imkan yoxdur
+• Cücənin oyunu nəzəriyyəsində ən pis variant aktorların bir-birinə güzəşt etməməsidir
+• Hər ikisi cəmi sıfıra bərabər olmayan oyunlar nəzəriyyəsinə aiddir
+• Hər ikisi oyunlar nəzəriyyəsidir
+• Məhbus dilemmasında ən pis variant aktorlardan birinin əməkdaşlığı qəbul etməsi, başqasının isə bundan imtina etməsidir
+300. Bu fikir hansı oyuna aiddir: Cinayət törətmiş 2 adam polis tərəfindən yaxalanır. Lakin, onlara ayrı- ayrılıqda bir- birinə qarşı satqınlıq təklif olunur və bunun əvəzində azadlıq vəd edilir...
+• Qeyd edilənlərdən heç biri
+• Tam məlumatın alınması oyunu
+• Cücənin oyunu
+√ Məhbus dilemması
+• Aksiomalı sövdələşmə
+301. Məhbus dilemması oyunlar nəzəriyyəsində hansı kateqoriyaya daxildir?
+• Əməkdaşlıq oyunu
+• Tam məlumatın alınması oyunu
+√ Cəmi “0”-a bərabər olmayan
+• Aksiomalı sövdələşmə
+• Cəmi “0”-a bərabər olan
+302. ”Cücənin oyunu” hansı tip oyunlardandır?
+• Aksiomalı sövdələşmə
+√ Cəmi “0”-a bərabər olmayan
+• Tam məlumatın alınması oyunu
+• Əməkdaşlıq oyunu
+• Cəmi “0”-a bərabər olan
+303. Oyunlar nəzəriyyəsi hansı fəaliyyətin modelidir?
+• Utopist
+√ Rasional
+• Biheviorist
+• Realist
+• Liberalist
+304. Oyunlar nəzəriyyəsi haqqında qeyd edilənlərdən biri yalnışdır
+• Oyunda olduğunu bilməyən oyunçu strategiya qura bilməz
+• Qeyd edilənlərin hamısı yalnışdır
+• Oyunlar nəzəriyyəsi bir qrup fərdlər arasında strateji münasibətləri öyrənir
+√ Oyunda ən az 3 oyunçu iştirak etməlidir
+• Strateji qarşılıqlı əlaqədə olan oyunçular oyunda olduğunu bilməlidir
+305. Aşağıda göstərilənlərdən hansını tam məlumatlı statik oyunlara aid etmək olar?
+• Şahmat
+• Tenderlər
+• Kart oyunları
+√ Cournout modeli
+• Futbol
+306. Şahmat oyununu qeyri korperativ oyunların hansı növünə etmək olar?
+• Natamam məlumatlı statik
+• Qeyd edilənlərdən heç biri
+√ Tam məlumatlı dinamik
+• Natamam məlumatlı dinamik
+• Tam məlumatlı statik
+307. Aşağıda göstərilənlərdən hansı natamam məlumatlı dinamik oyunlara aiddir?
+• Cournout modeli
+• Şahmat
+• Tenderlər
+• Kart oyunları
+√ Siqnal
+308. Kart oyunları qeyri koorperativ oyunların hansı növünə aiddir?
+• Natamam məlumatlı dinamik
+• Qeyd edilənlərdən heç biri
+• Tam məlumatlı dinamik
+√ Natamam məlumatlı statik
+• Tam məlumatlı statik
+309. Şahmat oyunu qeyri korperativ oyunların hansı növünə aiddir?
+• Natamam məlumatlı dinamik
+• Qeyd edilənlərdən heç biri
+• Tam məlumatlı statik
+• Natamam məlumatlı statik
+√ Tam məlumatlı dinamik
+310. Faydalar arasında ən yaxşısını seçə bilən, digər oyunçunun da strategiyalarını nəzərə alan oyunçu necə adlanır?
+• Qeyd edilənlərdən heç biri
+• Taktiki oyunçu
+• İrrasional oyunçu
+√ Rasional oyunçu
+• Məhdud rasional oyunçu
+311. Aşağıdakılardan hansı natamam məlumatlı dinamik oyunlara nümunədir?
+• Şahmat
+• Cournout modeli
+• Kart oyunları
+√ Siqnal
+• Tenderlər
+312. "Ümumi bilik" haqqında qeyd edilənlərdən biri yalnışdır
+• Qeyd edilənlərin hamısı yalnışdır
+• Digər oyunçu bilir ki, onun mənim haqqımda bildiyini bilirəm
+• Mən digər oyunçunun nə bildiyini bilirəm
+• Mənim bildiklərimi digər oyunçu da bilir
+√ Digər oyunçu mənim onun haqqında bildiyimi bilmir
+313. Oyunçuların digər oyunçuların faydaları və strategiyaları haqqında tam məlumata malik olduqları, lakin əvvəlki oyunçunun strategiyasına uyğun gedişlər etdikləri oyunlar necə adlanır?
+• Natamam məlumatlı statik oyunlar
+• Qeyd edilənlərin hamısı yalnışdır
+• Natamam məlumatlı dinamik oyunlar
+√ Tam məlumatlı dinamik oyunlar
+• Tam məlumatlı statik oyunlar
+314. Aşağıdakılardan hansı tam məlumatlı statik oyunlara nümunədir?
+• Kart oyunları
+√ Cournout modeli
+• Şahmat
+• Futbol
+• Tenderlər
+315. Oyun nəzəriyyəsində oyunun təhlili güclü üstünlük təşkil edən strategiyalar konsepsiyasından istifadə etməklə necə sadələşdirilə bilər?
+• Bütün oyunçu strategiyalarını silməklə.
+• Oyunçuların uduşlarının məbləğini hesablamaqla.
+• Hər bir oyunçunun uduşunu nəzərə alaraq oyunun ümumi mənfəətinin və ya nəticəsini müəyyən etməklə.
+√ Bütün oyunçulardan güclü üstünlük təşkil edən strategiyaları silməklə.
+• Yeni strategiyaların əlavə edilməklə.
+316. Nə üçün güclü üstünlük təşkil edən strategiya Nash tarazlığına daxil ola bilmir?
+• Çünki güclü üstünlük təşkil edən strategiya oyun nəzəriyyəsində qanuni deyil.
+• Çünki bu, həmişə oyunçu üçün digər mövcud strategiyalardan daha az əlverişli nəticəyə gətirib çıxarır.
+√ Çünki o, Nash tarazlığı şərtlərini pozur.
+• Çünki bu, həmişə oyunun nəticəsini daha da pisləşdirir.
+• Çünki bu, oyunçulara uduş gətirmir.
+317. Oyun nəzəriyyəsində güclü üstünlük təşkil edən strategiya hansıdır?
+• Nash tarazlığının bir hissəsi ola bilməyən strategiya.
+• Bu, Bertran tarazlığının bir hissəsini təşkil edə bilməyən bir strategiyadır.
+√ Digər oyunçuların hərəkətlərindən asılı olaraq həmişə maksimum uduşlar gətirən strategiya.
+• Təsadüfi amillərdən asılı olan strategiya.
+• Oyundakı bütün oyunçuların istifadə etdiyi strategiya.
+318. Oyun nəzəriyyəsində dominantlıq və Neş tarazlığı arasındakı əlaqənin başa düşülməsinin əhəmiyyəti nədir?
+• Oyun vəziyyətlərinin təhlili üçün bunun əhəmiyyəti yoxdur.
+• Bu, oyunçuların oyundakı yerini müəyyənləşdirməyə kömək edir.
+• Hər hansı bir oyun yaratmaq üçün bu lazımdır.
+√ Bu əlaqəni başa düşmək oyunçuların hansı strategiyaları seçəcəyini proqnozlaşdırmağa imkan verir.
+• Bu, oyunda oyunçuların iyerarxiyasını yaratmağa kömək edir.
+319. Nə üçün üstünlük təşkil edən strategiya Nash tarazlığının bir hissəsi ola bilməz?
+• Çünki üstünlük təşkil edən strategiya yalnız bir oyunçu tərəfindən istifadə edilə bilər.
+• Çünki dominant strategiya digər oyunçuların hərəkətlərindən asılıdır.
+√ Çünki üstünlük təşkil edən strategiya Nash tarazlığı şərtlərini pozur.
+• Dominant strategiyanın ətraf mühitdən asılı olmasına əsaslanaraq.
+• Çünki dominant strategiya həmişə ən böyük qazancı gətirir.
+320. Dominantlıq və Neş tarazlığı ilə bağlı hansı ifadə doğrudur?
+• Dominant strategiya həmişə Nash tarazlığının bir hissəsi ola bilər.
+• Hər hansı bir üstünlük təşkil edən strategiya həmişə Nash tarazlığına daxil edilə bilər.
+• Dominantlıq həmişə Nash tarazlığına gətirib çıxarır.
+• Dominantlıq və Nash tarazlığı əlaqəli deyil.
+√ Dominant strategiya Nash tarazlığının bir hissəsi ola bilməz.
+321. Oyun nəzəriyyəsində Neş tarazlığı nə deməkdir?
+• Bu, oyunçuların təsadüfi oynadıqları bir vəziyyətdir.
+• Bu, oyunçuların hərəkət seçimlərini müəyyən etmək üçün təsadüfi ehtimallardan istifadə edə biləcəyi bir vəziyyətdir.
+• Bu, oyunçuların dominant strategiyaları seçdiyi bir vəziyyətdir.
+• Bu, oyunçuların maksimum risklə oynadığı bir vəziyyətdir.
+√ Bu, oyunçuların başqalarının hərəkətlərini nəzərə alaraq ən yaxşı gəlir gətirən strategiyaları seçdiyi bir vəziyyətdir.
+322. Oyun nəzəriyyəsində dominantlıq nə deməkdir?
+• Bu, digər oyunçuların hərəkətlərindən asılı olan bir strategiyadır.
+• Bu, rəqibin strategiyasına uyğunlaşmadır.
+• Bu, hər bir oyunçunun həmişə seçdiyi strategiyadır.
+• Bu, oyunçuya oyun vəziyyəti üzərində nəzarəti təmin edən bir strategiyadır.
+√ Bu, digər oyunçuların hərəkətlərindən asılı olaraq ən böyük qazanc gətirən bir strategiyadır.
+323. Oyunun təkrar raundlarında (dövrələrində) oyunçulara Neş tarazlığına yaxınlaşmağa hansı amillər kömək edə bilər?
+• Təkrar dövrə yoxdur.
+√ Oyunçuların strategiyalarını öyrənə və uyğunlaşdıra biləcəyi təkrarlanan dövrələr.
+• Nash tarazlığı dövrələrin sayından asılı deyil.
+• Hər raundda strategiyaların məcburi dəyişdirilməsi.
+• Tarazlığın Kompleks Tədqiqi
+324. Hansı tətbiqlərdə Nash tarazlığı var?
+• Maksimum qazanc probleminin həllində.
+• Psixoloji aspektlərin və qərarların tədqiqi və təhlilində
+• İdman yarışında qalibin müəyyən edilməsi üsulunda.
+√ Oyunlar, iqtisadiyyat, siyasət və digər sahələrdə strateji qərarların təhlilində.
+• Oyunçu psixologiyasının təhlilində.
+325. Neş tarazlığının oyun nəzəriyyəsində əhəmiyyəti nədir?
+√ Bu elə bir vəziyyətdir ki, başqaları öz strategiyasını dəyişməyincə heç bir oyunçunun strategiyasını dəyişməyə motivasiyası yoxdur.
+• Bu, oyunçulara itkilərini maksimum dərəcədə artırmağa imkan verir.
+• Bu, bir oyunçunun qələbəsinə zəmanət verir.
+• Bu, oyunçuların təsadüfi strategiyalardan istifadə etdiyi bir vəziyyətdir.
+• Bu, oyunçuların təsadüfi olaraq strategiyalarını seçdiyi bir vəziyyətdir.
+326. Neş tarazlığını hansı konsepsiya təsvir edir?
+• Bütün oyunçuların itirdiyi bir vəziyyət
+• İdeal və ya mümkün olan ən yaxşı oyun vəziyyəti.
+√ Oyunda oyunçuların strateji seçimi.
+• Optimal oyun vəziyyəti.
+• Oyunçuların strategiyalarını düzgün qiymətləndirmədiyi bir vəziyyət.
+327. Nəticənin Nash tarazlığı olması üçün hansı şərtlər yerinə yetirilməlidir?
+• Oyunçuların uduşları maksimum dərəcədə artırılmalıdır.
+• Oyunçular ən böyük qələbəni əldə etməyi hədəfləməlidirlər.
+• Oyunçular növbə ilə strategiyalarını dəyişdirməlidirlər.
+• Bütün oyunçular eyni strategiyadan istifadə etməlidirlər.
+√ Heç bir oyunçunun strategiyasını dəyişməyə motivasiyası olmamalıdır, bir şərtlə ki, başqaları öz strategiyalarını dəyişməz saxlasınlar.
+328. Oyun nəzəriyyəsində “Neş tarazlığı” nədir?
+• Bütün oyunçuların uduşlarının sıfır olduğu bir vəziyyət.
+• Heç bir oyunçunun müsbət nəticə almadığı bir vəziyyət.
+• Bütün oyunçuların eyni strategiyalardan istifadə etdiyi bir vəziyyət.
+• Oyunçuların uduşlarını artırmaq üçün strategiyalarını dəyişdirdikləri bir vəziyyət.
+√ Başqalarının strategiyalarını dəyişməməsi şərti ilə heç bir oyunçunun öz strategiyasını dəyişməyə motivasiyasının olmadığı bir vəziyyət.
+329. Dominant strategiyalar olmayan oyunun nəticəsinə hansı amillər təsir edə bilər?
+• Nash tarazlığının mövcudluğu.
+• Oyunun qaydaları.
+• Yalnız oyunçu hərəkətləri.
+√ Oyunçu hərəkətləri və təsadüfi hadisələr də daxil olmaqla bir çox dəyişən.
+• Yalnız oyunçu strategiyaları.
+330. Dominant strategiyaları olmayan və çoxsaylı mümkün nəticələri olan oyunlar hansı sahələrdə istifadə olunur?
+• İncəsənət və mədəniyyətdə.
+• Texniki elmlərdə.
+• Yalnız oyun nəzəriyyəsində.
+• Tibbdə.
+√ İqtisadiyyatda, siyasətdə və digər sahələrdə.
+331. Oyunun nəticəsini proqnozlaşdırmaq üçün hansı oyun nəzəriyyəsi üsullarından istifadə etmək olar?
+• Bertran tarazlığı.
+• Strategiyaların təsadüfi seçimi.
+√ Nash tarazlığı.
+• Dominant strategiyalar.
+• Monte Karlo üsulu.
+332. Oyun nəzəriyyəsində oyunun nəticəsinin proqnozlaşdırılmasına hansı amillər təsir edir?
+√ Oyunçuların üstün hesab etdiklərivə informasiya.
+• Oyunun müddəti.
+• Oyunçuların şansı.
+• Oyundakı oyunçuların sayı.
+• Dominant strategiyaların olması.
+333. Klassik məhbus dilemmasının əsas nəticəsi nədir?
+• Ən yaxşı nəticə o zaman əldə edilir ki, hər bir oyunçu öz maraqlarına uyğun hərəkət etsin.
+• Ən yaxşı nəticə həmişə optimal deyil.
+• Ən yaxşı nəticə bir oyunçu digərinə xəyanət etdikdə əldə edilir.
+√ Ən yaxşı nəticənin hər iki oyunçunun əməkdaşlıq etdiyi və susduğu zaman əldə olunmasını.
+• Optimal nəticə yoxdur.
+334. Oyunçuların dərhal Nash tarazlığına çatmasını gözləmək niyə əsassız ola bilər?
+• Neş tarazlığı oyun nəzəriyyəsində mövcud deyil.
+• Nash tarazlığı təbiətdə mövcud deyil.
+• Oyunçular həmişə başlanğıcdan optimal strategiyaları bilirlər.
+• Oyunçular həmişə təsadüfi hərəkət edir və başqalarının strategiyalarına əməl etmirlər.
+√ Real situasiyalarda oyunçuların başqalarının strategiyaları haqqında məlumatı olmaya bilər və necə düzgün hərəkət edəcəyini bilmirlər.
+335. Neş tarazlığını strateji qərarların qəbulunda mühüm alətə çevirən nədir?
+• İstənilən oyunda qələbəyə zəmanət verir.
+• Pareto optimallığına əks olması.
+√ Bu, oyunçulara digər oyunçuların hansı strategiyalardan istifadə edəcəyini proqnozlaşdırmağa kömək edir.
+• Bu, mütləq bütün oyunçuların strategiyalarında dəyişiklik tələb edir.
+• Bu, bütün oyunları ədalətli və itkisiz edir.
+336. Neş tarazlığı anlayışı iqtisadiyyatdan başqa hansı sahələrdə istifadə olunur?
+• Yalnız musiqidə.
+• Kosmonavtika və astronomiyada.
+• Texniki elmlərdə.
+√ Psixologiya, biologiya, siyasət və digər sahələrdə.
+• Yalnız fizikada.
+337. Oyunda Nash tarazlığına nail olmaq üçün hansı amillər kömək edə bilər?
+• Oyunçular tərəfindən təsadüfi strategiya seçimi.
+• Oyunçuların strateji düşüncələri.
+• Hər növbədə hər oyunçu tərəfindən strategiyaların dəyişdirilməsi.
+√ Oyunçuların strategiyaları arasında müəyyənlik və qarşılıqlı əlaqə.
+• Həmişə qələbəyə aparan dominant strategiyalar.
+338. Oyun nəzəriyyəsində “dominantlıq” nə deməkdir?
+• Bir oyunçunun digər iştirakçıların hərəkətlərini proqnozlaşdırmaq qabiliyyəti.
+• Nash tarazlığı konsepsiyası.
+• Bir oyunçunun digər iştirakçılar üzərində qələbəsi.
+• Həmişə dominant strategiyadan istifadə edən oyunçu.
+√ Bir strategiyanın digərindən üstünlüyü.
+339. Hansı hallarda oyun zamanı dominant strategiyalar dəyişə bilər?
+• Dominant strategiyalar oyun zamanı dəyişə bilməz.
+√ Yalnız oyunun qaydaları dəyişərsə.
+• Yalnız oyunçular strategiyalarını dəyişməyə razı olduqda.
+• Həmişə, çünki dominant strategiyalar dəyişkəndir.
+• Oyun daha gözlənilməz olduqda və oyunçuların strateji düşüncəsinə əsaslandıqda
+340. Oyunda dominant strategiyalar olmadıqda nə baş verir?
+• Oyunçular hansının ən yaxşı olduğunu bilmədən təsadüfi strategiya seçirlər.
+• Oyunçular qalib gəlmək üçün təsadüfi strategiyalardan istifadə edə bilərlər.
+• Tarazlıq əldə edilə bilməz.
+√ Bu o deməkdir ki, oyunu oyun nəzəriyyəsi ilə həll etmək mümkün deyil.
+• Belə bir oyunda oyunçular mütləq məğlub olacaqlar.
+341. Nə üçün dominant strategiya oyunçu üçün optimal hesab olunur?
+• Çünki bu, ən az yayılmış strategiyadır.
+• Çünki bu, ən az populyar strategiyadır.
+• Çünki təsadüfi amillərdən asılıdır və müəyyən uduşları yoxdur.
+• Çünki bu, həmişə oyunu qazanmağa gətirib çıxarır.
+√ Çünki digər oyunçuların hərəkətlərindən asılı olmayaraq həmişə maksimum qələbə gətirir.
+342. Oyun nəzəriyyəsində dominant strategiya hansıdır?
+• Adətən yeni başlayanlar və ya təcrübəsiz oyunçular tərəfindən seçilən taktikalar
+• Yalnız başlanğıc oyunçular tərəfindən istifadə olunan bir strategiya.
+• Oyunun hər turunu dəyişən strategiya.
+• Oyundakı oyunçuların sayından asılı olan strategiya.
+√ Digər oyunçuların seçimlərindən asılı olmayaraq həmişə oyunçuya ən böyük uduşlar gətirən strategiya.
+343. Əgər təhlilin sadələşdirilməsi nəticəsində hər bir oyunçu üçün yalnız bir strategiya qalırsa, bu nə deməkdir?
+• Oyunçular fəaliyyət üçün daha müxtəlif imkanlar və seçimlər yaradırlar.
+• Bu oyunçular yeni strategiyalar əlavə etməlidirlər.
+√ Oyunun proqnozlaşdırıla bilən nəticəsi Nash tarazlığına çevrilir.
+• Oyunda Nash tarazlığı yoxdur.
+• Oyunçuların oyun qaydaları ilə razılaşa bilməməsi.
+344. Klassik məhbus dilemması nəyi nümayiş etdirir?
+• Hər kəs yalnız öz maraqlarına uyğun necə hərəkət etməlidir.
+• Məhkumlar üçün şahmat oynamağın əhəmiyyətini.
+√ Fərdi rasionallıq və sosial rifah arasında ziddiyyəti.
+• İstənilən vəziyyətdə necə əməkdaşlıq etmək olar.
+• Cəmiyyətlə qarşıdurmanı.
+345. Klassik məhbus dilemmasında hər iki məhbus üçün ən yaxşı nəticə hansıdır?
+• Nəzarətçi ilə sövdələşmə.
+• Əməkdaşlıqdan imtina və hər ikisindən susmaq.
+• Bir məhbusun xəyanəti.
+• Hər iki məhbusun xəyanəti.
+√ Hər ikisinin əməkdaşlığı və susması.
+346. Klassik məhbus dilemmasında iki məhbus nə edir?
+• Strategiya çoxluqları yaradırlar
+• Onlar kart oynayırlar.
+• Onlar intellektual mövzularda yarışırlar.
+√ Bir-birlərinə əməkdaşlıq etmək və ya xəyanət etmək qərarına gəlirlər.
+• Onlar amnistiya tələb edirlər.
+347. Klassik məhbus dilemması nədir?
+• Məhkumlar arasında basketbol oyunudur.
+• Yaxşı və pis əməllər arasında əxlaqi seçimdir.
+√ İki şübhəlinin əməkdaşlıq və ya xəyanət seçimi ilə üzləşdiyi bir vəziyyətdir.
+• Pareto optimal vəziyyətidir
+• Qarşılıqlı təsirin iqtisadi nəzəriyyəsidir.
+348. Oyun nəzəriyyəsində oyunun nəticələri toplusunu necə təsvir etmək olar?
+• Oyunun nəticələri toplusu həmişə məhdud sayda elementə malikdir.
+• Oyunun nəticələrinin toplusu yalnız qalib funksiyası vasitəsilə müəyyən edilir
+• Oyunun nəticələrinin toplusu həmişə iştirakçıların sabit sayı ilə müəyyən edilir.
+√ Oyun nəticələri toplusu davamlı ola bilər və müəyyən bir oyunun xüsusiyyətlərindən asılı ola bilər.
+• Oyunun nəticələri toplusu mücərrəddir və heç bir tərifi yoxdur.
+349. Cəmi "0" - a bərabər olan oyun sayılır...
+• Şahmat
+√ Futbol
+• Kart oyunları
+• Qeyd edilənlərdən hamısı yalnışdır
+• Siqnal oyunu
+350. Oyun ağacı haqqında qeyd edilənlərdən biri yalnışdır.
+• Oyun ağacı oyunlar nəzəriyyəsinin modellərindən biridir
+√ Oyun ağacında qərar nöqtələrinə budaqlar deyilir
+• İstənilən iki nöqtə üçün bu iki nöqtəni birləşdirən yalnız bir yol var
+• Digər bütün nöqtələrdən verilmiş nöqtəyə aparan bir yol olmalıdır
+• Oyun ağacı qərar nöqtələri və bu nöqtələri birləşdirən istiqamətlənmiş yollar toplusudur
+351. Bir oyunda oyunun necə oynanılacağına aid hər şey hesaba alınıb hazırlanan plan necə adlanır?
+• Bilik səviyyəsi
+√ Strategiya
+• Gediş
+• Fayda
+• Razılaşma
+352. Bir oyunçunun rəqiblərinin nə etdiyini diqqətə almadan faydasını maksimizə edən strategiyası necə adlanır?
+• kooperativ strategiya
+√ Dominant strategiya
+• Fayda strategiyası
+• Qazanc strategiyası
+• Oyunçu strategiyası
+353. Oyunçular arasında əməkdaşlıq edilməsi qadağan olunan və hər oyunçu öz faydasını maksimallaşdırmaq istədiyi oyunlara nə ad verilir?
+• Kooperativ oyunlar
+√ Qeyri koorperativ oyunlar
+• Cəmi 0 olan oyunlar
+• Qeyd edilənlərdən hamısı yalnışdır
+• İki nəfərlik oyunlar
+354. Oyun nəzəriyyəsində bir oyunçunun qazancı hər zaman eyni miqdarda digər oyunçunun zərəri ilə baş verirsə, belə oyunlara nə ad verilir?
+• Cəmi “0”-a bərabər olmayan
+√ Cəmi “0”-a bərabər olan
+• Cəmi 1 olan oyun
+• Cəmi 2 olan oyun
+• Cəmi qeyri müəyyən olan
+355. Aşağıdakılardan hansı oyunda olması vacib olan elemetlərin içərisində yer almır?
+• Oyunun qayda və strategiyaları
+√ Ehtiyat oyunçular
+• Oyunun sonu
+• Qeyd edilənlərin hamısı yalnışdır
+• Oyunun sonunda əldə olunan faydalar
+356. Hər bir oyunçunun strategiyası digər oyunçunun strategiyasına qarşı ən uyğun olan strategiyaya nə ad verilir?
+• Koorperativ strategiya
+√ Nash tarazlığı
+• Oyunçu strategiyası
+• Gəlir strategiyası
+• Fayda strategiyası
+357. Bir oyunda mövcud olması şərt olan ən az oyunçu sayı nə qədərdir?
+• 3
+√ 2
+• 4
+• 5
+• 1
+358. Bir oyunçunun qazancı, digər oyunçunun uduzmağıdırsa bu cür oyunlara nə ad verilir?
+• Cəmi “0”-a bərabər olmayan
+√ Cəmi “0”-a bərabər olan
+• Cəmi 1 olan oyun
+• Göstərilənlərdən heç biri
+• Cəmi qeyri müəyyən olan
+359. Oyun ağacında qərar nöqtələrinə nə deyilir?
+• Qovşaq
+√ Düyün
+• Budaq
+• Göstərilənlərdən heç biri
+• Mərkəz
+360. Aşağıdakılardan hansında oyun nəzəriyyəsini inkişaf etdirənlər doğru verilmişdir?
+• D. V. Carlton və J. M. Perloff
+√ J. Von Neumann və O. Morgenstern
+• E. Rasmusen
+• S. Bierman və L. Fernandez
+• D. Kreps
+361. Tenderlər qeyri koorperativ oyunların hansı növlərinə aiddir?
+• Natamam məlumatlı dinamik
+√ Natamam məlumatlı statik
+• Tam məlumatlı dinamik oyunlar
+• Tam məlumatlı statik oyunlar
+• Tam məlumatlı statik oyunlar
+362. Qərar nöqtələri və bu nöqtələri birləşdirən istiqamətlənmiş yollar toplusu necə adlanır?
+• Oyun matrisi
+√ Oyun ağacı
+• Oyun sxemi
+• Qeyd edilənlərdən hamısı yalnışdır
+• Oyun diaqramı
+363. Oyun ağacı haqqında qeyd edilənlərdən biri yalnışdır.
+• Ağacvari model ağacın gövdəsindən uzanan budaqlarını nəzərdə tutur
+• İstənilən iki nöqtə üçün bu iki nöqtəni birləşdirən yalnız bir yol var
+√ Verilimiş nöqtəyə 2 fərqli yol apara bilər
+• Bir başlağıc nöqtəsi var, bu nöqtəyə aparan yol yoxdur
+• Digər bütün nöqtələrdən verilmiş nöqtəyə aparan bir yol olmalıdır
+364. Yalnız 2 oyunçu olduqda oyunu aşağıdakılardan hansı ilə modelləşdirə bilərik?
+• Ağacvari diaqram
+• Qeyd edilənlərdən hamısı yalnışdır
+• Məntiqi ifadələr
+√ Binar matris
+• Riyazi əmrlərlə
+365. Oyun nəzəriyyəsi modellərindən biri yalnışdır?
+• Matrislər
+• Ağacvari
+• Riyazi əmrlər
+√ Məntiqi
+• Qeyd edilənlərdən hamısı yalnışdır
+366. "Ümumi bilik" haqqında qeyd edilənlərdən biri yalnışdır
+• Mən digər oyunçunun nə bildiyini bilirəm
+• Qeyd edilənlərdən heç biri
+• Digər oyunçu mənim onun haqqında bildiyimi bilmir
+√ Mənim bildiklərimi digər oyunçu bilmir
+• Digər oyunçu bilir ki, onun mənim haqqımda bildiyini bilirəm
+367. Siqnal oyunu qeyri kooperativ oyunların hansı növünə aiddir?
+• Natamam məlumatlı statik
+• Tam məlumatlı statik
+• Tam məlumatlı dinamik
+√ Natamam məlumatlı dinamik
+• Qeyd edilənlərdən heç biri
+368. Tam məlumatlı statik oyun nədir?
+• Qeyd edilənlərdən heç biri
+• Bütün oyunçuların eyni vaxtda gediş etdiyi, ən azı bir oyunçunun öz faydası və strategiyası haqqında natamam məlumata malik olduğu oyun
+• Oyunçuların digər oyunçuların faydaları və strategiyaları haqqında tam məlumata malik olduqları, lakin əvvəlki oyunçunun strategiyasına uyğun gedişlər etdikləri oyun
+√ Oyunçuların digər oyunçuların faydaları və strategiyaları haqqında tam məlumata malik olduğu və hər kəsin eyni anda hərəkət etdiyi oyun
+• Oyunçuların əvvəlki oyunçunun strategiyasına uyğun gediş etdiyi, ən az bir oyunçunun fayda və strategiya haqqında natamam məlumata malik olduğu oyun
+369. Natamam məlumatlı statik oyun nədir?
+• Oyunçuların digər oyunçuların faydaları və strategiyaları haqqında tam məlumata malik olduğu və hər kəsin eyni anda hərəkət etdiyi oyun
+• Qeyd edilənlərdən heç biri
+• Oyunçuların əvvəlki oyunçunun strategiyasına uyğun gediş etdiyi, ən az bir oyunçunun fayda və strategiya haqqında natamam məlumata malik olduğu oyun
+√ Bütün oyunçuların eyni vaxtda gediş etdiyi, ən azı bir oyunçunun öz faydası və strategiyası haqqında natamam məlumata malik olduğu oyun
+• Oyunçuların digər oyunçuların faydaları və strategiyaları haqqında tam məlumata malik olduqları, lakin əvvəlki oyunçunun strategiyasına uyğun gedişlər etdikləri oyun
+370. Digər oyunçuların hərəkətlərindən asılı olmayaraq hər bir oyunçunun özü üçün ən yaxşı strategiya seçməsi necə adlanır?
+• İrrasional
+• Nash tarazlığı
+• Rasionallaşdırılan
+√ Dominant
+• Qeyd edilənlərdən heç biri
+371. Kodlaşdırma prosesini həyata keçirən dövrələr hansılardır?
+• Dekoderlər
+• Qeyd edilənlərdən heç biri
+• Demultipleksorlar
+√ Koderlər
+• Multipleksorlar
+372. Kodlaşdırma nəyə deyilir?
+• Məlumatın 2 - lik say sistemindən digər say sistemlərinə çevrilməsi
+√ Məlumatın 2 - lik say sisteminə çevrilməsinə
+• İkilik sistemdəki məlumatın insanın başa düşəcəyi şəkilə çevrilməsinə
+• Məlumatın 10 - luq say sisteminə çevrilməsinə
+• Qeyd edilənlərdən heç biri
+373. Özünəməxsus strategiyaları olan, bir birinin hərəkətindən təsirlənən iki və ya da daha çox şirkətin rəqabətini analiz edən nəzəriyyə necə adlanır?
+• Qeyd edilənlərin hamısı yalnışdır
+• Davranış nəzəriyyəsi
+• Qiymət nəzəriyyəsi
+√ Oyunlar nəzəriyyəsi
+• İstehsalçı nəzəriyyəsi
+374. Statik oyunların digər adı nədir?
+• Üç periodlu oyun
+• Qoşa periodlu oyun
+• Periodsuz oyun
+• Çoxperiodlu oyun
+√ Tək periodlu oyun
+375. Hansı oyun qarşılıqlı təsirlərində oyunçular özləri üçün ən yaxşı strategiyaları seçirlər, lakin əməkdaşlıq daha sərfəli nəticəyə gətirib çıxara bilər?
+• Simmetrik qarşılıqlı əlaqə.
+• Asimmetrik qarşılıqlı əlaqə.
+√ Kooperativ qarşılıqlı əlaqə.
+• Əldə edilə bilən qarşılıqlı əlaqə.
+• Münaqişə qarşılıqlı əlaqəsi.
+376. Hansı oyun növü güman edir ki, oyunçular arasında əməkdaşlıq hamı üçün ən yaxşı nəticəyə gətirib çıxarır, lakin hər bir oyunçu öz mənfəətini maksimum dərəcədə artırmağa çalışır?
+• Bazar oyunu.
+• Koalisiya oyunu.
+• Münaqişə oyunu.
+√ Kooperativ oyun.
+• Bir nəticəli oyun.
+377. Oyunçuların əməkdaşlıqdan daha az əlverişli nəticə əldə etməsi vəziyyəti nə ilə xarakterizə edir?
+√ Ümuminin faciəsi.
+• Fərdilik.
+• Qarşılıqlı təsir.
+• Kollektivizm.
+• Demokratik seçim
+378. Hansı oyunçular öz strategiyalarını özləri üçün mümkün olan ən yaxşı variantlara əsaslanaraq seçirlər, lakin əməkdaşlıq etməklə daha sərfəli nəticə əldə edə bilərlər?
+• Qeymerlər.
+• Altruist oyunçular.
+√ Rasional oyunçular.
+• Eqoist oyunçular.
+• Kollektiv oyunçular.
+379. Hər bir oyunçunun rəqibin hərəkətindən asılı olmayaraq özü üçün ən yaxşı strategiyanı seçməsi, lakin eyni zamanda hər iki oyunçunun əməkdaşlıq edərək daha yaxşı nəticə əldə edə bilməsi hansı oyun qarşılıqlı əlaqəsi ilə xarakterizə olunur?
+• Oliqopoliyanın yaradılması.
+• Sıfır məbləğ.
+• Kooperativ oyun.
+• Strateji təhlil.
+√ Mükəmməl rəqabət.
+380. Oyun nəzəriyyəsi kimin adı ilə bağlıdır?
+• Qeyd edilənlərdən heç biri
+• E. Rasmusen
+√ J. Von Neumann və O. Morgenstern
+• D. V. Carlton və J. M. Perloff
+• D. Kreps
+381. Oyun aksiomlarından biri doğru göstərilmişdir
+• Qeyd edilənlərin hamısı yalnışdır
+• Oyunçuların faydaları digər oyunçuların strategiyalarından asılı deyil
+• Oyunda ən az 3 nəfər tələb olunur
+√ Oyunda olduğunu bilməyən oyunçu strategiya qura bilməz
+• Rasional oyunçu oyunda digər oyunçuların da fayda qazanmasını istəyir
+382. Oyunun qaydalarını gözləməklə oyunçu tərəfindən seçilən və icra edilən gediş dedikdə hansı başa düşülür?
+• Təsadüfi gediş
+• Stoxastik gediş
+• Ehtimallı gediş
+√ Şəxsi gediş
+• Determinik gediş
+383. Oyun nəzəriyyəsi haqqında yalnış fikri müəyyənləşdirin
+• Rasional oyunçu rasional qərarlar qəbul edir
+• Oyun nəzəriyyəsi bir qrupun fərdləri arasında münasibətləri öyrənir
+• Strategiyasi olmayan oyunçu təsadüfi gediş edəcək
+• Oyunda olduğunu bilməyən oyunçu strategiya qura bilməz
+√ Oyunçunun faydası digər oyunçunun strategiyasından asılı olmur
+384. Zermelo teoremi hansı oyunlarda tətbiq olunur?
+• Sadalanan bütün oyunlarda
+• Yalnız Ultimatum oyununda
+• Yalnız fasiləsiz oyunlarda
+√ Dəqiq məlumatlı iki nəfərlik sonlu oyunlarda
+• Yalnız şahmatda
+385. Mağazada yüksək qiymət təyin edilməsi nəyə əsaslanır?
+• Rəqiblərin olmamasına.
+• Qiymət rəqabətində iştirak etmək istəyinə.
+• Qiymətləri aşağı salmaqla müştəriləri cəlb etmək.
+√ Geniş çeşidli məhsulların və yaxşı xidmətin mövcudluğuna.
+• Müştəriləri cəlb etmək üçün qiymətləri aşağı salmağa.
+386. Ucuz qiymətə satılan malları alarkən hansı çətinliklər yarana bilər?
+• Yüksək keyfiyyətli məhsul.
+• Qeyri-kafi əmtəə seçimi.
+• İstehlakçı tələbatının olmaması.
+• Əmtəə izafiliyinin mövcudluğu.
+√ Sifariş və çatdırılma ilə bağlı problemlər.
+387. Zermelo teoremi iki nəfərlik mükəmməl informasiyalı sonlu oyunlar haqqında nə deyir?
+• Dəqiq ifadə yoxdur
+• Sonlu oyunlarda həmişə heç-heçə nəticə var
+• Şans qərar qəbul etmə prosesinə təsir göstərə bilər
+√ Oyunçulardan birinin həmişə qalib strategiyası vardır
+• Oyunçular sonlu oyunlarda eyni vaxtda hərəkət edirlər
+388. Hansı səbəblər birbaşa rəqabət üçün əsas kimi göstərilə bilər?
+• Satılmamış malların ləğvi.
+• Mənfəəti artırmaq ehtiyacı.
+• Təkmilləşdirilmiş məhsul modelləri.
+√ Sadalananların hamısı.
+• Məhsul və ya xidmətlərin keyfiyyəti.
+389. Alqoritmik oyun nəzəriyyəsi kontekstində “uşaq oyunları” nəyi əks etdirir?
+• yalnız yaşlı insanlar üçün nəzərdə tutulan oyunları.
+• Kiçik uşaqlar üçün tövsiyə olunan oyunları.
+• Uşaqlara riyaziyyat öyrətmək üçün istifadə olunan oyunları.
+√ Alqoritmlərlə əlaqəli oyunları və düzgün oynandıqda qalib olmağı.
+• Uşaqlara strategiya öyrətmək üçün istifadə olunan oyunları.
+390. Əgər şirkət mükəmməl rəqabət şəraitində qiymətləri aşağı salmaqla lider olmağa çalışırsa, nə baş verə bilər?
+• Şirkətlərin gəlirliliyinin artırılması.
+• Bazar seqmentlərinin sabitliyi.
+√ Bütün satıcılar üçün gəlirin azalması və bazardan çıxış.
+• Bütün iştirakçılar üçün mənfəətin artırılması.
+• Malların qiymətlərinin artması.
+391. Alqoritmik oyun nəzəriyyəsinin balansların səmərəliliyi ilə bağlı bölmə nəyi öyrənir?
+• Beynəlxalq münasibətlər modellərinin təhlilini.
+• Musiqinin oyun proseslərinin qavranılmasına təsirini.
+• Şahmatda qalibiyyət strategiyalarının müəyyən edilməsini.
+√ Bir oyunçunun fərdi qollarının dəyərinin müqayisəsini.
+• Kompüter oyunları üçün proqramların hazırlanmasını.
+392. Alqoritmik oyun nəzəriyyəsində mexanizmin layihələndirilməsi nə üçün lazımdır?
+• Rəqəmsal mühitlərdə hərracların keçirilməsi üçün.
+• Kompüter oyunlarında virtual dünya yaratmaq üçün.
+• Oyunlarda gözəl dizaynlar yaratmaq üçün.
+• Yeni alqoritmlər hazırlamaq üçün.
+√ Rasional oyunçuların müəyyən bir məqsədə çatmasını təmin edən mexanizmləri müəyyənləşdirmək və qaydaları müəyyən etmək üşün.
+393. “Alqoritmik oyun nəzəriyyəsi” hansı sahəni əhatə edir?
+• Psixologiyada eksperimental tədqiqatları.
+• Nəzəri informatika çərçivəsində fiziki məşqlərin inkişafını.
+• İqtisadiyyat sahəsində riyaziyyatın öyrənilməsini.
+• Alqoritmlərin aspektlərinin kəmiyyət baxımından öyrənilməsini.
+√ Oyunlarda rəqabət və əməkdaşlıq hadisələrinin alqoritmik nöqteyi-nəzərdən təhlilini.
+394. Əgər hər iki agent rasional olsalar və “Ultimatum” Oyununda öz gəlirlərini maksimuma çatdırsalar, nəticə nədir?
+• Oyunçular həmişə məntiqsizdir.
+• Hər iki oyunçunun uduşu həmişə sıfırdır.
+• Oyunçular həmişə təklif olunan payla razılaşırlar.
+√ Hər iki oyunçunun uduşu müsbət olaraq qalır.
+• Oyunçu A həmişə sıfırdan çox qazanc alır.
+395. Klassik faydalılığın maksimumlaşdırılması nəzəriyyəsinə görə bu oyunda oyunçuların rasionallığı nə deməkdir?
+• Oyunçular həmişə mümkün olan ən yüksək pay təklif edirlər.
+• Oyunçular həmişə sıfır bahis təklif edirlər.
+• Oyunçular uduşlarına fikir vermirlər.
+√ Oyunçular uduşlarını maksimum dərəcədə artırmağa çalışırlar.
+• Oyunçular həmişə təklif olunan payla razılaşırlar.
+396. Klassik faydalılığın maksimumlaşdırılması nəzəriyyəsinə görə, B oyunçusu A oyunçusunun “Ultimatum” oyununda təklif etdiyi payı qəbul etməsə nə baş verir?
+• Hər iki oyunçunun uduşu sıfır olaraq qalır.
+√ Oyunçu B sıfırdan çox qazanc alır.
+• Hər iki oyunçunun uduşu mənfi olur.
+• Oyunçu B həmişə sıfır qazanc əldə edir.
+• B oyunçusunun imtina etmək hüququ yoxdur.
+397. Nə üçün A oyunçusunun “Ultimatum” oyununda mümkün olan minimum payı təklif etməsi daha sərfəlidir?
+√ Oyunçu A uduşunu artırmaq istəyir.
+• Oyunçu A həmişə maksimum pay təklif edir.
+• Oyunçu A həmişə bu oyunda qalib gəlir.
+• A oyunçusu B oyunçusunun qalib gəlməsini istəmir.
+• A oyunçusu B oyunçusunun uduşlarına əhəmiyyət verir.
+398. “Ultimatum” Oyununda klassik faydalılığın maksimumlaşdırılması nəzəriyyəsinin əsas fərziyyəsi hansıdır?
+• Oyunçu A-nın təklif etdiyi paydan asılı olmayaraq, oyunçuların gəlirləri sıfırdır.
+• Oyunçu A həmişə sıfır pay təklif edir.
+• A və B oyunçuları həmişə təklif olunan payla razılaşırlar.
+√ Hər iki agent rasionaldır və gəlirlərini maksimuma çatdırır.
+• Oyunçu A həmişə maksimum pay təklif edir.
+399. Sonlu oyunda simmetrik qarışıq Neş tarazlığının əsas xarakteristikaları hansılardır?
+• Bütün oyunçular həmişə strategiyalarını dəyişirlər.
+• Bütün oyunçular həmişə təsadüfi strategiyalardan istifadə edirlər.
+√ Bütün oyunçular qarışıq strategiyalardan istifadə edir və strategiyasını dəyişmək heç kimə sərfəli deyil.
+• Bütün oyunçular həmişə eyni sayda xal qazanırlar.
+• Bütün oyunçular həmişə eyni strategiyadan istifadə edirlər.
+400. Sonlu oyunda simmetrik qarışıq strategiyanın olması nə üçün vacibdir?
+• Onlar oyunçulara daha çox xal qazanmağa imkan verir.
+• Simmetrik strategiyalar oyunu daha maraqlı edir.
+• Oyun nəzəriyyəsində simmetrik strategiyalar vacib deyil.
+√ Onlar ədalətli və davamlı tarazlığa zəmanət verirlər.
+• Simmetrik strategiyalar həmişə oyunda qələbəni təmin edir.
+401. Oyun nəzəriyyəsi kontekstində “simmetrik qarışıq Neş tarazlığı” nə deməkdir?
+√ Bu, bütün oyunçuların qarışıq strategiyalardan istifadə etdiyi və strategiyasını dəyişdirməkdən heç kimin faydalanmadığı bir tarazlıqdır.
+• Bu, bütün oyunçuların həmişə təsadüfi strategiyalardan istifadə etdiyi bir oyundur.
+• Bu, bütün oyunçuların həmişə eyni strategiyadan istifadə etdiyi bir oyundur.
+• Bu, bütün oyunçuların eyni sayda xal qazandığı bir oyundur.
+• Bu, oyunçuların təsadüfi strategiyalardan istifadə etdiyi bir tarazlıqdır.
+402. Oyun nəzəriyyəsində oyunu sonlu kimi xarakterizə edən nədir?
+• Heç bitməyən bir oyun.
+• Qələbənin olmadığı bir oyun.
+• Limitsiz sayda oyunçu və strategiya ilə oyun.
+√ Məhdud sayda oyunçu və strategiyaları olan bir oyun.
+• Sonsuz sayda oyunçu ilə oyun.
+403. Simmetrik oyunlarda simmetriyanın əhəmiyyəti nədir?
+• Simmetriya o deməkdir ki, oyunçuların uduşları həmişə fərqlidir.
+• Simmetrik oyunlarda simmetriyanın əhəmiyyəti yoxdur.
+• Simmetriya oyunçuların həmişə eyni strategiyadan istifadə etməsi deməkdir.
+• Simmetriya oyunun heç-heçə başa çatması deməkdir.
+√ Simmetriya o deməkdir ki, oyunçular uduşları dəyişmədən yerləri dəyişə bilərlər.
+404. Simmetrik oyunlarda oyunçular üçün qazanclar hansılardır?
+• Simmetrik oyunlarda qazanc vacib deyil.
+• Uduşlar təsadüfi amillərdən asılıdır.
+• Uduşlar oyundakı oyunçuların sayına görə müəyyən edilir.
+√ Uduşlar həmişə bütün oyunçular üçün eynidir.
+• Uduşlar hər turda dəyişir.
+405. Simmetrik oyunlar kontekstində “yer dəyişdirmək” nə deməkdir?
+• Simmetrik oyunlarda bu mümkün deyil.
+• Oyunçular adlarını və strategiyalarını dəyişirlər.
+• Oyunçular meydanda yerlərini dəyişirlər.
+√ Oyunçular uduşlarını dəyişmədən strategiyalarını dəyişirlər.
+• Oyunçular liderlər lövhəsindəki yerləri dəyişirlər.
+406. Oyun nəzəriyyəsində simmetrik oyunlar nə üçün vacibdir?
+• Onlarda oyunçular hər dövrədə strategiyalarını dəyişirlər.
+• Həmişə eyni nəticələr verirlər.
+• Həmişə heç-heçə başa vururlar.
+• Onların praktiki dəyəri yoxdur.
+√ Onlar oyunçu davranışını təhlil etmək və proqnozlaşdırmaq üçün istifadə edilə bilər.
+407. Oyun nəzəriyyəsində oyunu hansı şərtlər simmetrik edir?
+• Oyunçular hər turda strategiyalarını dəyişirlər.
+• Oyunçular istənilən qaydada oynaya bilər.
+• Oyunçuların uduşları təsadüfi amillərdən asılıdır.
+√ Oyunçuların strategiyaları eyni uduşlara malikdir.
+• Oyunçular həmişə təsadüfi strategiyalardan istifadə edirlər.
+408. Simmetrik oyunlar oyunçuların qərarlarına necə təsir edir?
+• Simmetrik oyunlar oyunçuların qərarlarına təsir göstərmir.
+√ Oyunçular simmetrik oyunlarda müxtəlif strategiyalar seçə bilərlər.
+• Simmetrik oyunlar həmişə itkiyə səbəb olur.
+• Simmetrik oyunlarda oyunçuların qərarları yalnız təsadüfi amillərdən asılıdır.
+• Simmetrik oyunlarda oyunçular həmişə eyni qərarlar verirlər.
+409. Hansı oyunlar simmetrik ola bilər?
+√ Bütün oyunçuların eyni strategiyalara çıxışı olduğu istənilən oyun.
+• Yalnız çox sayda oyunçu ilə oyunlar.
+• Yalnız asimmetrik strategiyaları olan oyunlar.
+• Yalnız oyunçuların bir-birinin hərəkətlərini əks etdirdiyi oyunlar.
+• Yalnız oyunçuların təsadüfi strategiyalardan istifadə etdiyi oyunlar.
+410. Simmetrik tarazlıq asimmetrik tarazlıqdan nə ilə fərqlənir?
+• Asimmetrik tarazlıq həmişə daha sabitdir.
+• Simmetrik tarazlıq yalnız çox sayda oyunçunun olduğu oyunlara aiddir.
+• Simmetrik tarazlıq həmişə daha yüksək uduşlar təmin edir.
+• Asimmetrik tarazlıqda oyunçuların gəlirləri eynidir.
+√ Simmetrik tarazlıqda oyunçular asimmetrik tarazlıqda güzgü strategiyalarından istifadə edirlər, fərqli strategiyalardan istifadə edirlər.
+411. Oyunda simmetrik tarazlığa nə vaxt nail olmaq olar?
+• İstənilən oyunda simmetrik tarazlıq həmişə əldə edilir.
+• Yalnız çoxlu sayda strategiya mövcud olduqda.
+• Yalnız çox sayda oyunçunun olduğu oyunlarda.
+√ Bütün oyunçular eyni strategiyanı seçdikdə və seçimini dəyişmək heç kimə fayda vermədikdə.
+• Yalnız bütün oyunçular təsadüfi strategiyalardan istifadə edərsə.
+412. Simmetrik tarazlıq oyunçuların gəlirlərinə necə təsir edir?
+• Simmetrik tarazlıq həmişə maksimum qazanc təmin edir.
+• Simmetrik tarazlıq yalnız bir oyunçunun uduşunu təmin edir.
+• Simmetrik tarazlıq oyunçuların uduşlarına təsir göstərmir.
+√ Simmetrik tarazlıq bütün oyunçular üçün bərabər gəlir təmin edir.
+• Simmetrik tarazlıq təsadüfi qalibiyyətlə nəticələnir.
+413. Simmetrik tarazlığı hansı şərt xarakterizə edir?
+• Bütün oyunçular oyunun hər turunda strategiyalarını dəyişirlər.
+• Bütün oyunçular fərqli strategiyalardan istifadə edirlər.
+• Bütün oyunçular fərqli strategiyalar seçə bilər, lakin eyni uğur ehtimalına malikdirlər.
+√ Bütün oyunçular eyni strategiyadan istifadə edirlər.
+• Bütün oyunçuların eyni uduşları var.
+414. Oyun nəzəriyyəsində simmetrik tarazlıq nədir?
+• Oyunçuların həmişə ən az gəlirli strategiyanı seçdiyi bir tarazlıq.
+• Bütün oyunçuların bərabər hərəkət etdiyi bir tarazlıq.
+• Oyunçuların təsadüfi strategiyaları seçdiyi tarazlıq.
+√ Oyunçuların güzgü strategiyalarından istifadə etdiyi tarazlıq.
+• Oyunçuların asimmetrik strategiyalardan istifadə etdiyi tarazlıq.
+415. Nə üçün bir neçə oyunçu arasında koordinasiya və məlumat mübadiləsi Nash tarazlığını tapmaqda çətin ola bilər?
+• Çünki çox oyunçulu oyunlarda heç vaxt Nash tarazlığına nail olmaq mümkün deyil.
+• Çünki bütün oyunçular həmişə bir-birinin üstünlüklərini bilirlər.
+• Çünki informasiya mübadiləsi oyun nəzəriyyəsinin mühüm aspekti deyil.
+√ Çünki oyunçuların sayı artdıqca, mümkün üstünlüklərin sayı kəskin şəkildə artır.
+• Çünki düzgün qərarların verilməsində təyinedici element yoxdur.
+416. Oyunçuların Nash tarazlığına çatmaq qabiliyyətinə hansı əlavə amillər təsir edə bilər?
+• Yalnız oyundakı oyunçuların sayı.
+• Aydın üstünlüklər.
+• Oyunun oynanıldığı günün vaxtı.
+√ Mədəni və sosial fərqlər, oyunçu məlumatlılığı, oyunun xarakteri və digər amillər.
+• Yalnız təsadüfi amillər.
+417. Pulsuz göndərmənin itkisiz olmasına nə zəmanət verir?
+• Məhsulların geniş çeşidli olması.
+• Əlavə xidmətlərin olmaması.
+• Yüksək rəqabət səviyyəsi.
+√ Təkrar satışların və minimal sifarişlərin yüksək faizi.
+• Qiymətləri aşağı salmaqla müştəriləri cəlb etmək.
+418. Qiymət rəqabətində iştirakdan imtina edərkən itkilərin qarşısını almaq üçün nə kömək edə bilər?
+• Əlavə rəqiblərin cəlb edilməsi.
+• Endirimlərin və satışların artması.
+• Öz istehsal imkanlarımızdan istifadə etməkdən imtina.
+√ İş prosesinin maksimum avtomatlaşdırılması.
+• Məhsul çeşidinin azaldılması.
+419. Aşağı qiymətli məhsullara üstünlük verənlərə məhsulları baha satarkən nə vacibdir?
+• Müştəriləri aşağı qiymətli satışlarla cəlb etmək.
+• Satışların miqdarının artması.
+• Xidmətlərin səviyyəsində azalma.
+√ Məhsulun keyfiyyətinin yaxşılaşdırılması.
+• Qiymətlərin davamlı olaraq enməsi.
+420. Şəxsi hərrac (VİP) nə ilə xarakterizə olunur?
+• Bütün iştirakçılar çox şey alır.
+• İştirakçılar qeyri-məhdud sayda mərc edə bilərlər.
+• İştirakçılar heç bir məbləğ ödəmirlər.
+√ İştirakçı yalnız bir mərc etmək hüququna malikdir.
+• Yalnız bir iştirakçı lota sahib olur.
+421. Hamının pul ödədiyi hərrac nə ilə xarakterizə olunur?
+• Yalnız bir iştirakçı lota sahib olur.
+• Püşkatma ən aşağı təklifi verən iştirakçıya verilir.
+• İştirakçılar heç bir məbləğ ödəmirlər.
+• Bütün iştirakçılar çox şey alır.
+√ Hər bir iştirakçı öz təklif etdiyi məbləği ödəyir, lakin lot yalnız birinə grdir.
+422. Hansı növ hərrac ikiqat auksionun tipik nümunəsi hesab edilir?
+• Hollandiya auksionu.
+• İngilis auksionu.
+• İkinci qiymət hərracı.
+• İlk qiymət hərracı.
+√ Birja.
+423. Bazar institutu ikiqat auksionda tarazlıq qiymətini necə müəyyən edir?
+• Sabit qiymətdən həmişə istifadə olunur.
+√ Qiymət ticarət yolu ilə təyin olunur.
+• Satıcılar qiymətləri təqdim edir, bazar institutu isə orta qiyməti seçir.
+• Qiymət əvvəlcədən təyin olunub və dəyişdirilə bilməz.
+• Bazar institutu özbaşına qiymət seçir.
+424. İkiqat hərrac nədir?
+• Yalnız bir alıcının iştirak etdiyi hərrac.
+• İki iştirakçı ilə hərrac.
+• Yalnız bir satıcının iştirak etdiyi hərrac.
+√ Bir neçə satıcı və alıcının iştirak etdiyi ümumiləşdirilmiş hərrac forması.
+• Bir satıcı və bir alıcının iştirakı ilə hərrac.
+425. İkiqat auksionun əsas xüsusiyyətləri hansılardır?
+√ Çoxlu satıcı və çoxlu alıcı ilə malların satışı prosesi.
+• Bir çox satıcı və bir alıcı ilə malların satışı prosesi.
+• Bir satıcı və bir neçə alıcı ilə malların satışı prosesi.
+• Yalnız bir satıcı və bir alıcı ilə malların satışı prosesi.
+• Yalnız bir satıcı və bir alıcı ilə malların satışı prosesi.
+426. İkinci qiymət auksionu nə ilə xarakterizə olunur?
+√ İştirakçı “ikinci qiyməti” ödəyir.
+• Ən yüksək qiymətə sahib olan şəxs qalib gəlir.
+• Ən aşağı qiymətə sahib olan iddiaçı qalib gəlir.
+• İştirakçı orta qiyməti ödəyir.
+• İştirakçı qiyməti qazandıqdan sonra müəyyən edir.
+427. İkiqat hərracda qiymət necə müəyyən edilir?
+• Hərrac təşkilatçısı qiyməti hərracdan əvvəl müəyyən edir.
+• Bütün iştirakçılar sabit qiymət ödəyirlər.
+• İştirakçılar ərizədə göstərilən qiyməti ödəyirlər.
+√ Qiymət alqı-satqı başa çatdıqdan sonra formalaşır.
+• İştirakçılar bitdikdən sonra qiymətdə razılaşırlar.
+428. İkinci qiymət hərracı nə ilə xarakterizə olunur?
+• İştirakçı orta qiyməti ödəyir.
+• Ən aşağı qiymətə sahib olan iddiaçı qalib gəlir.
+• Ən yüksək qiymətə sahib olan şəxs qalib gəlir.
+√ İştirakçı “ikinci qiyməti” ödəyir.
+• İştirakçı qiyməti qazandıqdan sonra müəyyən edir.
+429. Birinci qiymət hərracı nə ilə xarakterizə olunur?
+• Qiyməti hərrac bitdikdən sonra təyin edir.
+• Ən aşağı qiymətə sahib olan iddiaçı qalib gəlir.
+• İştirakçı orta qiyməti ödəyir.
+√ Ən yüksək qiymətə sahib olan şəxs qalib gəlir.
+• İştirakçı qiyməti qazandıqdan sonra müəyyən edir.
+430. Müsadirə edilmiş əmlakın satışı ilə bağlı hansı növ hərraclar keçirilə bilər?
+• Yalnız qapalı olanlar.
+• Yalnız açıq olanlar.
+√ Yalnız məcburi olanlar.
+• Hər iki növ auksion.
+• Yalnız könüllü.
+431. Möhürlənmiş hərrac necə keçirilir?
+• Ərizələr qapalı formada təqdim olunur.
+• Dəvət olunmuş iştirakçılarla hərraclar.
+• İştirakçılar bütün rəqiblərin mərclərini görürlər.
+• Müsadirə edilmiş əmlakın satışı.
+√ İştirakçılar rəqiblərinin mərclərini görmürlər.
+432. İştirakçıların tərkibinə görə hərracların hansı növləri mövcuddur?
+• Dəvət olunmuş iştirakçılarla hərraclar.
+• Hər kəsin iştirak edə biləcəyi hərraclar.
+• Yalnız açıq olanlar.
+• Yalnız qapalı olanlar.
+√ Hər iki növ auksion.
+433. Çoxkriteriyalı optimallaşdırma üsulları ilə hansı problemləri həll etmək olar?
+• Düzgün cavab yoxdur
+• Optimal həll yolları ilə bağlı problemləri
+• Yalnız xətti problemləri
+• Yalnız qeyri-xətti problemləri
+√ Bir neçə ziddiyyətli meyarın olduğu vəzifələri
+434. Çox meyarlı optimallaşdırmanın əsas ideyası nədir?
+• Bütün meyarları maksimuma çatdırmaq
+√ Bir neçə ziddiyyətli meyarları nəzərdən keçirmək
+• Meyarlara məhəl qoymaq
+• Yalnız xətti meyarlardan istifadə etmək
+• Bütün meyarları minimuma endirmək
+435. Oyunçunun oyunun hər addımında əvvəlki hadisələri nəzərə alaraq qərar qəbul etdiyi strategiya necə adlanır?
+• Təmiz strategiyalarda strategiya
+• Diferensial Tənlik Strategiyası
+• Düzgün cavab yoxdur
+√ Dinamik strategiya
+• Qarışıq strategiyalarda strategiya
+436. Dinamik oyun nəzəriyyəsinin əsas amilləri hansılardır?
+• Yalnız təsadüfi oyunçu strategiyaları
+• İnsan qarşılıqlı əlaqəsinin olmaması
+• Sabit oyunçu strategiyaları
+• Birdəfəlik oyunçu qarşılıqlı əlaqəsi
+√ Zamanla strategiyaların dəyişdirilməsi
+437. Dəyişən mühitdə strateji qarşılıqlı əlaqəni hansı nəzəriyyə öyrənir?
+• Çox meyarlı optimallaşdırma
+• Xətti proqramlaşdırma
+• Ehtimal nəzəriyyəsi
+• Diferensial tənliklər
+√ Oyun nəzəriyyəsi
+438. Aşağıdakılardan hansı ictimai sərvət nümunəsi DEYİL?
+• Radio yayımı.
+• Bilik.
+• Milli müdafiə.
+• Hüquq sistemi.
+√ Avtomobil.
+439. İctimai mallar nə ilə xarakterizə olunur?
+• İstisna edilməməsi və tükənməsi.
+• Məhdud əlçatanlıq və tükənmə.
+• İstisnasızlıq və tükənmə qabiliyyəti.
+• İstisnasızlıq və tükənməzlik.
+√ İstisna edilməzlik və tükənməzlik.
+440. Hər bir oyunçunun Vikri auksionunda iştirakı digər oyunçuların ödənişlərinə necə təsir edir?
+• Hərracın nəticələrindən asılıdır.
+• Digər oyunçuların ödənişlərini sıfırlayır.
+• Digər oyunçuların ödənişlərini azaldır.
+• Digər oyunçuların ödənişlərinə təsir göstərmir.
+√ Digər oyunçuların ödənişlərini artırır.
+441. VCG auksionu ideyası nəyi nəzərdə tutur?
+• Hər bir iştirakçı maksimum təklifinə bərabər qiymət ödəyir.
+• Qalib malın dəyərinə bərabər qiymət ödəyir.
+• Qalib ikinci ən yüksək təklif verənin təklif etdiyi qiyməti ödəyir.
+√ Hər bir iştirakçı öz iştirakının başqalarına təsirinə görə qiymət ödəyir.
+• Hər bir iştirakçı məhsul üçün minimum qiymət ödəyir.
+442. Hansı növ hərrac adətən təmiz formada tapılmır, lakin digər prosedurların tərkib hissəsi ola bilər?
+• Artan qiymətlə hərraclar.
+√ Hər kəsin ödədiyi hərraclar.
+• Şəxsi hərraclar (VIP).
+• İlk qiymət hərracları.
+• Qiyməti azalan hərraclar.
+443. Roma imperiyası dövründə niyə hərraclar keçirilirdi?
+• Süni gölləri maliyyələşdirmək üçün.
+• Əylənmək üçün.
+√ Hərbi əsirlərin və müsadirə edilmiş əmlakın ticarəti üçün.
+• Borcluların müsadirə edilmiş əmlakını ləğv etmək üçün.
+• Müharibə əsirlərinin satışı üçün.
+444. Roma imperiyası dövründə hansı növ hərraclar geniş yayılmışdı?
+• Şəxsi hərraclar.
+• Hər kəsin ödədiyi hərraclar.
+√ Hərbi əsirlərin və müsadirə edilmiş əmlakların hərracları.
+• Qiyməti azalan hərraclar.
+• Artan qiymətlə hərraclar.
+445. Təşəbbüsün növündən asılı olaraq hərracların hansı növləri mövcuddur?
+• Yalnız məcburi olanlar.
+• Satıcının təşəbbüsü ilə hərracların keçirilməsi.
+• Müsadirə edilmiş əmlakın satışı.
+√ Hər iki növ auksion.
+• Yalnız könüllü.
+446. Təklif olunan qiyməti ödəməyə ilk dəfə razılıq verən şəxsin qalib olması hərracın hansı növü ilə xarakterizə olunur?
+• Hər iki növ auksion.
+• Artan qiymətlə hərrac.
+• Qiymət endirimi ilə hərrac.
+√ Hollandiya auksionu.
+• İngilis auksionu.
+447. Ən yüksək qiymətə malik olan şəxsin qalib olması hərracın hansı növü ilə xarakterizə olunur?
+• Hər növ hərraclar.
+• Düşən qiymətlə hərrac.
+• Qiymət endirimi ilə hərrac.
+• Hollandiya auksionu.
+√ İngilis auksionu.
+448. Hərracın təşkilatçıları satışa nə təklif edirlər?
+• Yalnız öz mallarını.
+• Yalnız istehsalçıların məhsullarını.
+√ Mallar, bir qayda olaraq, öz hesabına, eləcə də digər şirkətlərin və birliklərin malları.
+• Yalnız fermer birliklərinin məhsullarını.
+• Yalnız fiziki şəxslərin mallarını.
+449. Hərracın təşkilatçısı kimi hansı təşkilatlar çıxış edə bilər?
+• Yalnız satıcı birlikləri.
+• Yalnız fermer kooperativləri.
+• Yalnız fərdi şəxslər.
+√ Fərdi iri ticarət şirkətləri.
+• Yalnız dövlət qurumları.
+450. Hərracda alıcılar arasında rəqabət zamanı nə baş verir?
+• Obyekt avtomatik olaraq, rəqabətsiz əldə edilir.
+• Ən aşağı qiymət təklif edən qalibdir.
+√ Qalib hərrac qaydalarına əsasən kimin ən yaxşı şərtləri təklif etməsi ilə müəyyən edilir.
+• Qalib ən yüksək qiyməti təklif edən şəxsdir.
+• Satıcılar arasında məlumat mübadiləsi var.
+451. Qalibin ikinci qiyməti ödəməsi hansı hərrac üçün xarakterikdir?
+√ İkinci qiymət hərracı üçün.
+• Açıq uduşlu auksion üçün.
+• Açıq hərrac üçün.
+• İlk qiymət hərracı üçün.
+• Düşən qiymətlə hərrac üçün.
+452. Əmtəə hərraclarının təşkilatçısı kim ola bilər?
+• Yalnız maliyyə institutları.
+• Yalnız dövlət qurumları.
+• Yalnız fərdi şəxslər.
+√ Fərdi iri ticarət şirkətləri.
+• Yalnız satıcı birlikləri.
+453. Hərracların bütün növlərini nə ümumiləşdirir?
+• Hərracın qalibi yalnız fiziki şəxs ola bilər.
+• Hərracın qalibi ən aşağı qiymətə malik olan iştirakçıdır.
+• Hərrac yalnız qiymətli kağızların satışıdır.
+√ Potensial satıcılar arasında rəqabət prinsipi.
+• Hərrac qiymətlərlə bağlı olmayan ticarət formasıdır.
+454. Birinci qiymət hərracı ilə ikinci qiymət hərracı arasında əsas fərq nədir?
+• Hər iki növ auksion eyni qiymət prinsiplərindən istifadə edir.
+• İkinci qiymət hərracında qalib ən aşağı qiymətə sahib olan şəxsdir.
+• Birinci qiymət hərracında qalib ən aşağı qiymətə sahib olan şəxsdir.
+√ İkinci qiymət hərracında qalib ən yüksək təklifi verən, lakin ikinci qiyməti ödəyən şəxsdir.
+• Birinci qiymət hərracında qalib ən yüksək qiymətə sahib olan şəxsdir.
+455. Dinamik oyun nəzəriyyəsində “stasionar strategiya” anlayışı nə deməkdir?
+• İlk üç hərəkətdə dəyişən strategiya
+• Digər oyunçuların hərəkətlərindən asılı olmayan strategiya
+• İlk iki hərəkətdən sonra müəyyən edilən strategiya
+√ Zamandan asılı olmayan strategiya
+• Təsadüfi faktorla müəyyən edilən strategiya
+456. Dinamik oyun nəzəriyyəsində strategiyanın seçilməsinə hansı amillər təsir edə bilər?
+• Düzgün cavab yoxdur
+• Yalnız oyunçuların əvvəlki qərarları
+• Yalnız cari oyun şərtləri
+√ Zamanla xarici şəraitdə dəyişikliklər
+• Xarici təsirlərin olmaması
+457. Dinamik oyun nəzəriyyəsi kontekstində iterativ proses nədir?
+• Əvvəlki hadisələrə məhəl qoymamaq
+• Çox oyunçu qarşılıqlı əlaqəsi
+• Sabit oyunçu strategiyaları
+√ Oyunun hər addımında ardıcıl qərar qəbulu
+• Düzgün cavab yoxdur
+458. Optimal həlləri tapmaq üçün çoxkriteriyalı optimallaşdırmanın hansı üsullarından istifadə etmək olar?
+• Sabit strategiya optimallaşdırmasından
+• Xətti üsullardan
+√ Axtarış alqoritmləri, təkamül strategiyaları, genetik alqoritmlərdən
+• Düzgün cavab yoxdur
+• Yalnız təsadüfi üsullardan
+459. Çox meyarlı optimallaşdırmanın məqsədi nədir?
+• Bir kriteriyanı minimuma endirmək
+• Yalnız xətti meyardan istifadə etmək
+• Çoxsaylı meyarlara məhəl qoymamaq
+√ Ziddiyyətli meyarları nəzərdən keçirmək
+• Bir kriteriyanı maksimuma çatdırmaq
+460. Çoxkriteriyalı optimallaşdırma üsulları ilə hansı növ məsələlər həll olunur?
+• Bir kriteriyalı problemlər
+• Meyarları olmayan tapşırıqlar
+• Addım-addım xarakterli tapşırıqlar
+√ Çoxlu ziddiyyətli meyarlara malik tapşırıqlar
+• Düzgün cavab yoxdur
+461. Oyun nəzəriyyəsində dinamik strategiya nədir?
+• İlk hərəkətdə müəyyən edilən strategiya
+• Əvvəlki hadisələri nəzərə alan strategiya
+• Strategiya təsadüfi amillərlə müəyyən edilir
+• Zamana görə dəyişməyən strategiya
+√ Digər oyunçuların hərəkətlərindən asılı olaraq dəyişən strategiya
+462. Dinamik oyun nəzəriyyəsi hansı amilləri əhatə edir?
+• Təsadüfi strategiyaların mövcudluğu
+• Düzgün cavab yoxdur
+• Strategiyaların olmaması
+• Sabit strategiyaların mövcudluğu
+√ Zamanla strategiyaların dəyişdirilməsi
+463. Qərar qəbul edənlər arasında strateji qarşılıqlı əlaqəni riyaziyyatın hansı sahəsi öyrənir?
+• Ehtimal nəzəriyyəsi
+• Cəbri həndəsə
+• Diferensial tənliklər
+√ Dinamik oyun nəzəriyyəsi
+• Bütün cavablar düzgündür
+464. Oyun nəzəriyyəsində “qarışıq strategiya” anlayışı nə deməkdir?
+• Digər oyunçuların əvvəlki hərəkətlərindən asılı olan strategiya
+• Düzgün cavab yoxdur
+• Sabit oyunçu strategiyaları
+√ Təsadüfilik elementini ehtiva edən strategiya
+• Zamanla inkişaf edən bir strategiya
+465. Dinamik oyun nəzəriyyəsində strategiyanın seçilməsinə hansı amillər təsir edə bilər?
+• Mövcud şərtlər
+• Xarici təsir yoxdur
+• Təsadüfi hadisələr
+√ Xarici şəraitdə zamana görə baş verən dəyişikliklər
+• Oyunçunun əvvəlki qərarları
+466. Oyun nəzəriyyəsində xalis strategiyalar nədir?
+• Digər oyunçuların hərəkətlərindən asılı olaraq dəyişən strategiya
+• Strategiyaların olmaması
+• Müxtəlif strategiyaların qarışığı
+• Təsadüfi amillərdən asılı olan strategiya
+√ Oyunun hər mərhələsində sabit fəaliyyət
+467. Dinamik oyun nəzəriyyəsi kontekstində hansı problem nümunələrinə baxmaq olar?
+• Tək oyunçu vəzifələrinə
+• Deterministik oyunlara
+• Strategiyasız oyunlara
+√ Strategiyaları zamana görə dəyişən oyunlar
+• Sabit strategiya tapşırıqlarına
+468. Dinamik oyun nəzəriyyəsinin əsas məqsədi nədir?
+• Digər oyunçuların strategiyalarına məhəl qoymamaq
+• Yalnız iki optimal həll yolu tapmaq
+• Oyunlardan təsadüfi amillərin aradan qaldırılması
+√ Zamanla strategiyaların təkamülünün öyrənilməsi
+• Oyunların stasionar vəziyyətlərinin təyini
+469. Dinamik oyunda tabeli oyunların olması hansı nəticələrə səbəb ola bilər?
+• Yalnız oyunçunun uduşlarında azalmaya
+√ Hesablama mürəkkəbliyinin artmasına və oyunçu strategiyalarında mümkün dəyişikliklərə
+• Riyazi hesablamaların mürəkkəbliyinin azaldılmasına
+• Yalnız oyunçunun uduşlarının artmasına
+• Riyazi hesablamaları çətinləşdirməyə
+470. Mükəmməl informasiyalı dinamik oyunda “Neş tarazlığı” anlayışı necə müəyyən edilir?
+• Yalnız tam məlumat olduqda tarazlıq halı kimi
+√ Heç bir oyunçunun başqalarının strategiyalarını bilməklə qazancını artıra bilməyəcəyi strategiyalar toplusu kimi
+• Oyunçunun strategiyasını bilməklə onun qazancını artıra biləcəyi strategiyalar toplusu kimi
+• Yalnız asimmetrik məlumat olduqda tarazlıq kimi
+• Hər bir məlumat çoxluğunda strategiyaların tarazlığı
+471. Mükəmməl informasiyalı dinamik oyunda təsadüfiliyin rolu nədir?
+• Təsadüfi hadisələr yalnız bir oyunçuya təsir edir.
+√ Təsadüfi hadisələr oyunçuların məlumatlarına və strategiyalarına təsir edə bilər
+• Təsadüfi hadisələr yalnız zaman qovşaqlarına təsir edir
+• Təsadüfi hadisələr yalnız ödənişlərə təsir edir
+• Dinamik oyunda təsadüfi hadisələr istifadə edilmir.
+472. “Normal formada oyun” anlayışı mükəmməl informasiyalı dinamik oyun kontekstində nə deməkdir?
+• Hər bir oyunçu üçün eyni vaxtda strategiyaların və qazancların müəyyən edilmədiyi bir oyun
+√ Hər bir oyunçu üçün eyni vaxtda strategiyaların və qazancların müəyyən edildiyi oyun
+• Sadəcə saxta məlumatlarla oyun
+• Yalnız asimmetrik məlumatlı oyun
+• Strategiyaların bütün oyunçulara eyni vaxtda verildiyi bir oyun
+473. Tam olmayan informasiya ilə oyunda informasiya çoxluğunun rolu nədir?
+• Oyunçular bir hadisəni digərindən ayıra bilməzlər.
+√ Oyunçular öz məlumatlarına əsasən bir tarixçəni digərindən ayıra bilməzlər.
+• Oyunçular bir hadisəni digərindən ayıra bilər.
+• İnformasiya çoxluğu zaman qovşağı ilə üst-üstə düşür
+• İnformasiya çoxluğu zaman qovşağı ilə üst-üstə düşmür
+474. Dinamik oyunların əsas növləri hansılardır?
+• Yalnız tam məlumatlı oyunlar
+√ Tam və natamam məlumatlarlı oyunlar
+• Yalnız natamam məlumatlı oyunlar
+• Yalnız asimmetrik məlumatlı oyunlar
+• Ehtimallarla oyunlar
+475. Dinamik oyunda qərar qəbul etməyə təsir edən amillər hansılardır?
+• Ödənişlər və şəxsi üstünlüklər
+√ Ödənişlər, şəxsi üstünlüklər, digər oyunçuların hərəkətlərindən gözləntilər
+• Məlumat və strategiyalar
+• Yalnız strategiyalar
+• Sadəcə şəxsi üstünlüklər
+476. Dinamik oyunda qərar qəbul etməyə hansı amillər təsir edir?
+• Ödənişlər və şəxsi üstünlüklər
+√ Ödənişlər, şəxsi üstünlüklər, digər oyunçuların hərəkətlərindən gözləntilər
+• Məlumat və strategiyalar
+• Yalnız strategiyalar
+• Sadəcə şəxsi üstünlüklər
+477. “Tabe oyun” anlayışı nədir?
+• Alt strategiya və oyunçu
+√ Müəyyən bir zaman qovşağında başlayan hərəkətlər ardıcıllığı
+• Alt informasiya və oyunçu
+• İnformasiya çoxluqları
+• Alt oyunçu
+478. Oyunçular məlumat ötürmək üçün öz hərəkətlərindən necə istifadə edə bilərlər?
+• Məlumat ötürmək mümkün deyil
+√ Strategiyaların seçimi digər oyunçular üçün bir siqnal ola bilər
+• Məlumat yalnız oyunun əvvəlində ötürülür.
+• Məlumat yalnız oyunun sonunda ötürülür.
+• Oyunçular məlumatlara təsir edə bilməzlər.
+479. Dinamik oyunda təsadüfi hadisələr hansılardır?
+• Məlumat və strategiyalara təsir edə bilməyən hadisələr
+√ Oyunçuların məlumatlarına və strategiyalarına təsir edə biləcək hadisələr
+• Oyuna təsiri olmayan hadisələr
+• Yalnız ödənişlər
+• Oyun Səhvləri
+480. Oyunçuların eyni vaxtda qərar qəbul etdiyi vəziyyəti təsvir etmək üçün hansı termindən istifadə olunur?
+• Sinxron qərarlar termini
+√ Eynivaxtlı qərarlar termini
+• Asinxron qərarlar termini
+• İterativ qərarlar termini
+• Paralel qərarlar termini
+481. Statik oyunda “natamam məlumat” nə deməkdir?
+• Oyunçuların strategiyalar haqqında tam məlumatı var
+√ Oyunçular bir-birlərinin strategiyaları haqqında qismən məlumatlara malikdirlər
+• Oyunçuların strategiyalar haqqında məlumatı yoxdur
+• Oyunçuların uduş və itkilər haqqında tam məlumatı yoxdur
+• Oyunçular uduşlar və itkilər haqqında tam məlumata malikdirlər
+482. Dinamik oyunda reputasiya hansı rolu oynayır?
+• Reputasiya digər oyunçuların gələcək hərəkətlərinə təsir göstərə bilməz.
+√ Reputasiya digər oyunçuların gələcək fəaliyyətlərinə təsir göstərə və informasiya çoxluqları yarada bilər
+• Reputasiya önəmli deyil
+• Reputasiya yalnız digər oyunçuların gələcək hərəkətlərinə təsir göstərə bilər.
+• Yalnız ödənişə təsir edir
+483. Oyun nəzəriyyəsindən əsasən hansı mövzular mükəmməl informasiyalı dinamik oyunlarla bağlıdır?
+• Yalnız ehtimal nəzəriyyəsi
+√ Ardıcıl tarazlıqlar, hökmranlıq strategiyaları, laqeydlik
+• Yalnız natamam məlumatlı oyunlar
+• Normal formada oyunlar və natamam məlumatlı oyunlar
+• Nash tarazlığı və natamam məlumatlı oyunlar
+484. Mükəmməl informasiyalı dinamik oyunda qərar qəbul etməyə hansı amillər təsir edir?
+• Təsadüfi hadisələr və ödənişlər
+√ Ödənişlər, şəxsi üstünlüklər, digər oyunçuların hərəkətlərindən gözləntilər
+• Oyunçunun şəxsi üstünlükləri.
+• Yalnız oyunçu strategiyası
+• Yalnız informasiya çoxluqları
+485. Oyunçular arasında “laqeydliyin” yaranmasına hansı amillər səbəb ola bilər?
+• Yalnız informasiya çoxluqlarında dəyişiklik
+√ Müxtəlif strategiyalarda qalibiyyətin birmənalı olması
+• Yalnız zaman qovşağının dəyişdirilməsi
+• Ödənişlərin və zaman qovşağının dəyişdirilməsi
+• Şəxsi üstünlüklərdə dəyişiklik.
+486. Mükəmməl informasiyalı dinamik oyunda “laqeydlik” nədir?
+• Yalnız məlumat çatışmazlığı
+√ Oyunçunun müəyyən mərhələdə hansı strategiyanı seçəcəyinə əhəmiyyət vermədiyi bir vəziyyət
+• Yalnız təsadüfi oyun hadisələri
+• Alt oyunlar və informasiya çatışmazlığı
+• Oyunçular oyunların nəticələrinə biganə yanaşırlar
+487. Dinamik oyunda strategiyanın dəyişməsinə hansı amillər səbəb ola bilər?
+• Məlumat çoxluqlarının və vaxt qovşağının dəyişdirilməsi
+√ Digər oyunçuların strategiyalarının dəyişdirilməsi
+• Vaxt qovşaqlarının və şəxsi üstünlüklərin dəyişdirilməsi
+• Ödənişlərin və oyunçu strategiyasının dəyişdirilməsi
+• Sadəcə şəxsi üstünlüklərdə dəyişiklik
+488. Dinamik oyunda zaman qovşaqlarının rolu nədir?
+• Bunlar oyunda təsadüfi hadisələrdir.
+√ Onlar hər bir oyunçu üçün qərar nöqtələrini təmsil edirlər.
+• Onlar informasiya çoxluqlarını təmsil edirlər.
+• Onlar oyuna təsir etmir.
+• Onlar oyunçunun son ödənişlərini təmsil edir.
+489. Mükəmməl informasiya ilə dinamik oyunda hansı aspektlər öyrənilir?
+• Oyunçu strategiyaları və vaxt qovşaqları
+√ Hərəkətlərin ardıcıllığı, məlumatlara reaksiyalar və qərar qəbulu
+• Yalnız informasiya çoxluqları
+• Yalnız zaman qovşaqları
+• Fəaliyyət ardıcıllığı
+490. "Mükəmməl məlumat" anlayışı oyunda nə deməkdir?
+• Gələcək haqqında tam məlumat
+√ Hər bir oyunçu oyunda baş verən bütün əvvəlki hərəkətləri bilir.
+• Məlumat yoxdur
+• Gələcək haqqında natamam məlumat
+• Səhvlə qarışıq olan məlumat
+491. Mükəmməl informasiyaya malik dinamik oyunun strukturuna hansı elementlər daxildir?
+• Məlumat, oyunçu strategiyaları
+√ Oyunçular, onların strategiyaları, məlumat və zaman qovşaqları
+• Məlumat, vaxt qovşağı
+• Yalnız zaman qovşağı
+• Yalnız oyunçu
+492. Mükəmməl informasiyaya malik dinamik oyun nədir?
+• Oyunçuların öz məlumatlarına əsasən mümkün olmasına inandıqları hekayələr
+• Ehtimallarla oynamaq
+√ Oyunçuların əvvəlki hərəkətlər haqqında tam məlumatla ardıcıl hərəkət etdiyi oyun
+• Yalnız strategiyalar
+• Hər zaman qovşağında hər bir oyunçu üçün eyni vaxtda optimal olan strategiyalar toplusu
+493. Dinamik oyun nəzəriyyəsi nədir?
+• Oyunlarda statik strategiyaların araşdırılması
+• İqtisadiyyatda oyun strategiyalarının tətbiqi
+• Sıfır məbləğli oyunların təhlili
+√ Zamanın müxtəlif nöqtələrində rasional agentlərin qarşılıqlı təsirinin təhlili
+• Oyun mühitində təsadüfi hadisələrin öyrənilməsi
+494. Dinamik oyun nəzəriyyəsində dinamik strategiya nədir?
+• Yalnız ilkin şərtlərdən asılı olan strategiya
+• Sıfır məbləğ strategiyası
+• Təsadüfi hərəkətlərə əsaslanan strategiya
+• Bütün oyunlarda istifadə olunan daimi strategiya
+√ Rəqibin hərəkətlərindən asılı olaraq dəyişən strategiya
+495. Oyun nəzəriyyəsində dinamik qarşılıqlı təsirə hansı amillər təsir edir?
+• Yalnız ilkin şərtlər
+• Yalnız təsadüfi amillər
+• Yalnız oyunçunun şəxsi üstünlükləri
+√ Əvvəlki qərarların tarixi və gələcək imkanlar
+• Yalnız cari oyunçu hərəkətləri
+496. Dinamik oyun nəzəriyyəsinin məqsədi nədir?
+√ Zamana görə strategiyaların təkamülünün öyrənilməsi
+• Yalnız oyunlarda təsadüfi hadisələrin təhlili
+• Digər oyunçuların strategiyalarına məhəl qoymamaq
+• İki optimal həll yolunun tapılması
+• Oyunların stasionar vəziyyətlərinin təyini
+497. Dinamik oyun nəzəriyyəsində strategiyaların təkamülünə hansı amillər təsir edir?
+• Diferensial tənliklər üsulu
+• Düzgün cavab yoxdur
+• Mövcud şərtlərin dəyişdirilməsi
+• Təsadüfi faktor
+√ Oyunçunun əvvəlki qərarları
+498. Çox meyarlı optimallaşdırmada hansı optimallaşdırma üsullarından istifadə olunur?
+• Yalnız tək kriteriyalı optimallaşdırma üsulları
+• Yalnız xətti metod
+• Yalnız sabit strategiyalı optimallaşdırma üsulları
+√ Axtarış alqoritmləri, təkamül strategiyaları, genetik alqoritmlər
+• Yalnız təsadüfi üsul
+499. Oyun nəzəriyyəsində təsadüfi strategiya nədir?
+• Strategiya ilk hərəkətdən sonra müəyyən edildi
+• Oyunçunun əvvəlki hərəkətləri ilə müəyyən edilən strategiya
+• Zamanla dəyişən strategiya
+√ Təsadüfi amillərlə müəyyən edilən strategiya (təsadüfi faktor)
+• Zamanla dəyişməyən strategiya
+500. Çox meyarlı optimallaşdırma hansı optimallaşdırma növlərini əhatə edir?
+√ Bir neçə ziddiyyətli meyarları özündə birləşdirən optimallaşdırmanı
+• Kriteriyalara məhəl qoymağı
+• Sabit strategiyalarla optimallaşdırmanı
+• Yalnız qeyri-xətti optimallaşdırmanı
+• Yalnız xətti optimallaşdırmanı
+501. Dinamik oyun nəzəriyyəsində hansı problem nümunələri nəzərdən keçirilir?
+• Yalnız tək oyunçu tapşırıqları
+√ Zamanla strategiyaların dəyişdirilməsi ilə bağlı problemlər
+• Yalnız sabit strategiya tapşırıqları
+• Strategiyasız tapşırıqlar
+• Düzgün cavab yoxdur
+502. Dinamik oyun nəzəriyyəsində çox vaxt hansı üsullardan istifadə olunur?
+• Yalnız axtarış alqoritmləri
+• Kombinator üsulları
+√ Diferensial tənliklər üsulu
+• Optimallaşdırma üsulları
+• İnteqral tənliklər
+503. Dinamik oyun nəzəriyyəsinin mahiyyəti nədir?
+• Bir hərəkətli oyunların öyrənilməsi
+• Strategiyasız Öyrənmə Oyunları
+• Oyunlarda təsadüfi hadisələrin öyrənilməsi
+• Qarşılıqlı təsirlərin statik modellərinin öyrənilməsi
+√ Zamanla dəyişən strategiyalarla oyunları öyrənmək
+504. Oyunun hər mərhələsində hər bir oyunçu tərəfindən strategiyanın seçilməsi prosesi necə adlanır?
+• Stokastik modelləşdirmə
+• Xətti reqressiya
+• Strategiyanın optimallaşdırılması
+• Dinamik proqramlaşdırma
+√ İterativ proses
+505. Oyun nəzəriyyəsində oyun pilləsi nədir?
+• İnformasiya çoxluqları toplusu
+√ Oyunçulardan birinin qərar verdiyi an
+• Oyunçulardan birinin növbəti hərəkəti
+• Yalnız təsadüfi hadisələr
+• Ödəniş matrisi və oyunçulardan birinin növbəti hərəkəti
+506. Sonlu oyunda simmetrik qarışıq Neş tarazlığının əsas xüsusiyyətləri hansılardır?
+• Bütün oyunçular həmişə eyni strategiyadan istifadə edirlər.
+√ Bütün oyunçular qarışıq strategiyalardan istifadə edir və oyunlarda strategiyasını dəyişmək heç kimə sərfəli deyil.
+• Bütün oyunçular həmişə təsadüfi strategiyalardan istifadə edirlər.
+• Bütün oyunçular həmişə strategiyalarını dəyişirlər.
+• Bütün oyunçular tarazlığı saxlamaq üçün həmişə eyni sayda xal qazanırlar.
+507. Simmetrik oyunlarda simmetriyanın əhəmiyyəti nədir?
+• Simmetriya oyunçuların həmişə eyni strategiyadan istifadə etməsi deməkdir.
+√ Simmetriya o deməkdir ki, oyunçular uduşları dəyişmədən yerləri dəyişə bilərlər.
+• Simmetriya o deməkdir ki, oyunçuların uduşları həmişə fərqlidir.
+• Simmetrik oyunda simmetriyanın əhəmiyyəti yoxdur.
+• Simmetriya oyunun heç-heçə başa çatması deməkdir.
+508. İkiqat auksion nədir?
+• İki iştirakçı ilə hərrac.
+√ Bir neçə satıcı və alıcının iştirak etdiyi ümumiləşdirilmiş hərrac forması.
+• Yalnız alıcıların iştirak etdiyi hərrac.
+• Bir satıcı və bir alıcı ilə hərrac.
+• Yalnız satıcıların iştirak etdiyi hərrac.
+509. Oyun nəzəriyyəsində “xalis strategiyalı oyun” nə deməkdir?
+• Oyunçuların eyni vaxtda qərar qəbul etdikləri, lakin rəqiblərinin strategiyaları haqqında tam məlumatı olmadığı oyundur.
+√ Oyunçuların oyun boyu yalnız bir strategiyadan istifadə etdikləri oyundur.
+• Oyunçuların həmişə qalib gəldiyi bir oyundur.
+• Optimal qərarların oyunçu tərəfindən ardıcıl olaraq verildiyi bir oyundur.
+• Oyunçuların bir-birinin hərəkətlərinə məhəl qoymadığı bir oyundur.
+510. Aşağıdakı hallardan hansı oyun nəzəriyyəsində “dominant strategiya” nümunəsidir?
+• Oyunçunun həmişə uduzduğu bir strategiya var.
+√ Hər bir oyunçunun rəqibin seçimindən asılı olmayaraq ən yaxşı nəticəyə aparan strategiyası var.
+• Oyunçular əvvəlki gedişi nəzərə alaraq optimal qərarlar qəbul edirlər.
+• Dəqiq mülahizələr yoxdur.
+• Oyunçunun həmişə qalib gəldiyi bir strategiya var.
+511. Oyun nəzəriyyəsində “sıfır məbləğli oyun” nədir?
+• Qələbə və itkilərin cəminin həmişə müsbət olduğu bir oyun.
+√ Bir oyunçunun qazancının digər oyunçuların itkisinə bərabər olduğu oyun.
+• Qələbə və itkilərin cəminin sıfır olduğu oyun.
+• Bütün oyunçuların həmişə uduzduğu bir oyun.
+• Oyunçuların ardıcıl olaraq optimal qərarlar qəbul etdikləri oyun.
+512. Aşağıdakı oyunlardan hansı sıfır cəmli oyunlara misaldır?
+• Şahmat.
+√ Poker.
+• Sürücülük simulyatoru.
+• Düzgün cavab yoxdur.
+• Daş-kağız-qayçı.
+513. Aşağıdakılardan hansı oyun nəzəriyyəsində geriyə induksiya strategiyalarıdır?
+• “Təkrar et, yoxsa cəzalandıracağam” strategiyası.
+√ “Həmişə ilk gedişi seç” strategiyası.
+• “Təsadüfi seçimlər” strategiyası.
+• Bütün variantlar doğrudur.
+• "Rəqibinizi təqlid edin" strategiyası.
+514. Nəqliyyat sisteminə əlavə tutumların daxil edilməsi zamanı hansı xərclər yarana bilər?
+• Benzinə tələbatın artması
+√ Məhsuldarlığın azalması
+• İctimai nəqliyyatdan istifadənin təşviqi
+• Benzinin qiymətində artım
+• Ərazilərin abadlaşdırılmasının yaxşılaşdırılması
+515. Braessin paradoksunda əsas məqam nədir?
+• Naviqatorlardan yanlış məlumatlar
+√ Yol şəbəkəsinin simmetrikliyi
+• Yollarda tıxacın olmaması
+• İctimai nəqliyyat üçün optimal tariflər
+• Benzinə tələbatın artması
+516. Hansı hadisə nəqliyyat sistemində Braess paradoksunu əks etdirir?
+• Yol şəbəkəsinin azaldılması ilə məhsuldarlığın artması
+√ Yeni yol gücləri əlavə olunduqca məhsuldarlığın durğunluğu
+• Yol şəbəkəsi gücünün azalması ilə məhsuldarlığın durğunluğu
+• Yol şəbəkəsinin məhsuldarlığa təsiri yoxdur
+• Yol şəbəkəsi böyüdükcə məhsuldarlığın yaxşılaşması
+517. Dayanacaq yerlərinin səmərəli paylanması probleminin həlli zamanı hansı aspektlər nəzərə alınır?
+• Sakinlərin estetik üstünlükləri
+√ Faydalar və Xərclər
+• Yalnız şəhərdə avtomobillərin sayı
+• Yalnız şəhərdə nəqliyyat problemləri
+• Evlərin yerləşməsinin kompaktlığı
+518. Oyun nəzəriyyəsində Nayt-Dauns ziddiyyəti nədir?
+• Strateji oyunlarda tarazlığa nail olmağın mümkünsüzlüyü
+√ Şəxsi və kollektiv maraqlar arasında ziddiyyət
+• Əməkdaşlıq və rəqabət arasındakı ziddiyyət
+• Fərdi mənfəət güdməsi ilə ictimai rifah arasında ziddiyyət
+• Qazanmaq və məğlub olmaq arasında seçim paradoksu
+519. Oyun nəzəriyyəsində stimulların qavranılmasına hansı amillər təsir edə bilər?
+• Yalnız rəqib strategiyalar
+√ Bütün sadalananların hamısı
+• Yalnız oyunçuların fiziki durumu
+• Yalnız oyun personajlarının xarakteristikaları
+• Əvvəlki oyunların nəticələri
+520. Braess Paradoksu kontekstində optimal marşrut nə ilə xarakterizə olunur?
+• Həmişə gecikmə olmadan hamar hərəkəti təmin edir.
+• Dəyişikliklərə avtomatik uyğunlaşır.
+√ İstifadəsi artdıqca effektivliyi azalır.
+• Həmişə ən qısa marşrutdur.
+• Bütün iştirakçılar üçün minimum hərəkət vaxtını təmin edir.
+521. Oyun nəzəriyyəsində stimullar hansılardır?
+• Yalnız oyunla əlaqəli olmayan xarici amillər
+• Oyun dünyasında dekorasiya elementləri
+• Rəqibləri aldatmaq imkanları
+• Oyunlarda xarakter inkişafı strategiyaları
+√ Oyunçunu müəyyən qərarlar qəbul etməyə həvəsləndirən elementlər
+522. İştirakçılar arasında əməkdaşlıq qıt (defisit) resursun bölüşdürülməsinin səmərəliliyini necə artıra bilər?
+• Əməkdaşlıq resursların bölüşdürülməsinin səmərəliliyinə təsir göstərmir.
+• Daha çox sayda iştirakçı üçün resursa girişin məhdudlaşdırılması.
+• Oyunlarda rəqabəti qorumaq üçün əməkdaşlıqdan imtina.
+√ İştirakçılar arasında rəqabətin azaldılması.
+• Əməkdaşlıqdan asılı olmayaraq resursların bərabər paylanması.
+523. Tələb və təklif qıt (defisit) resursun bölüşdürülməsinin səmərəliliyinə necə təsir edə bilər?
+• Resursa yüksək tələbat olduqda onun paylanması daha səmərəli olur.
+• Tələb və təklif resursların bölüşdürülməsinin səmərəliliyinə təsir göstərmir.
+• Resurs təchizatının artırılması həmişə onun səmərəliliyini artırır.
+• Tələb və təklif yalnız dövlət nəzarəti ilə tənzimlənir.
+√ Tələb və təklif arasındakı balanssızlıq resursların səmərəsiz bölüşdürülməsinə səbəb ola bilər.
+524. Sıfır məbləğli oyunların Pareto optimallığı konsepsiyası ilə əlaqəsi necədir?
+• Sıfır məbləğli oyunlar həmişə Pareto optimaldır.
+• Pareto optimallığı oyundakı oyunçuların sayından asılıdır.
+• Sıfır məbləğli oyunlar və Pareto optimallığı anlayışları əlaqəli deyil.
+√ Sıfır məbləğli oyunlarda Pareto optimallığına nail olmaq mümkün deyil.
+• Bütün sıfır məbləğli oyunlarda avtomatik olaraq Pareto optimallığı konsepsiyası təmin edilir.
+525. Oyunlar nəzəriyyəsində spektr nədir?
+• Qıt resursların paylanması.
+• Bütün mümkün qələbə və itkilərin cəmi.
+• Oyun zamanı oyunçuların strategiyalarını dəyişə biləcəyi vəziyyətlər çoxluğu.
+√ Oyunda bütün mümkün strategiyaların toplusu.
+• Bütün mümkün oyunçuların məcmusu.
+526. Sıfır məbləğli oyunları nə xarakterizə edir?
+• Bütün oyunçuların ümumi qazancı sıfırdır.
+• Uduşlar təsadüfi amillərdən asılıdır.
+• Bütün oyunçular eyni uduşları alırlar.
+√ Bir oyunçunun qazancı digər oyunçunun itkisi ilə düz mütənasibdir.
+• Bütün oyunçuların qələbə və itkilərinin cəmi sıfırdır.
+527. Kooperativ oyun nəzəriyyəsində transfer qazancları necə müəyyən edilir?
+• Oyunçular strategiyalarını dəyişdikdə.
+√ Bir oyunçunun uduşlarının müttəfiqlərinə ötürülməsi ilə.
+• Oyunçular əməkdaşlıq etdikdə və uduşları bölüşdükdə.
+• Oyunçular uduşlarını oyundakı digər oyunçulara ötürdükdə.
+• Uduşların itirilməsi baş verdikdə.
+528. Oyun nəzəriyyəsində qıt (defisit) resursun bölüşdürülməsinin səmərəliliyinə hansı amillər təsir edə bilər?
+• Resurs xüsusiyyətləri.
+• Oyunçu tərəfindən seçilən strategiyalar.
+• Oyunçuların sayı.
+• Oyunların mövcud qaydaları.
+√ Sadalananların hamısı.
+529. Qıt (defisit) resursun optimal paylanmasına nail olmaq oyun nəzəriyyəsinin hansı prinsipi ilə bağlıdır?
+• Minimax prinsipi.
+• Mükəmməllik prinsipi.
+• Strategiyaların təkamülü prinsipi.
+√ Pareto prinsipi.
+• Maksimin prinsipi.
+530. Oyun nəzəriyyəsində qıt resursun səmərəli yerləşdirilməsinin xarakterik xüsusiyyəti nədir?
+• Resurs tamamilə bir iştirakçıya verilmişdir.
+• İştirakçılar öz xidmətlərinə uyğun olaraq resurslar alırlar.
+• Resurs bütün iştirakçılar arasında bərabər paylanır.
+√ Hər bir iştirakçı imkan daxilində maksimum miqdarda resurs alır.
+• İştirakçılar öz maliyyə təminatından asılı olaraq resurslar alırlar.
+531. Oyun nəzəriyyəsində qıt (defisit) resurs nədir?
+• Bütün iştirakçılara həddən artıq təmin edilən resurs.
+• Yalnız bir iştirakçı tərəfindən istifadə olunan resurs.
+• Oyunların gedişatına təsir etməyən resurs.
+√ Bütün oyun iştirakçılarının ehtiyaclarını ödəmək üçün kifayət olmayan resurs.
+• Oyun iştirakçıları arasında bərabər paylanan resurs.
+532. Lyuis-Moqqric postulatlarına uyğun olaraq şəxsi avtomobil sahibliyi üçün stimulların azaldılması məqsədilə hansı mexanizmlərdən istifadə etmək olar?
+• İctimai nəqliyyatdan istifadəyə qadağa.
+√ Şəhər mərkəzlərinə giriş üçün ödənişin tətbiqi.
+• Şəxsi nəqliyyat üçün zolaqların sayının artırılması.
+• Şəhərin mərkəzində dayanacaqların genişləndirilməsi.
+• Avtomobil sahibləri üçün subsidiyalar.
+533. Braess paradoksunun yaranmasına hansı amillər səbəb ola bilər?
+• İctimai nəqliyyatdan intensiv istifadə.
+• Yol kəsişməsində əlavə işıqforların quraşdırılması.
+√ Alternativ marşrutların olmaması.
+• Yolun buraxma zolağının artırılması.
+• Sürücülərin təyinatlarına çatmaq üçün ən qısa yolu seçməsi.
+534. Braess paradoksunda tıxacların yaranmasında yeni yolların əlavə edilməsinin rolu nədir?
+• Yol infrastrukturunun artırılması həmişə hərəkətin intensivliyini azaldır.
+• Tıxaclar yalnız köhnə yollarda yaranır.
+√ Əlavə yol tutumu darboğaz yarada bilər və tıxacları artıra bilər.
+• Yeni yollar həmişə tıxacları azaldır.
+• Yolların ümumi sayı tıxacların yaranmasına təsir göstərmir.
+535. Braess paradoksunda təsvir olunan effekt hansıdır?
+• Nəqliyyat gücünü artırarkən hərəkət vaxtının azaldılması.
+• Yeni körpülərin tətbiqi həmişə hərəkət xərclərinin azalmasına səbəb olur.
+• Şəhər nəqliyyat sisteminin məhsuldarlığının artırılması.
+√ Yeni yollar əlavə edərkən hərəkət müddətində ümumi artım.
+• Yeni yol hesabına hərəkətin səmərəliliyinin artırılması.
+536. Nəqliyyat nəzəriyyəsində Braess paradoksu nədir?
+• Braess paradoksu şəhərlərin mərkəzində nəqliyyatın məhdudlaşdırılması ilə bağlıdır.
+• Yol tutumunun artırılması yolda vaxtın azalması ilə nəticələnir.
+√ Nəqliyyat şəbəkəsində əlavə tutum ümumi səmərəliliyin pisləşməsi ilə nəticələnə bilər.
+• Yeni körpülərin tikintisi şəhərlərin nəqliyyat infrastrukturunu yaxşılaşdırır.
+• Yeni yolların tətbiqi həmişə ümumi hərəkət vaxtını azaldır.
+537. Kollektiv seçimdə avtomatlaşdırmadan istifadə edərkən hansı ziddiyyətlər yarana bilər?
+• Rasional həllərin axtarışı
+• Optimal strategiyaların axtarışı
+• Düzgün cavab yoxdur
+• Azlıqların xaric edilməsi
+√ Alqoritmik səhvlər
+538. Sosial seçim oyunlarında hansı strategiyalardan istifadə etmək olar?
+• Prosesin optimallaşdırılması
+• Avtomatik səsvermə
+• Təsadüfi seçimlər
+• Gözlənilməz hərəkətlər
+√ Azlıqların xaric edilməsi
+539. Hansı vəziyyətlər çox vaxt kollektiv seçim paradokslarına səbəb olur?
+√ Maraqların toqquşması
+• Gözlənilməz strategiyalar
+• Rasional qərarlar
+• Avtomatik qərar qəbulu
+• Fikirlərin yekdilliyi
+540. Kollektiv seçimdə çox vaxt hansı avtomatlaşdırılmış proseslərdən istifadə olunur?
+• Süni intellekt
+• Müharibə strategiyaları
+• Düzgün cavab yoxdur
+• Multikriteriyalı analiz
+√ Səs vermə
+541. Kollektiv seçim kontekstində məntiq hansı anlayışla əlaqələndirilir?
+• Avtomatlaşdırılmış proseslər
+• Oyun strategiyası
+• Riyazi hesablamalar
+√ Rasional qərar qəbulu
+• Təsadüfi hadisələr
+542. Kollektiv seçim kontekstində avtomatlaşdırma nədir?
+• Avtomatik oyun
+• Oyundakı strategiyalar
+√ Tapşırığın asan icrası
+• Mürəkkəb hesablamalar
+• Seçim aparılması
+543. İqtisadiyyatda mənəvi risk nədir?
+• Açıq məlumat əsasında kommunal imkanların artırılması
+√ Başqa agent hesabına öz faydasını artırmaq üçün gizli və ya natamam məlumatlardan istifadə etmək
+• Düzgün cavab yoxdur
+• Ümumi rifah naminə əməkdaşlıq
+• Tərəfdaşlar arasında sadə anlaşılmazlıqlar
+544. Gündəlik həyatda mənəvi risk problemi ilə necə qarşılaşmaq olar?
+• Öz texniki biliklərinizə əsaslanaraq qərarlar verməklə
+• Başqaları tərəfindən verilən məlumatlara tamamilə etibar etməklə
+• Bütün vəziyyətlərin texniki tərəflərini öyrənməklə
+• Hər cür riskli vəziyyətdən çəkinməklə
+√ Tam məlumat olmadığı halda ustalara və peşəkarlara etibar etməklə
+545. Qiymət rəqabətində hansı marketinq üsulları təsirli ola bilər?
+• loyallıq proqramlarının xaric edilməsi.
+• Kontent-marketinqdən çəkinmək.
+• Bir qiymət seçimi ilə satış.
+• Marketinq fəndlərinin sayının azaldılması.
+√ Məhdud təkliflər və məhsullar üzrə iki addımlı satış.
+546. Mağazaların qiymətləri aşağı salmaq imkanlarını məhdudlaşdırmaq üçün təchizatçılara nə təklif oluna bilər?
+• Məhsulların çeşidini artırmaq.
+• Təchizatçı ilə əməkdaşlığı dayandırmaq.
+• Qiymətə nəzarətdən çəkinmək.
+√ Qiymət siyasətinin məhdudlaşdırılmasının zəruriliyinə inandırmaq.
+• Malların keyfiyyətini aşağı salmaq.
+547. Qiymət rəqabəti kəskinləşdikdə təchizatçılarla nə baş verir?
+• Rəqabətin səviyyəsi təchizatçılara təsir göstərmir.
+• Məhsulun qiyməti artır.
+• Mənfəəti artırırlar.
+√ Satıcılar müflis olur və bazarı tərk edirlər.
+• Məhsula tələbat artır.
+548. İstehlakçıları daha bahalı məhsul seçmək zərurətinə inandırarkən nəyi vurğulamaq lazımdır?
+• Bazarda çoxlu sayda oxşar məhsulların olmasını.
+• Yalnız texniki xüsusiyyətlərin ətraflı təsvirini.
+• Qiymət rəqabətində daimi iştirakı.
+• Məhsul haqqında məlumatın olmamasını.
+√ Ucuz malların alınması ilə bağlı riskləri.
+549. Satışları artırmaq üçün hansı effektiv üsul ola bilər?
+• Məhsulların çeşidinin azaldılması.
+• Əlavə xidmətlərin istisna edilməsi.
+• Bütün məhsul çeşidi üzrə qiymət endirimi.
+• Müştəri seçiminin məhdudlaşdırılması.
+√ Çoxsaylı qiymət variantlarının təqdim edilməsi.
+550. Dauns-Tomson paradoksu nəqliyyat axınının marşrutunun dəyişdirilməsi ilə necə bağlıdır?
+• Axınların istiqamətinin dəyişdirilməsi tıxacların yaranmasına təsir göstərmir.
+• Nəqliyyat infrastrukturunun təkmilləşdirilməsi axınların yönləndirilməsinə gətirib çıxarır.
+• Nəqliyyat axınının istiqaməti dəyişdirildikdə tıxac həmişə azalır.
+• Paradoks yalnız axınların tam yönləndirilməsi şəraitində üzə çıxır.
+√ Yolun yaxşılaşdırılmasına baxmayaraq, nəqliyyatın marşrutunun dəyişdirilməsi sıxlığı pisləşdirə bilər.
+551. İnsanlar Dauns-Tomson paradokslarına necə reaksiya verirlər?
+• İnsanlar tıxaclara məhəl qoymadan getdikcə daha çox şəxsi avtomobillərindən istifadə edirlər.
+• Nəqliyyat infrastrukturunun təkmilləşdirilməsi həmişə nəqliyyat sıxlığının azalmasına səbəb olur.
+• Tıxaclarla mübarizə üçün yeni tədbirlərə etiraz edirlər.
+√ Vəziyyəti dəyişdirmək yalnız stimulları dəyişdirməklə mümkündür.
+• Tıxac olanda ictimai nəqliyyata üstünlük verirlər.
+552. Dauns-Tomson paradoksu nədir?
+• Şəhər mərkəzlərində məhdudlaşdırıcı tədbirlərin tətbiqindən sonra nəqliyyat sıxlığının artması.
+• Avtomobillərin sayının artması ilə tıxacların paradoksal azalması.
+• Yollar genişləndirildikdə hərəkət vaxtının pisləşməsi effekti.
+√ Yeni salınan yollarda tutumun artmasına baxmayaraq tıxaclar yaranır.
+• Nəqliyyat infrastrukturunun təkmilləşdirilməsi ilə səyahət vaxtının artması arasında ziddiyyət.
+553. Braess paradoksunun əsas ideyası nədir?
+• Əlavə yol tutumu həmişə nəqliyyat axınını yaxşılaşdırır.
+• Naviqatorlar və taksi aqreqatorları sürücüləri və sərnişinləri çaşdırırlar.
+• Şimal yolu həmişə cənub yoldan daha üstündür.
+• Yeni marşrutlar əlavə olunduqca şəbəkə trafiki azala bilər.
+√ İnfrastrukturun artması gözlənilməz nəticələrə səbəb ola bilər.
+554. Aşağıdakı amillərdən hansı Braess paradoksu üçün xarakterikdir?
+• Yol şəbəkəsinin artırılması həmişə nəqliyyatın hərəkətini yaxşılaşdırır.
+√ Trafik axını artdıqca optimal marşrut daha az səmərəli ola bilər.
+• Trafik sıxlığını marşrut dəyişikliyi ilə əlaqələndirmək olmaz.
+• Braess paradoksunun yol nəqliyyat sistemi ilə heç bir əlaqəsi yoxdur.
+• Yol infrastrukturunun azaldılması həmişə nəqliyyatın hərəkətini yaxşılaşdırır.
+555. Qalibin ikinci qiyməti ödəməsi hansı hərrac üçün xarakterikdir?
+• Açıq qalib hərracı.
+• İlk qiymət hərracı.
+√ İkinci qiymət hərracı.
+• Düşən qiymətlə hərrac.
+• Açıq hərrac.
+556. Yolların genişləndirilməsi mətnə görə niyə həmişə tıxac problemini həll etmir?
+√ Nayt-Dauns paradoksuna görə.
+• Yeni yolların səmərəsiz olmasına görə.
+• Maşınların sayı məhdud olduğuna görə.
+• A və B nöqtələri arasındakı məsafənin böyük olmasına görə.
+• Şəhərlərdə avtomobillərin sayının artması ilə əlaqədar olaraq.
+557. Hansı tədbirlər tıxaclarla bağlı vəziyyəti dəyişməyə kömək edə bilər?
+√ İctimai nəqliyyatı pulsuz və daha cəlbedici etmək.
+• Ödənişli yolun tətbiqi.
+• Sistemin buraxma qabiliyyətinin məhdudlaşdırılması.
+• Yolun genişləndirilməsi.
+• Nəqliyyat vasitələrinin sayının azaldılması.
+558. . Oyunlar nəzəriyyəsində sosial seçim paradoksu nədir?
+√ Kollektiv seçim fərdi iştirakçı üçün optimal olmayan nəticələrə gətirib çıxara bilər.
+• Kollektiv seçim paradoksu mövcud deyil.
+• Kollektiv seçim və fərdi üstünlüklər həmişə üst-üstə düşür.
+• Kollektiv qərar qəbul etmək həmişə optimal nəticələrə gətirib çıxarır.
+• Kollektiv seçimlərdə bütün iştirakçılar həmişə razılığa gəlirlər.
+559. Hansı əlavə xidmətlər müştərilərdə etibarlılıq və qayğı hissi yarada bilər?
+• Heç bir detalı olmayan malların satışı.
+• Müşayiət edən aksessuarların olmaması.
+• Xidmətlərin məhdud seçimi.
+√ Evdə sınaqdan keçirmək və pulsuz əlaqə.
+• Müştəriləri aşağı qiymətli satışlarla cəlb etmək.
+560. Məhsula əlavə dəyər vermək üçün nə etmək olar?
+• Məhsullarda dəyişikliklərdən çəkinmək.
+• Müştərilər üçün xidmət seçimlərini azaltmaq.
+• Yalnız əsas məhsullara endirimlər təklif etmək.
+√ Yeni qablaşdırma dizaynını hazırlamaq və məhsulun görünüşünü yeniləmək.
+• Malların keyfiyyətini aşağı salmaq.
