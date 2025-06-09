@@ -1,1 +1,1 @@
-java -jar imt-cli.jar
+java -jar bin/imt-cli.jar

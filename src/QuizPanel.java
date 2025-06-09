@@ -64,8 +64,7 @@ public class QuizPanel extends JPanel implements ActionListener {
     show.setFocusable(false);
     show.setFont(f);
 
-    for (int t = 0; t < questions.length; t++) {
-      int i = t;
+    for (int i = 0; i < questions.length; i++) {
       questions[i].number = i + 1;
       questions[i].correctQuestion();
       for (int j = 0; j < 5; j++) {
@@ -90,6 +89,22 @@ public class QuizPanel extends JPanel implements ActionListener {
               questions[s].currentAnswer = d;
               allQ.check[s] = true;
             }
+          }
+        });
+        jb.addActionListener(new ActionListener() {
+          public void actionPerformed(ActionEvent e) {
+            if (allQ.check[s] == true) {
+              questions[s].bg.clearSelection();
+              questions[s].isAnswered = false;
+              questions[s].currentAnswer = -1;
+              allQ.check[s] = false;
+            } else {
+              jb.setSelected(true);
+              questions[s].isAnswered = true;
+              questions[s].currentAnswer = d;
+              allQ.check[s] = true;
+            }
+
           }
         });
 
@@ -170,16 +185,16 @@ public class QuizPanel extends JPanel implements ActionListener {
             allQ.all[i].setBackground(Color.DARK_GRAY);
             questions[i].answers[questions[i].correctAnswer].setBackground(Color.lightGray);
             questions[i].answers[questions[i].correctAnswer].setForeground(Color.black);
-          }else{
+          } else {
             allQ.all[i].setBackground(Color.red);
             questions[i].answers[questions[i].correctAnswer].setBackground(Color.green);
             questions[i].answers[questions[i].correctAnswer].setForeground(Color.black);
             questions[i].answers[questions[i].currentAnswer].setBackground(Color.red);
             questions[i].answers[questions[i].currentAnswer].setForeground(Color.black);
           }
-          
+
         }
-        JOptionPane.showMessageDialog(null,"Doğru cavabların sayı : " + corrrect);
+        JOptionPane.showMessageDialog(null, "Doğru cavabların sayı : " + corrrect);
 
       }
     }

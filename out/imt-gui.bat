@@ -1,1 +1,1 @@
-java -jar imt-gui.jar
+java -jar bin/imt-gui.jar
